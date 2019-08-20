@@ -1,0 +1,5 @@
+commit b81284502280dcd7e9c5e5dc511a5a980960e719
+Author: Jukka Jylänki <jujjyl@gmail.com>
+Date:   Fri Apr 5 10:52:18 2019 +0300
+
+    Enforce dlmalloc to be built with 16 byte alignment
