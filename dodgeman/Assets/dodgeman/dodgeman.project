@@ -1,0 +1,14 @@
+{
+    "Configuration": "e97fcaf99663e004987039cd9b693bee",
+    "MainAsmdef": "7aed7e3c39c170146bf98ac880c42fd7",
+    "DefaultTextureSettings": {
+        "FormatType": 1,
+        "JpgCompressionQuality": 100,
+        "WebPCompressionQuality": 100
+    },
+    "DotNetSettings": {},
+    "WebSettings": {
+        "MemorySizeInMB": 32,
+        "SingleFileOutput": false
+    }
+}

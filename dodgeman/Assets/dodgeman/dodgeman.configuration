@@ -1,0 +1,60 @@
+{
+    "FileType": "Scene",
+    "Guid": "46b433b264c69cbd39f04ad2e5d12be8",
+    "SerializedVersion": 1,
+    "AssetReferences": [],
+    "Entities": [{
+        "Components": [{
+            "$type": "Unity.Entities.EntityGuid, Unity.Entities",
+            "a": 9499697954584218596,
+            "b": 12706027759320453502
+        }, {
+            "$type": "dodgeman.GameConfig, dodgeman",
+            "PlayerScene": {
+                "SceneGuid": "418cf911496647569b4764f579079269"
+            }
+        }, {
+            "$type": "Unity.Tiny.Core2D.DisplayInfo, Unity.Tiny.Core2D",
+            "width": 1280,
+            "height": 720,
+            "autoSizeToFrame": true,
+            "orientation": 0,
+            "renderMode": 0
+        }, {
+            "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
+            "Elements": [{
+                "SceneReference": {
+                    "SceneGuid": "5d5f707210924cd489d339e1814299a5"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "418cf911496647569b4764f579079269"
+                }
+            }]
+        }, {
+            "$type": "Unity.Tiny.Scenes.StartupScenes, Unity.Tiny.Scenes",
+            "Elements": [{
+                "SceneReference": {
+                    "SceneGuid": "5d5f707210924cd489d339e1814299a5"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "418cf911496647569b4764f579079269"
+                }
+            }]
+        }, {
+            "$type": "Unity.Authoring.Core.ComponentOrder, Unity.Authoring.Core",
+            "Elements": [{
+                "StableTypeHash": 7960064150805274675
+            }, {
+                "StableTypeHash": 12662904853204722592
+            }, {
+                "StableTypeHash": 5420375325905335834
+            }, {
+                "StableTypeHash": 10905411966887382884
+            }]
+        }, {
+            "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"
+        }]
+    }]
+}
