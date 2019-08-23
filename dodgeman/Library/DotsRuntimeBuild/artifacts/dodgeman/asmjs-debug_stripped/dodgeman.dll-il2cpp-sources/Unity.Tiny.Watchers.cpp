@@ -756,7 +756,7 @@ IL_0018:
 		List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233 * L_2 = __this->get_watchers_15();
 		int32_t L_3 = V_2;
 		RuntimeObject* L_4 = List_1_get_Item_mF56A569A0D4597115AC61EACC84B9419BA1FD0EB(L_2, L_3);
-		bool L_5 = InterfaceFuncInvoker1< bool, WatchersSystem_t15AC6512283EE8EDCA17A4C86079582892A50356 * >::Invoke(0 /* System.Boolean Unity.Tiny.Watchers.IWatcherValueEntry::OnUpdate(Unity.Tiny.Watchers.WatchersSystem) */, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2564 : 5128), L_4, __this);
+		bool L_5 = InterfaceFuncInvoker1< bool, WatchersSystem_t15AC6512283EE8EDCA17A4C86079582892A50356 * >::Invoke(0 /* System.Boolean Unity.Tiny.Watchers.IWatcherValueEntry::OnUpdate(Unity.Tiny.Watchers.WatchersSystem) */, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2516 : 5032), L_4, __this);
 		V_3 = (bool)((((int32_t)L_5) == ((int32_t)0))? 1 : 0);
 		bool L_6 = V_3;
 		if (!L_6)
@@ -846,7 +846,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void WatchersSystem__ctor_mACAE56A63B94D016AD
 {
 	{
 		// private List<IWatcherValueEntry> watchers = new List<IWatcherValueEntry>();
-		List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233 * L_0 = (List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233 *)il2cpp_codegen_object_new(sizeof(List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2572 : 5144));
+		List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233 * L_0 = (List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233 *)il2cpp_codegen_object_new(sizeof(List_1_tB07E9E1402A776FFCBBD9EF54B61F2E16273E233), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2524 : 5048));
 		List_1__ctor_mE3088C83ABDC028896DA4DC79ECF1D61B6D8AC54(L_0);
 		__this->set_watchers_15(L_0);
 		ComponentSystem__ctor_mC248FF25EA55C4B49B251E08FBDE68FA01D98F1E(__this);

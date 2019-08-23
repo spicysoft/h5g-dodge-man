@@ -8,13 +8,19 @@ namespace dodgeman {
     {
         protected override void OnUpdate()
         {
+            var tinyEnv = World.TinyEnvironment();
+            var config = World.TinyEnvironment().GetConfigData<GameConfig>();
+
+            if (!config.GameStart)
+                return;
             Entities.ForEach((DynamicBuffer<WallsManager> walls) => {
                 for (int i = 0; i < walls.Length; i++)
                 {
                     var wall = EntityManager.GetComponentData<Wall>(walls[i].Reference);
                     var translation = EntityManager.GetComponentData<Translation>(walls[i].Reference);
 
-                    
+
+
 
                     var position = translation.Value;
 
@@ -41,6 +47,8 @@ namespace dodgeman {
                         {
                             translation.Value = wall.Limit;
                         }
+                        config.RandomLimt = position.x;
+                        tinyEnv.SetConfigData(config);
                     }
 
 

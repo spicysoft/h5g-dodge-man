@@ -72,1426 +72,1431 @@ uintptr_t g_Il2CppTinyTypeUniverse[] =
 	18446462594437808131U, 
 	#endif // Unity.Mathematics.float4x4 - id=24
 	0, 0, // System.IEquatable`1<Unity.Mathematics.float4x4> - id=25
-	0, 16908292, 61, 62, 63, 64, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 692 : 1384, 
+	0, 196611, 61, 62, 63, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Mathematics.math/ShuffleComponent - id=26
+	0, 16908292, 64, 65, 66, 67, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 724 : 1448, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Mathematics.int3 - id=26
-	0, 0, // System.IEquatable`1<Unity.Mathematics.int3> - id=27
-	0, 33685509, 65, 66, 67, 68, 69, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 748 : 1496, IL2CPP_SIZEOF_VOID_P == 4 ? 756 : 1512, 
+	#endif // Unity.Mathematics.quaternion - id=27
+	0, 0, // System.IEquatable`1<Unity.Mathematics.quaternion> - id=28
+	0, 16908292, 68, 69, 70, 71, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 772 : 1544, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Mathematics.uint2 - id=29
+	0, 0, // System.IEquatable`1<Unity.Mathematics.uint2> - id=30
+	0, 33685509, 72, 73, 74, 75, 76, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 828 : 1656, IL2CPP_SIZEOF_VOID_P == 4 ? 836 : 1672, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 
 	#else
 	18446462594438135811U, 
-	#endif // System.Int32 - id=28
-	0, 0, // System.IEquatable`1<System.Int32> - id=29
-	0, 0, // System.IComparable`1<System.Int32> - id=30
-	0, 196611, 70, 71, 72, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Mathematics.math/ShuffleComponent - id=31
-	0, 16908292, 73, 74, 75, 76, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 836 : 1672, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Mathematics.quaternion - id=32
-	0, 0, // System.IEquatable`1<Unity.Mathematics.quaternion> - id=33
+	#endif // System.UInt32 - id=31
+	0, 0, // System.IEquatable`1<System.UInt32> - id=32
+	0, 0, // System.IComparable`1<System.UInt32> - id=33
 	0, 16908292, 77, 78, 79, 80, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 884 : 1768, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Mathematics.uint2 - id=34
-	0, 0, // System.IEquatable`1<Unity.Mathematics.uint2> - id=35
-	0, 33685509, 81, 82, 83, 84, 85, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 940 : 1880, IL2CPP_SIZEOF_VOID_P == 4 ? 948 : 1896, 
+	#endif // Unity.Mathematics.uint3 - id=34
+	0, 0, // System.IEquatable`1<Unity.Mathematics.uint3> - id=35
+	0, 16908292, 81, 82, 83, 84, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 932 : 1864, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Mathematics.uint4 - id=36
+	0, 0, // System.IEquatable`1<Unity.Mathematics.uint4> - id=37
+	0, 196611, 85, 86, 87, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Tiny.Codec.Codec - id=38
+	0, 33685509, 88, 89, 90, 91, 92, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1020 : 2040, IL2CPP_SIZEOF_VOID_P == 4 ? 1028 : 2056, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 
 	#else
 	18446462594438135811U, 
-	#endif // System.UInt32 - id=36
-	0, 0, // System.IEquatable`1<System.UInt32> - id=37
-	0, 0, // System.IComparable`1<System.UInt32> - id=38
-	0, 16908292, 86, 87, 88, 89, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 996 : 1992, 
+	#endif // System.Int32 - id=39
+	0, 0, // System.IEquatable`1<System.Int32> - id=40
+	0, 0, // System.IComparable`1<System.Int32> - id=41
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityQueryDesc[] - id=42
+	0, 65539, 93, 94, 95, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.EntityQueryDesc - id=43
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentType[] - id=44
+	0, 16908292, 96, 97, 98, 99, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1132 : 2264, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Mathematics.uint3 - id=39
-	0, 0, // System.IEquatable`1<Unity.Mathematics.uint3> - id=40
-	0, 16908292, 90, 91, 92, 93, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1044 : 2088, 
+	#endif // Unity.Tiny.Scenes.Scene - id=45
+	0, 0, // System.IEquatable`1<Unity.Tiny.Scenes.Scene> - id=46
+	0, 16908291, 100, 101, 102, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1176 : 2352, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Mathematics.uint4 - id=41
-	0, 0, // System.IEquatable`1<Unity.Mathematics.uint4> - id=42
-	0, 196611, 94, 95, 96, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Tiny.Codec.Codec - id=43
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityQueryDesc[] - id=44
-	0, 65539, 97, 98, 99, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.EntityQueryDesc - id=45
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentType[] - id=46
-	0, 16908292, 100, 101, 102, 103, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1180 : 2360, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.Scene - id=47
-	0, 0, // System.IEquatable`1<Unity.Tiny.Scenes.Scene> - id=48
-	0, 16908291, 104, 105, 106, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1224 : 2448, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.SceneInstanceId - id=49
-	0, 0, // Unity.Entities.ISharedComponentData - id=50
-	0, 33685508, 107, 108, 109, 110, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1224 : 2448, IL2CPP_SIZEOF_VOID_P == 4 ? 1276 : 2552, 
+	#endif // Unity.Tiny.Scenes.SceneInstanceId - id=47
+	0, 0, // Unity.Entities.ISharedComponentData - id=48
+	0, 33685508, 103, 104, 105, 106, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1176 : 2352, IL2CPP_SIZEOF_VOID_P == 4 ? 1228 : 2456, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Scenes.SceneGuid - id=51
-	0, 0, // System.IEquatable`1<Unity.Tiny.Scenes.SceneGuid> - id=52
-	0, 0, // System.IDisposable - id=53
-	0, 16842756, 111, 112, 113, 114, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Tiny.Scenes.SceneGuid - id=49
+	0, 0, // System.IEquatable`1<Unity.Tiny.Scenes.SceneGuid> - id=50
+	0, 0, // System.IDisposable - id=51
+	0, 16842756, 107, 108, 109, 110, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.World - id=54
-	0, 65539, 115, 116, 117, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Scenes.SceneStreamingSystem/<>c__DisplayClass6_0 - id=55
-	0, 196612, 118, 119, 120, 121, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_E - id=56
-	0, 131075, 122, 123, 124, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, // System.MulticastDelegate - id=57
-	0, 65539, 125, 126, 127, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Delegate - id=58
-	0, 33619973, 128, 129, 130, 131, 132, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1484 : 2968, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Entities.World - id=52
+	0, 65539, 111, 112, 113, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Scenes.SceneStreamingSystem/<>c__DisplayClass6_0 - id=53
+	0, 196612, 114, 115, 116, 117, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_E - id=54
+	0, 131075, 118, 119, 120, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, // System.MulticastDelegate - id=55
+	0, 65539, 121, 122, 123, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Delegate - id=56
+	0, 33619973, 124, 125, 126, 127, 128, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1436 : 2872, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 
 	#else
 	18446462594438135811U, 
-	#endif // Unity.Entities.Serialization.MemoryBinaryReader - id=59
-	0, 16777216, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Entities.Serialization.MemoryBinaryReader - id=57
+	0, 16777216, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901760, 
 	#else
 	18446462594437808128U, 
-	#endif // Unity.Entities.Serialization.BinaryReader - id=60
-	0, 65539, 133, 134, 135, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.SequencePlayerSystem/<>c__DisplayClass0_0 - id=61
-	0, 16908292, 136, 137, 138, 139, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1564 : 3128, 
+	#endif // Unity.Entities.Serialization.BinaryReader - id=58
+	0, 65539, 129, 130, 131, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.SequencePlayerSystem/<>c__DisplayClass0_0 - id=59
+	0, 16908292, 132, 133, 134, 135, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1516 : 3032, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.Entity - id=62
-	0, 0, // System.IEquatable`1<Unity.Entities.Entity> - id=63
-	0, 16842760, 140, 141, 142, 143, 144, 145, 146, 147, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1624 : 3248, 
+	#endif // Unity.Entities.Entity - id=60
+	0, 0, // System.IEquatable`1<Unity.Entities.Entity> - id=61
+	0, 16842760, 136, 137, 138, 139, 140, 141, 142, 143, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1576 : 3152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.MakeEntrySprite - id=64
-	0, 0, // Unity.Tiny.Core2D.IExternalDisplayListEntryMaker - id=65
-	0, 65539, 148, 149, 150, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.Sprite2DSystem/<>c__DisplayClass8_0 - id=66
-	0, 16842760, 151, 152, 153, 154, 155, 156, 157, 158, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1624 : 3248, 
+	#endif // Unity.Tiny.Core2D.MakeEntrySprite - id=62
+	0, 0, // Unity.Tiny.Core2D.IExternalDisplayListEntryMaker - id=63
+	0, 65539, 144, 145, 146, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.Sprite2DSystem/<>c__DisplayClass8_0 - id=64
+	0, 16842760, 147, 148, 149, 150, 151, 152, 153, 154, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1576 : 3152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.MakeEntryText - id=67
-	0, 65539, 159, 160, 161, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Text.Text2DInitSystem/<>c__DisplayClass2_0 - id=68
-	0, 16908291, 162, 163, 164, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.MakeEntryText - id=65
+	0, 65539, 155, 156, 157, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Text.Text2DInitSystem/<>c__DisplayClass2_0 - id=66
+	0, 16908291, 158, 159, 160, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.Text2DRenderer - id=69
-	0, 0, // Unity.Entities.IComponentData - id=70
-	0, 16908291, 165, 166, 167, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.Text2DRenderer - id=67
+	0, 0, // Unity.Entities.IComponentData - id=68
+	0, 16908291, 161, 162, 163, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.Text2DStyleBitmapFont - id=71
-	0, 33685507, 168, 169, 170, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.Text2DStyleBitmapFont - id=69
+	0, 33685507, 164, 165, 166, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Text.Text2DPrivateBitmap - id=72
-	0, 16777216, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.Text2DPrivateBitmap - id=70
+	0, 16777216, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901760, 
 	#else
 	18446462594437808128U, 
-	#endif // Unity.Entities.ISystemStateComponentData - id=73
-	0, 33685507, 171, 172, 173, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Entities.ISystemStateComponentData - id=71
+	0, 33685507, 167, 168, 169, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Text.Text2DPrivateCacheBitmap - id=74
-	0, 16908291, 174, 175, 176, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Text.Text2DPrivateCacheBitmap - id=72
+	0, 16908291, 170, 171, 172, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.GlyphPrivateBuffer - id=75
-	0, 0, // Unity.Entities.IBufferElementData - id=76
-	0, 16908291, 177, 178, 179, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Text.GlyphPrivateBuffer - id=73
+	0, 0, // Unity.Entities.IBufferElementData - id=74
+	0, 16908291, 173, 174, 175, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.TextPrivateString - id=77
-	0, 65539, 180, 181, 182, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Text.TextBitmapFontSystem/<>c__DisplayClass4_0 - id=78
-	0, 16908291, 183, 184, 185, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.TextPrivateString - id=75
+	0, 65539, 176, 177, 178, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Text.TextBitmapFontSystem/<>c__DisplayClass4_0 - id=76
+	0, 16908291, 179, 180, 181, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.Text2DStyleNativeFont - id=79
-	0, 33685507, 186, 187, 188, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.Text2DStyleNativeFont - id=77
+	0, 33685507, 182, 183, 184, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Text.Text2DPrivateNative - id=80
-	0, 33685507, 189, 190, 191, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Text.Text2DPrivateNative - id=78
+	0, 33685507, 185, 186, 187, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.TextHTML.Text2DPrivateCacheHTML - id=81
-	0, 65539, 192, 193, 194, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.TextHTML.TextNativeFontHtmlSystem/<>c__DisplayClass5_0 - id=82
-	0, 65539, 195, 196, 197, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Tweens.TweenSystem/<>c__DisplayClass17_0 - id=83
-	0, 131075, 198, 199, 200, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.TypeManager/TypeInfo - id=84
-	0, 65539, 201, 202, 203, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.ButtonSystem/<>c__DisplayClass0_0 - id=85
-	0, 131075, 204, 205, 206, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.UIControls.PointerID - id=86
-	0, 65539, 207, 208, 209, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.PointerInteractionSystem/<>c__DisplayClass6_0 - id=87
-	0, 65539, 210, 211, 212, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.PointersActivity - id=88
-	0, 65539, 213, 214, 215, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.PointerControlInteraction - id=89
-	0, 16842756, 216, 217, 218, 219, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 2364 : 4728, 
+	#endif // Unity.Tiny.TextHTML.Text2DPrivateCacheHTML - id=79
+	0, 65539, 188, 189, 190, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.TextHTML.TextNativeFontHtmlSystem/<>c__DisplayClass5_0 - id=80
+	0, 65539, 191, 192, 193, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Tweens.TweenSystem/<>c__DisplayClass17_0 - id=81
+	0, 131075, 194, 195, 196, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.TypeManager/TypeInfo - id=82
+	0, 65539, 197, 198, 199, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.ButtonSystem/<>c__DisplayClass0_0 - id=83
+	0, 131075, 200, 201, 202, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.UIControls.PointerID - id=84
+	0, 65539, 203, 204, 205, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.PointerInteractionSystem/<>c__DisplayClass6_0 - id=85
+	0, 65539, 206, 207, 208, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.PointersActivity - id=86
+	0, 65539, 209, 210, 211, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.PointerControlInteraction - id=87
+	0, 16842756, 212, 213, 214, 215, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 2316 : 4632, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=90
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=91
-	0, 196612, 220, 221, 222, 223, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_EDD`2<Unity.Tiny.UIControls.Toggle,Unity.Tiny.UIControls.PointerInteraction> - id=92
-	0, 65539, 224, 225, 226, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.ToggleCheckedSystem/<>c - id=93
-	0, 65539, 227, 228, 229, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.ToggleSystem/<>c__DisplayClass0_0 - id=94
-	0, 196612, 230, 231, 232, 233, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_D`1<Unity.Tiny.UIControls.PointerInteraction> - id=95
-	0, 65539, 234, 235, 236, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.UIControlsSystem/<>c - id=96
-	0, 65539, 237, 238, 239, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.AddMissingComponents/<>c__DisplayClass0_0 - id=97
-	0, 65539, 240, 241, 242, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass4_0 - id=98
-	0, 0, // Unity.Tiny.Watchers.IWatcherValueEntry - id=99
-	0, 16842756, 243, 244, 245, 246, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 2608 : 5216, 
+	#endif // System.Collections.Generic.List`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=88
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=89
+	0, 196612, 216, 217, 218, 219, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_EDD`2<Unity.Tiny.UIControls.Toggle,Unity.Tiny.UIControls.PointerInteraction> - id=90
+	0, 65539, 220, 221, 222, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.ToggleCheckedSystem/<>c - id=91
+	0, 65539, 223, 224, 225, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.ToggleSystem/<>c__DisplayClass0_0 - id=92
+	0, 196612, 226, 227, 228, 229, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_D`1<Unity.Tiny.UIControls.PointerInteraction> - id=93
+	0, 65539, 230, 231, 232, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UIControls.UIControlsSystem/<>c - id=94
+	0, 65539, 233, 234, 235, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.AddMissingComponents/<>c__DisplayClass0_0 - id=95
+	0, 65539, 236, 237, 238, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass4_0 - id=96
+	0, 0, // Unity.Tiny.Watchers.IWatcherValueEntry - id=97
+	0, 16842756, 239, 240, 241, 242, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 2560 : 5120, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=100
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=101
-	0, 16842759, 247, 248, 249, 250, 251, 252, 253, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 2664 : 5328, 
+	#endif // System.Collections.Generic.List`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=98
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=99
+	0, 16842759, 243, 244, 245, 246, 247, 248, 249, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 2616 : 5232, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.VideoHTMLAssetLoader - id=102
-	0, 0, // Unity.Tiny.Core2D.IGenericAssetLoader`4<Unity.Tiny.Video.VideoClip,Unity.Tiny.HTML.VideoClipLoadingState,Unity.Tiny.Video.VideoClipLoadFromFile,Unity.Tiny.HTML.VideoClipLoading> - id=103
-	0, 65539, 254, 255, 256, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HTML.VideoHTMLSystem/<>c__DisplayClass2_0 - id=104
-	0, 196612, 257, 258, 259, 260, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_ED`1<Unity.Tiny.HTML.VideoClipHTML> - id=105
-	0, 65539, 261, 262, 263, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HTML.VideoHTMLSystem/<>c - id=106
-	0, 65539, 264, 265, 266, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Rendering.RendererGLES2System/<>c__DisplayClass18_0 - id=107
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Int32[] - id=108
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Type[] - id=109
-	0, 16908291, 267, 268, 269, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.HTML.VideoHTMLAssetLoader - id=100
+	0, 0, // Unity.Tiny.Core2D.IGenericAssetLoader`4<Unity.Tiny.Video.VideoClip,Unity.Tiny.HTML.VideoClipLoadingState,Unity.Tiny.Video.VideoClipLoadFromFile,Unity.Tiny.HTML.VideoClipLoading> - id=101
+	0, 65539, 250, 251, 252, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HTML.VideoHTMLSystem/<>c__DisplayClass2_0 - id=102
+	0, 196612, 253, 254, 255, 256, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_ED`1<Unity.Tiny.HTML.VideoClipHTML> - id=103
+	0, 65539, 257, 258, 259, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HTML.VideoHTMLSystem/<>c - id=104
+	0, 65539, 260, 261, 262, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Rendering.RendererGLES2System/<>c__DisplayClass18_0 - id=105
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Int32[] - id=106
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Type[] - id=107
+	0, 16908291, 263, 264, 265, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Transforms.Static - id=110
-	0, 16908291, 270, 271, 272, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Transforms.Static - id=108
+	0, 16908291, 266, 267, 268, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.Disabled - id=111
-	0, 16908291, 273, 274, 275, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Entities.Disabled - id=109
+	0, 16908291, 269, 270, 271, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.Prefab - id=112
-	0, 50462725, 276, 277, 278, 279, 280, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 2976 : 5944, IL2CPP_SIZEOF_VOID_P == 4 ? 2984 : 5960, 
+	#endif // Unity.Entities.Prefab - id=110
+	0, 50462725, 272, 273, 274, 275, 276, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 2928 : 5848, IL2CPP_SIZEOF_VOID_P == 4 ? 2936 : 5864, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 4294901764, 
 	#else
 	18446462615912906755U, 
-	#endif // Unity.Entities.EntityGuid - id=113
-	0, 0, // System.IEquatable`1<Unity.Entities.EntityGuid> - id=114
-	0, 0, // System.IComparable`1<Unity.Entities.EntityGuid> - id=115
-	0, 33685507, 281, 282, 283, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Entities.EntityGuid - id=111
+	0, 0, // System.IEquatable`1<Unity.Entities.EntityGuid> - id=112
+	0, 0, // System.IComparable`1<Unity.Entities.EntityGuid> - id=113
+	0, 33685507, 277, 278, 279, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Entities.ChunkHeader - id=116
-	0, 16908291, 284, 285, 286, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Entities.ChunkHeader - id=114
+	0, 16908291, 280, 281, 282, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.CleanupEntity - id=117
-	0, 16908291, 287, 288, 289, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Entities.CleanupEntity - id=115
+	0, 16908291, 283, 284, 285, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.SceneData - id=118
-	0, 16908291, 290, 291, 292, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Entities.SceneData - id=116
+	0, 16908291, 286, 287, 288, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.RequestSceneLoaded - id=119
-	0, 33685508, 293, 294, 295, 296, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1224 : 2448, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Entities.RequestSceneLoaded - id=117
+	0, 33685508, 289, 290, 291, 292, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1176 : 2352, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Entities.BlobAssetOwner - id=120
-	0, 33685508, 297, 298, 299, 300, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1224 : 2448, IL2CPP_SIZEOF_VOID_P == 4 ? 3228 : 6448, 
+	#endif // Unity.Entities.BlobAssetOwner - id=118
+	0, 33685508, 293, 294, 295, 296, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1176 : 2352, IL2CPP_SIZEOF_VOID_P == 4 ? 3180 : 6352, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Entities.SceneTag - id=121
-	0, 0, // System.IEquatable`1<Unity.Entities.SceneTag> - id=122
-	0, 33685508, 301, 302, 303, 304, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1224 : 2448, IL2CPP_SIZEOF_VOID_P == 4 ? 3280 : 6552, 
+	#endif // Unity.Entities.SceneTag - id=119
+	0, 0, // System.IEquatable`1<Unity.Entities.SceneTag> - id=120
+	0, 33685508, 297, 298, 299, 300, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1176 : 2352, IL2CPP_SIZEOF_VOID_P == 4 ? 3232 : 6456, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Entities.SceneSection - id=123
-	0, 0, // System.IEquatable`1<Unity.Entities.SceneSection> - id=124
-	0, 16908291, 305, 306, 307, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Entities.SceneSection - id=121
+	0, 0, // System.IEquatable`1<Unity.Entities.SceneSection> - id=122
+	0, 16908291, 301, 302, 303, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.LinkedEntityGroup - id=125
-	0, 50462725, 308, 309, 310, 311, 312, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 3380 : 6744, IL2CPP_SIZEOF_VOID_P == 4 ? 3388 : 6760, 
+	#endif // Unity.Entities.LinkedEntityGroup - id=123
+	0, 50462725, 304, 305, 306, 307, 308, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 3332 : 6648, IL2CPP_SIZEOF_VOID_P == 4 ? 3340 : 6664, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 4294901764, 
 	#else
 	18446462615912906755U, 
-	#endif // Unity.Authoring.Core.AssetReference - id=126
-	0, 0, // System.IEquatable`1<Unity.Authoring.Core.AssetReference> - id=127
-	0, 0, // System.IComparable`1<Unity.Authoring.Core.AssetReference> - id=128
-	0, 16908291, 313, 314, 315, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Authoring.Core.AssetReference - id=124
+	0, 0, // System.IEquatable`1<Unity.Authoring.Core.AssetReference> - id=125
+	0, 0, // System.IComparable`1<Unity.Authoring.Core.AssetReference> - id=126
+	0, 16908291, 309, 310, 311, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Authoring.Core.ConfigurationTag - id=129
-	0, 16908291, 316, 317, 318, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Authoring.Core.ConfigurationTag - id=127
+	0, 16908291, 312, 313, 314, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Authoring.Core.SiblingIndex - id=130
-	0, 16908291, 319, 320, 321, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Authoring.Core.SiblingIndex - id=128
+	0, 16908291, 315, 316, 317, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Authoring.Core.ComponentOrder - id=131
-	0, 16908291, 322, 323, 324, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Authoring.Core.ComponentOrder - id=129
+	0, 16908291, 318, 319, 320, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core.EntityName - id=132
-	0, 16908291, 325, 326, 327, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core.EntityName - id=130
+	0, 16908291, 321, 322, 323, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.PointQuery.PointQueryTag - id=133
-	0, 33685507, 328, 329, 330, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.PointQuery.PointQuerySystemTag - id=134
-	0, 16908291, 331, 332, 333, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.PointQuery.QueryResult - id=135
-	0, 16908291, 334, 335, 336, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2DLoadFromFile - id=136
-	0, 16908291, 337, 338, 339, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2DRenderToTexture - id=137
-	0, 16908291, 340, 341, 342, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2D - id=138
-	0, 16908291, 343, 344, 345, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2DAlphaMask - id=139
-	0, 16908291, 346, 347, 348, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2DLoadFromFileImageFile - id=140
-	0, 16908291, 349, 350, 351, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile - id=141
-	0, 16908291, 352, 353, 354, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Image2DAlphaMaskData - id=142
-	0, 33685507, 355, 356, 357, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.PointQuery.PointQueryTag - id=131
+	0, 33685507, 324, 325, 326, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Core2D.RectTransformFinalSize - id=143
-	0, 16908291, 358, 359, 360, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.PointQuery.PointQuerySystemTag - id=132
+	0, 16908291, 327, 328, 329, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioClip - id=144
-	0, 16908291, 361, 362, 363, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.PointQuery.QueryResult - id=133
+	0, 16908291, 330, 331, 332, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioClipLoadFromFile - id=145
-	0, 16908291, 364, 365, 366, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Image2DLoadFromFile - id=134
+	0, 16908291, 333, 334, 335, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioConfig - id=146
-	0, 16908291, 367, 368, 369, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Image2DRenderToTexture - id=135
+	0, 16908291, 336, 337, 338, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioSourceStart - id=147
-	0, 16908291, 370, 371, 372, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Image2D - id=136
+	0, 16908291, 339, 340, 341, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioSourceStop - id=148
-	0, 16908291, 373, 374, 375, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Image2DAlphaMask - id=137
+	0, 16908291, 342, 343, 344, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioSource - id=149
-	0, 16908291, 376, 377, 378, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.Image2DLoadFromFileImageFile - id=138
+	0, 16908291, 345, 346, 347, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile - id=150
-	0, 33685508, 379, 380, 381, 382, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile - id=139
+	0, 16908291, 348, 349, 350, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
+	4294901763, 
 	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.LinearCurveFloat - id=151
-	0, 0, // Unity.Tiny.Interpolation.ICurveComponent - id=152
-	0, 33685508, 383, 384, 385, 386, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.LinearCurveFloat2 - id=153
-	0, 33685508, 387, 388, 389, 390, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Core2D.Image2DAlphaMaskData - id=140
+	0, 33685507, 351, 352, 353, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.LinearCurveFloat3 - id=154
-	0, 33685508, 391, 392, 393, 394, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Core2D.RectTransformFinalSize - id=141
+	0, 16908291, 354, 355, 356, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioClip - id=142
+	0, 16908291, 357, 358, 359, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioClipLoadFromFile - id=143
+	0, 16908291, 360, 361, 362, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioConfig - id=144
+	0, 16908291, 363, 364, 365, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioSourceStart - id=145
+	0, 16908291, 366, 367, 368, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioSourceStop - id=146
+	0, 16908291, 369, 370, 371, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioSource - id=147
+	0, 16908291, 372, 373, 374, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile - id=148
+	0, 33685508, 375, 376, 377, 378, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.LinearCurveQuaternion - id=155
-	0, 33685508, 395, 396, 397, 398, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.LinearCurveFloat - id=149
+	0, 0, // Unity.Tiny.Interpolation.ICurveComponent - id=150
+	0, 33685508, 379, 380, 381, 382, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.LinearCurveColor - id=156
-	0, 33685508, 399, 400, 401, 402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.LinearCurveFloat2 - id=151
+	0, 33685508, 383, 384, 385, 386, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierCurveFloat - id=157
-	0, 33685508, 403, 404, 405, 406, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.LinearCurveFloat3 - id=152
+	0, 33685508, 387, 388, 389, 390, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierCurveFloat2 - id=158
-	0, 33685508, 407, 408, 409, 410, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.LinearCurveQuaternion - id=153
+	0, 33685508, 391, 392, 393, 394, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierCurveFloat3 - id=159
-	0, 33685508, 411, 412, 413, 414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.LinearCurveColor - id=154
+	0, 33685508, 395, 396, 397, 398, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierCurveQuaternion - id=160
-	0, 33685508, 415, 416, 417, 418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.BezierCurveFloat - id=155
+	0, 33685508, 399, 400, 401, 402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.StepCurveFloat - id=161
-	0, 33685508, 419, 420, 421, 422, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.BezierCurveFloat2 - id=156
+	0, 33685508, 403, 404, 405, 406, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.StepCurveFloat2 - id=162
-	0, 33685508, 423, 424, 425, 426, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.BezierCurveFloat3 - id=157
+	0, 33685508, 407, 408, 409, 410, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.StepCurveFloat3 - id=163
-	0, 33685508, 427, 428, 429, 430, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.BezierCurveQuaternion - id=158
+	0, 33685508, 411, 412, 413, 414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.StepCurveQuaternion - id=164
-	0, 33685508, 431, 432, 433, 434, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, IL2CPP_SIZEOF_VOID_P == 4 ? 4240 : 8464, 
+	#endif // Unity.Tiny.Interpolation.StepCurveFloat - id=159
+	0, 33685508, 415, 416, 417, 418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.StepCurveColor - id=165
-	0, 16908291, 435, 436, 437, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Interpolation.CurveTimeLoopMode - id=166
-	0, 33685508, 438, 439, 440, 441, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.StepCurveFloat2 - id=160
+	0, 33685508, 419, 420, 421, 422, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.KeyFloat - id=167
-	0, 0, // Unity.Tiny.Interpolation.IKey - id=168
-	0, 33685508, 442, 443, 444, 445, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.StepCurveFloat3 - id=161
+	0, 33685508, 423, 424, 425, 426, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.KeyFloat2 - id=169
-	0, 33685508, 446, 447, 448, 449, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.StepCurveQuaternion - id=162
+	0, 33685508, 427, 428, 429, 430, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, IL2CPP_SIZEOF_VOID_P == 4 ? 4192 : 8368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.KeyFloat3 - id=170
-	0, 33685508, 450, 451, 452, 453, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.StepCurveColor - id=163
+	0, 16908291, 431, 432, 433, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Interpolation.CurveTimeLoopMode - id=164
+	0, 33685508, 434, 435, 436, 437, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.KeyQuaternion - id=171
-	0, 33685508, 454, 455, 456, 457, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.KeyFloat - id=165
+	0, 0, // Unity.Tiny.Interpolation.IKey - id=166
+	0, 33685508, 438, 439, 440, 441, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.KeyColor - id=172
-	0, 33685508, 458, 459, 460, 461, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.KeyFloat2 - id=167
+	0, 33685508, 442, 443, 444, 445, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierKeyFloat - id=173
-	0, 33685508, 462, 463, 464, 465, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.KeyFloat3 - id=168
+	0, 33685508, 446, 447, 448, 449, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierKeyFloat2 - id=174
-	0, 33685508, 466, 467, 468, 469, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.KeyQuaternion - id=169
+	0, 33685508, 450, 451, 452, 453, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierKeyFloat3 - id=175
-	0, 33685508, 470, 471, 472, 473, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, IL2CPP_SIZEOF_VOID_P == 4 ? 4900 : 9784, 
+	#endif // Unity.Tiny.Interpolation.KeyColor - id=170
+	0, 33685508, 454, 455, 456, 457, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Interpolation.BezierKeyQuaternion - id=176
-	0, 16908291, 474, 475, 476, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.ActiveScene - id=177
-	0, 16908291, 477, 478, 479, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.SceneReference - id=178
-	0, 16908291, 480, 481, 482, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.SceneData - id=179
-	0, 33685507, 483, 484, 485, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Interpolation.BezierKeyFloat - id=171
+	0, 33685508, 458, 459, 460, 461, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Scenes.SceneLoadRequest - id=180
-	0, 16908291, 486, 487, 488, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.EntityReferenceRemap - id=181
-	0, 16908291, 489, 490, 491, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.Scenes - id=182
-	0, 16908291, 492, 493, 494, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.StartupScenes - id=183
-	0, 16908291, 495, 496, 497, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.WorkspaceScenes - id=184
-	0, 16908291, 498, 499, 500, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Camera2D - id=185
-	0, 16908291, 501, 502, 503, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer0 - id=186
-	0, 16908291, 504, 505, 506, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer1 - id=187
-	0, 16908291, 507, 508, 509, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer2 - id=188
-	0, 16908291, 510, 511, 512, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer3 - id=189
-	0, 16908291, 513, 514, 515, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer4 - id=190
-	0, 16908291, 516, 517, 518, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer5 - id=191
-	0, 16908291, 519, 520, 521, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer6 - id=192
-	0, 16908291, 522, 523, 524, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer7 - id=193
-	0, 16908291, 525, 526, 527, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer8 - id=194
-	0, 16908291, 528, 529, 530, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer9 - id=195
-	0, 16908291, 531, 532, 533, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer10 - id=196
-	0, 16908291, 534, 535, 536, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer11 - id=197
-	0, 16908291, 537, 538, 539, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer12 - id=198
-	0, 16908291, 540, 541, 542, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer13 - id=199
-	0, 16908291, 543, 544, 545, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer14 - id=200
-	0, 16908291, 546, 547, 548, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.CameraLayer15 - id=201
-	0, 16908291, 549, 550, 551, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Camera2DRenderToTexture - id=202
-	0, 16908291, 552, 553, 554, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Camera2DAxisSort - id=203
-	0, 16908291, 555, 556, 557, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Camera2DClippingPlanes - id=204
-	0, 16908291, 558, 559, 560, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.DisplayInfo - id=205
-	0, 33685507, 561, 562, 563, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Interpolation.BezierKeyFloat2 - id=172
+	0, 33685508, 462, 463, 464, 465, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Core2D.DisplayListCamera - id=206
-	0, 16908291, 564, 565, 566, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Parent - id=207
-	0, 16908291, 567, 568, 569, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Translation - id=208
-	0, 16908291, 570, 571, 572, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Rotation - id=209
-	0, 16908291, 573, 574, 575, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.NonUniformScale - id=210
-	0, 16908291, 576, 577, 578, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Scale - id=211
-	0, 16908291, 579, 580, 581, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.LocalToParent - id=212
-	0, 16908291, 582, 583, 584, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.LocalToWorld - id=213
-	0, 16908291, 585, 586, 587, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.SortingGroup - id=214
-	0, 16908291, 588, 589, 590, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.TransformStatic - id=215
-	0, 33685507, 591, 592, 593, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Interpolation.BezierKeyFloat3 - id=173
+	0, 33685508, 466, 467, 468, 469, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, IL2CPP_SIZEOF_VOID_P == 4 ? 4852 : 9688, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Core2D.PrivateTransformStatic - id=216
-	0, 33685507, 594, 595, 596, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Interpolation.BezierKeyQuaternion - id=174
+	0, 16908291, 470, 471, 472, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Scenes.ActiveScene - id=175
+	0, 16908291, 473, 474, 475, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Scenes.SceneReference - id=176
+	0, 16908291, 476, 477, 478, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Scenes.SceneData - id=177
+	0, 33685507, 479, 480, 481, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Core2D.PrivateTransformData - id=217
-	0, 16908291, 597, 598, 599, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Scenes.SceneLoadRequest - id=178
+	0, 16908291, 482, 483, 484, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.LayerSorting - id=218
-	0, 16908291, 600, 601, 602, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Scenes.EntityReferenceRemap - id=179
+	0, 16908291, 485, 486, 487, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.DisplayListEntry - id=219
-	0, 16908291, 603, 604, 605, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Scenes.Scenes - id=180
+	0, 16908291, 488, 489, 490, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.SortedEntity - id=220
-	0, 16908291, 606, 607, 608, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Scenes.StartupScenes - id=181
+	0, 16908291, 491, 492, 493, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenComponent - id=221
-	0, 16908291, 609, 610, 611, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Scenes.WorkspaceScenes - id=182
+	0, 16908291, 494, 495, 496, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenInt - id=222
-	0, 16908291, 612, 613, 614, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Camera2D - id=183
+	0, 16908291, 497, 498, 499, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenFloat - id=223
-	0, 16908291, 615, 616, 617, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer0 - id=184
+	0, 16908291, 500, 501, 502, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenFloat2 - id=224
-	0, 16908291, 618, 619, 620, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer1 - id=185
+	0, 16908291, 503, 504, 505, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenFloat3 - id=225
-	0, 16908291, 621, 622, 623, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer2 - id=186
+	0, 16908291, 506, 507, 508, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenFloat4 - id=226
-	0, 16908291, 624, 625, 626, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer3 - id=187
+	0, 16908291, 509, 510, 511, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenQuaternion - id=227
-	0, 16908291, 627, 628, 629, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer4 - id=188
+	0, 16908291, 512, 513, 514, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Tweens.TweenColor - id=228
-	0, 33685507, 630, 631, 632, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.Image2DHTML - id=229
-	0, 33685507, 633, 634, 635, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.Image2DHTMLLoading - id=230
-	0, 16908291, 636, 637, 638, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer5 - id=189
+	0, 16908291, 515, 516, 517, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Shape2DRenderer - id=231
-	0, 16908291, 639, 640, 641, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.CameraLayer6 - id=190
+	0, 16908291, 518, 519, 520, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Shape2DVertex - id=232
-	0, 16908291, 642, 643, 644, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.CameraLayer7 - id=191
+	0, 16908291, 521, 522, 523, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Shape2DIndex - id=233
-	0, 16908291, 645, 646, 647, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer8 - id=192
+	0, 16908291, 524, 525, 526, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2D - id=234
-	0, 33685507, 648, 649, 650, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DPrivate - id=235
-	0, 16908291, 651, 652, 653, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer9 - id=193
+	0, 16908291, 527, 528, 529, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DRenderer - id=236
-	0, 16908291, 654, 655, 656, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer10 - id=194
+	0, 16908291, 530, 531, 532, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DRendererOptions - id=237
-	0, 16908291, 657, 658, 659, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer11 - id=195
+	0, 16908291, 533, 534, 535, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DBorder - id=238
-	0, 16908291, 660, 661, 662, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer12 - id=196
+	0, 16908291, 536, 537, 538, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DSequenceOptions - id=239
-	0, 16908291, 663, 664, 665, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.CameraLayer13 - id=197
+	0, 16908291, 539, 540, 541, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DSequencePlayer - id=240
-	0, 16908291, 666, 667, 668, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.CameraLayer14 - id=198
+	0, 16908291, 542, 543, 544, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.SpriteAtlas - id=241
-	0, 16908291, 669, 670, 671, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.CameraLayer15 - id=199
+	0, 16908291, 545, 546, 547, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Sprite2DSequence - id=242
-	0, 16908291, 672, 673, 674, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Camera2DRenderToTexture - id=200
+	0, 16908291, 548, 549, 550, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.NativeMessage - id=243
-	0, 16908291, 675, 676, 677, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.Camera2DAxisSort - id=201
+	0, 16908291, 551, 552, 553, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.NativeMessageInt - id=244
-	0, 16908291, 678, 679, 680, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.Camera2DClippingPlanes - id=202
+	0, 16908291, 554, 555, 556, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.NativeMessageFloat - id=245
-	0, 16908291, 681, 682, 683, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.NativeMessageByte - id=246
-	0, 16908291, 684, 685, 686, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.UILayout.RectTransform - id=247
-	0, 16908291, 687, 688, 689, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.UILayout.UICanvas - id=248
-	0, 16908291, 690, 691, 692, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.ParticleVelocity - id=249
-	0, 16908291, 693, 694, 695, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.ParticleAngularVelocity - id=250
-	0, 16908291, 696, 697, 698, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.ParticleLifetimeColor - id=251
-	0, 16908291, 699, 700, 701, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.ParticleLifetimeScale - id=252
-	0, 16908291, 702, 703, 704, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.BurstEmissionInternal - id=253
-	0, 33685507, 705, 706, 707, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.DisplayInfo - id=203
+	0, 33685507, 557, 558, 559, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.Particles.ParticleEmitterInternal - id=254
-	0, 16908291, 708, 709, 710, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.DisplayListCamera - id=204
+	0, 16908291, 560, 561, 562, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.ParticleEmitterReference - id=255
-	0, 16908291, 711, 712, 713, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Parent - id=205
+	0, 16908291, 563, 564, 565, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.Particle - id=256
-	0, 16908291, 714, 715, 716, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Translation - id=206
+	0, 16908291, 566, 567, 568, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.ParticleEmitter - id=257
-	0, 16908291, 717, 718, 719, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Rotation - id=207
+	0, 16908291, 569, 570, 571, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterBoxSource - id=258
-	0, 16908291, 720, 721, 722, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.NonUniformScale - id=208
+	0, 16908291, 572, 573, 574, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterConeSource - id=259
-	0, 16908291, 723, 724, 725, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Scale - id=209
+	0, 16908291, 575, 576, 577, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterCircleSource - id=260
-	0, 16908291, 726, 727, 728, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.LocalToParent - id=210
+	0, 16908291, 578, 579, 580, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterInitialScale - id=261
-	0, 16908291, 729, 730, 731, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.LocalToWorld - id=211
+	0, 16908291, 581, 582, 583, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterInitialVelocity - id=262
-	0, 16908291, 732, 733, 734, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.SortingGroup - id=212
+	0, 16908291, 584, 585, 586, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterInitialRotation - id=263
-	0, 16908291, 735, 736, 737, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterInitialAngularVelocity - id=264
-	0, 16908291, 738, 739, 740, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.EmitterInitialColor - id=265
-	0, 16908291, 741, 742, 743, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.LifetimeColor - id=266
-	0, 16908291, 744, 745, 746, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.LifetimeScale - id=267
-	0, 16908291, 747, 748, 749, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.LifetimeAngularVelocity - id=268
-	0, 16908291, 750, 751, 752, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.LifetimeVelocity - id=269
-	0, 16908291, 753, 754, 755, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.LifetimeSpeedMultiplier - id=270
-	0, 16908291, 756, 757, 758, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Particles.BurstEmission - id=271
-	0, 16908291, 759, 760, 761, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.HitBox2D.RectHitBox2D - id=272
-	0, 16908291, 762, 763, 764, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.HitBox2D.Sprite2DRendererHitBox2D - id=273
-	0, 16908291, 765, 766, 767, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.HitBox2D.HitTestResult - id=274
-	0, 16908291, 768, 769, 770, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.HitBox2D.RayCastResult - id=275
-	0, 16908291, 771, 772, 773, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.HitBox2D.HitBoxOverlap - id=276
-	0, 33685507, 774, 775, 776, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.TransformStatic - id=213
+	0, 33685507, 587, 588, 589, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.AudioHTMLClip - id=277
-	0, 33685507, 777, 778, 779, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.PrivateTransformStatic - id=214
+	0, 33685507, 590, 591, 592, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.AudioHTMLLoading - id=278
-	0, 16908291, 780, 781, 782, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.PrivateTransformData - id=215
+	0, 16908291, 593, 594, 595, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.AudioHTMLSource - id=279
-	0, 16908291, 783, 784, 785, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.LayerSorting - id=216
+	0, 16908291, 596, 597, 598, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Video.VideoClipLoadFromFile - id=280
-	0, 16908291, 786, 787, 788, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.DisplayListEntry - id=217
+	0, 16908291, 599, 600, 601, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Video.VideoClip - id=281
-	0, 16908291, 789, 790, 791, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.SortedEntity - id=218
+	0, 16908291, 602, 603, 604, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Video.VideoPlayer - id=282
-	0, 16908291, 792, 793, 794, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenComponent - id=219
+	0, 16908291, 605, 606, 607, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Video.VideoPlayerAutoDeleteOnEnd - id=283
-	0, 16908291, 795, 796, 797, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Tweens.TweenInt - id=220
+	0, 16908291, 608, 609, 610, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Video.VideoClipLoadFromFileName - id=284
-	0, 16908291, 798, 799, 800, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenFloat - id=221
+	0, 16908291, 611, 612, 613, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.PointerInteraction - id=285
-	0, 16908291, 801, 802, 803, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenFloat2 - id=222
+	0, 16908291, 614, 615, 616, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.Button - id=286
-	0, 16908291, 804, 805, 806, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenFloat3 - id=223
+	0, 16908291, 617, 618, 619, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.Toggle - id=287
-	0, 16908291, 807, 808, 809, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenFloat4 - id=224
+	0, 16908291, 620, 621, 622, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.SpriteTransition - id=288
-	0, 16908291, 810, 811, 812, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenQuaternion - id=225
+	0, 16908291, 623, 624, 625, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.ColorTintTransition - id=289
-	0, 16908291, 813, 814, 815, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.InactiveUIControl - id=290
-	0, 16908291, 816, 817, 818, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.UIControls.InitialColor - id=291
-	0, 16908291, 819, 820, 821, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.BitmapFont - id=292
-	0, 16908291, 822, 823, 824, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.NativeFont - id=293
-	0, 16908291, 825, 826, 827, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.Text2DStyle - id=294
-	0, 16908291, 828, 829, 830, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.Text2DAutoFit - id=295
-	0, 16908291, 831, 832, 833, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.CharacterInfoBuffer - id=296
-	0, 16908291, 834, 835, 836, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.TextString - id=297
-	0, 16908291, 837, 838, 839, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	4294901763, 
-	#else
-	18446462594437808131U, 
-	#endif // Unity.Tiny.Text.TextPrivateFontName - id=298
-	0, 33685507, 840, 841, 842, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Tweens.TweenColor - id=226
+	0, 33685507, 626, 627, 628, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.VideoClipLoading - id=299
-	0, 33685507, 843, 844, 845, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.HTML.Image2DHTML - id=227
+	0, 33685507, 629, 630, 631, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	196611, 
 	#else
 	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.VideoClipLoadingState - id=300
-	0, 33685507, 846, 847, 848, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.HTML.VideoClipHTML - id=301
-	0, 33685507, 849, 850, 851, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Rendering.Image2DGLES2 - id=302
-	0, 33685507, 852, 853, 854, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Rendering.Image2DRenderToTextureHTML - id=303
-	0, 33685507, 855, 856, 857, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Rendering.Sprite2DRendererHTML - id=304
-	0, 33685507, 858, 859, 860, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Rendering.TileHTML - id=305
-	0, 33685507, 861, 862, 863, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1852 : 3704, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	196611, 
-	#else
-	18446462594438070275U, 
-	#endif // Unity.Tiny.Rendering.TintedGlyphIndex - id=306
-	0, 16908291, 864, 865, 866, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.HTML.Image2DHTMLLoading - id=228
+	0, 16908291, 632, 633, 634, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Rendering.TintedGlyphHTML - id=307
-	0, 16908291, 867, 868, 869, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	#endif // Unity.Tiny.Core2D.Shape2DRenderer - id=229
+	0, 16908291, 635, 636, 637, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Rendering.TextBitmapHTML - id=308
-	0, 16908291, 870, 871, 872, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Shape2DVertex - id=230
+	0, 16908291, 638, 639, 640, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Object - id=309
-	0, 16908291, 873, 874, 875, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Shape2DIndex - id=231
+	0, 16908291, 641, 642, 643, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Player - id=310
-	0, 16908291, 876, 877, 878, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Sprite2D - id=232
+	0, 33685507, 644, 645, 646, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Core2D.Sprite2DPrivate - id=233
+	0, 16908291, 647, 648, 649, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // dodgeman.Button - id=311
-	0, 16908291, 879, 880, 881, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Sprite2DRenderer - id=234
+	0, 16908291, 650, 651, 652, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // dodgeman.GameConfig - id=312
-	0, 16908291, 882, 883, 884, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536, 
+	#endif // Unity.Tiny.Core2D.Sprite2DRendererOptions - id=235
+	0, 16908291, 653, 654, 655, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Core2D.Sprite2DBorder - id=236
+	0, 16908291, 656, 657, 658, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Core2D.Sprite2DSequenceOptions - id=237
+	0, 16908291, 659, 660, 661, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Core2D.Sprite2DSequencePlayer - id=238
+	0, 16908291, 662, 663, 664, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Core2D.SpriteAtlas - id=239
+	0, 16908291, 665, 666, 667, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Core2D.Sprite2DSequence - id=240
+	0, 16908291, 668, 669, 670, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HTML.NativeMessage - id=241
+	0, 16908291, 671, 672, 673, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HTML.NativeMessageInt - id=242
+	0, 16908291, 674, 675, 676, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HTML.NativeMessageFloat - id=243
+	0, 16908291, 677, 678, 679, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HTML.NativeMessageByte - id=244
+	0, 16908291, 680, 681, 682, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UILayout.RectTransform - id=245
+	0, 16908291, 683, 684, 685, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UILayout.UICanvas - id=246
+	0, 16908291, 686, 687, 688, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.ParticleVelocity - id=247
+	0, 16908291, 689, 690, 691, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.ParticleAngularVelocity - id=248
+	0, 16908291, 692, 693, 694, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.ParticleLifetimeColor - id=249
+	0, 16908291, 695, 696, 697, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.ParticleLifetimeScale - id=250
+	0, 16908291, 698, 699, 700, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.BurstEmissionInternal - id=251
+	0, 33685507, 701, 702, 703, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Particles.ParticleEmitterInternal - id=252
+	0, 16908291, 704, 705, 706, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.ParticleEmitterReference - id=253
+	0, 16908291, 707, 708, 709, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.Particle - id=254
+	0, 16908291, 710, 711, 712, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.ParticleEmitter - id=255
+	0, 16908291, 713, 714, 715, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterBoxSource - id=256
+	0, 16908291, 716, 717, 718, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterConeSource - id=257
+	0, 16908291, 719, 720, 721, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterCircleSource - id=258
+	0, 16908291, 722, 723, 724, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterInitialScale - id=259
+	0, 16908291, 725, 726, 727, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterInitialVelocity - id=260
+	0, 16908291, 728, 729, 730, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterInitialRotation - id=261
+	0, 16908291, 731, 732, 733, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterInitialAngularVelocity - id=262
+	0, 16908291, 734, 735, 736, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.EmitterInitialColor - id=263
+	0, 16908291, 737, 738, 739, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.LifetimeColor - id=264
+	0, 16908291, 740, 741, 742, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.LifetimeScale - id=265
+	0, 16908291, 743, 744, 745, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.LifetimeAngularVelocity - id=266
+	0, 16908291, 746, 747, 748, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.LifetimeVelocity - id=267
+	0, 16908291, 749, 750, 751, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.LifetimeSpeedMultiplier - id=268
+	0, 16908291, 752, 753, 754, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Particles.BurstEmission - id=269
+	0, 16908291, 755, 756, 757, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HitBox2D.RectHitBox2D - id=270
+	0, 16908291, 758, 759, 760, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HitBox2D.Sprite2DRendererHitBox2D - id=271
+	0, 16908291, 761, 762, 763, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HitBox2D.HitTestResult - id=272
+	0, 16908291, 764, 765, 766, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HitBox2D.RayCastResult - id=273
+	0, 16908291, 767, 768, 769, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HitBox2D.HitBoxOverlap - id=274
+	0, 33685507, 770, 771, 772, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.HTML.AudioHTMLClip - id=275
+	0, 33685507, 773, 774, 775, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.HTML.AudioHTMLLoading - id=276
+	0, 16908291, 776, 777, 778, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.HTML.AudioHTMLSource - id=277
+	0, 16908291, 779, 780, 781, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Video.VideoClipLoadFromFile - id=278
+	0, 16908291, 782, 783, 784, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Video.VideoClip - id=279
+	0, 16908291, 785, 786, 787, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Video.VideoPlayer - id=280
+	0, 16908291, 788, 789, 790, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Video.VideoPlayerAutoDeleteOnEnd - id=281
+	0, 16908291, 791, 792, 793, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Video.VideoClipLoadFromFileName - id=282
+	0, 16908291, 794, 795, 796, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.PointerInteraction - id=283
+	0, 16908291, 797, 798, 799, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.Button - id=284
+	0, 16908291, 800, 801, 802, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.Toggle - id=285
+	0, 16908291, 803, 804, 805, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.SpriteTransition - id=286
+	0, 16908291, 806, 807, 808, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.ColorTintTransition - id=287
+	0, 16908291, 809, 810, 811, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.InactiveUIControl - id=288
+	0, 16908291, 812, 813, 814, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.UIControls.InitialColor - id=289
+	0, 16908291, 815, 816, 817, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.BitmapFont - id=290
+	0, 16908291, 818, 819, 820, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.NativeFont - id=291
+	0, 16908291, 821, 822, 823, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.Text2DStyle - id=292
+	0, 16908291, 824, 825, 826, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.Text2DAutoFit - id=293
+	0, 16908291, 827, 828, 829, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.CharacterInfoBuffer - id=294
+	0, 16908291, 830, 831, 832, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.TextString - id=295
+	0, 16908291, 833, 834, 835, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Text.TextPrivateFontName - id=296
+	0, 33685507, 836, 837, 838, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.HTML.VideoClipLoading - id=297
+	0, 33685507, 839, 840, 841, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.HTML.VideoClipLoadingState - id=298
+	0, 33685507, 842, 843, 844, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.HTML.VideoClipHTML - id=299
+	0, 33685507, 845, 846, 847, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Rendering.Image2DGLES2 - id=300
+	0, 33685507, 848, 849, 850, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Rendering.Image2DRenderToTextureHTML - id=301
+	0, 33685507, 851, 852, 853, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Rendering.Sprite2DRendererHTML - id=302
+	0, 33685507, 854, 855, 856, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Rendering.TileHTML - id=303
+	0, 33685507, 857, 858, 859, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1804 : 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	196611, 
+	#else
+	18446462594438070275U, 
+	#endif // Unity.Tiny.Rendering.TintedGlyphIndex - id=304
+	0, 16908291, 860, 861, 862, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Rendering.TintedGlyphHTML - id=305
+	0, 16908291, 863, 864, 865, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Unity.Tiny.Rendering.TextBitmapHTML - id=306
+	0, 16908291, 866, 867, 868, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Object - id=307
+	0, 16908291, 869, 870, 871, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // Player - id=308
+	0, 16908291, 872, 873, 874, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // dodgeman.Button - id=309
+	0, 16908291, 875, 876, 877, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // dodgeman.GameConfig - id=310
+	0, 16908291, 878, 879, 880, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // dodgeman.ScoreManager - id=311
+	0, 16908291, 881, 882, 883, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	4294901763, 
+	#else
+	18446462594437808131U, 
+	#endif // dodgeman.StartButton - id=312
+	0, 16908291, 884, 885, 886, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
 	#endif // dodgeman.Wall - id=313
-	0, 16908291, 885, 886, 887, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	0, 16908291, 887, 888, 889, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
 	#endif // dodgeman.ObjectsManager - id=314
-	0, 16908291, 888, 889, 890, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1944 : 3888, 
+	0, 16908291, 890, 891, 892, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1896 : 3792, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
@@ -1499,3387 +1504,3397 @@ uintptr_t g_Il2CppTinyTypeUniverse[] =
 	#endif // dodgeman.WallsManager - id=315
 	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.String[] - id=316
 	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.TypeManager/TypeInfo[] - id=317
-	0, 196612, 891, 892, 893, 894, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.Entity> - id=318
-	0, 196612, 895, 896, 897, 898, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.Entity> - id=319
-	0, 196612, 899, 900, 901, 902, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Transforms.Static> - id=320
-	0, 196612, 903, 904, 905, 906, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Transforms.Static> - id=321
-	0, 196612, 907, 908, 909, 910, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.Disabled> - id=322
-	0, 196612, 911, 912, 913, 914, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.Disabled> - id=323
-	0, 196612, 915, 916, 917, 918, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.Prefab> - id=324
-	0, 196612, 919, 920, 921, 922, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.Prefab> - id=325
-	0, 196612, 923, 924, 925, 926, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.EntityGuid> - id=326
-	0, 196612, 927, 928, 929, 930, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.EntityGuid> - id=327
-	0, 196612, 931, 932, 933, 934, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.ChunkHeader> - id=328
-	0, 196612, 935, 936, 937, 938, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.ChunkHeader> - id=329
-	0, 196612, 939, 940, 941, 942, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.CleanupEntity> - id=330
-	0, 196612, 943, 944, 945, 946, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.CleanupEntity> - id=331
-	0, 196612, 947, 948, 949, 950, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.SceneData> - id=332
-	0, 196612, 951, 952, 953, 954, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.SceneData> - id=333
-	0, 196612, 955, 956, 957, 958, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.RequestSceneLoaded> - id=334
-	0, 196612, 959, 960, 961, 962, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.RequestSceneLoaded> - id=335
-	0, 196612, 963, 964, 965, 966, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.BlobAssetOwner> - id=336
-	0, 196612, 967, 968, 969, 970, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.BlobAssetOwner> - id=337
-	0, 196612, 971, 972, 973, 974, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.SceneTag> - id=338
-	0, 196612, 975, 976, 977, 978, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.SceneTag> - id=339
-	0, 196612, 979, 980, 981, 982, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.SceneSection> - id=340
-	0, 196612, 983, 984, 985, 986, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.SceneSection> - id=341
-	0, 196612, 987, 988, 989, 990, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.LinkedEntityGroup> - id=342
-	0, 196612, 991, 992, 993, 994, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.LinkedEntityGroup> - id=343
-	0, 196612, 995, 996, 997, 998, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.AssetReference> - id=344
-	0, 196612, 999, 1000, 1001, 1002, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.AssetReference> - id=345
-	0, 196612, 1003, 1004, 1005, 1006, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.ConfigurationTag> - id=346
-	0, 196612, 1007, 1008, 1009, 1010, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.ConfigurationTag> - id=347
-	0, 196612, 1011, 1012, 1013, 1014, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.SiblingIndex> - id=348
-	0, 196612, 1015, 1016, 1017, 1018, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.SiblingIndex> - id=349
-	0, 196612, 1019, 1020, 1021, 1022, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.ComponentOrder> - id=350
-	0, 196612, 1023, 1024, 1025, 1026, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.ComponentOrder> - id=351
-	0, 196612, 1027, 1028, 1029, 1030, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core.EntityName> - id=352
-	0, 196612, 1031, 1032, 1033, 1034, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core.EntityName> - id=353
-	0, 196612, 1035, 1036, 1037, 1038, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.PointQuery.PointQueryTag> - id=354
-	0, 196612, 1039, 1040, 1041, 1042, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.PointQuery.PointQueryTag> - id=355
-	0, 196612, 1043, 1044, 1045, 1046, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=356
-	0, 196612, 1047, 1048, 1049, 1050, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=357
-	0, 196612, 1051, 1052, 1053, 1054, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.PointQuery.QueryResult> - id=358
-	0, 196612, 1055, 1056, 1057, 1058, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.PointQuery.QueryResult> - id=359
-	0, 196612, 1059, 1060, 1061, 1062, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=360
-	0, 196612, 1063, 1064, 1065, 1066, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=361
-	0, 196612, 1067, 1068, 1069, 1070, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DRenderToTexture> - id=362
-	0, 196612, 1071, 1072, 1073, 1074, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DRenderToTexture> - id=363
-	0, 196612, 1075, 1076, 1077, 1078, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2D> - id=364
-	0, 196612, 1079, 1080, 1081, 1082, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2D> - id=365
-	0, 196612, 1083, 1084, 1085, 1086, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DAlphaMask> - id=366
-	0, 196612, 1087, 1088, 1089, 1090, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DAlphaMask> - id=367
-	0, 196612, 1091, 1092, 1093, 1094, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=368
-	0, 196612, 1095, 1096, 1097, 1098, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=369
-	0, 196612, 1099, 1100, 1101, 1102, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=370
-	0, 196612, 1103, 1104, 1105, 1106, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=371
-	0, 196612, 1107, 1108, 1109, 1110, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=372
-	0, 196612, 1111, 1112, 1113, 1114, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=373
-	0, 196612, 1115, 1116, 1117, 1118, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.RectTransformFinalSize> - id=374
-	0, 196612, 1119, 1120, 1121, 1122, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.RectTransformFinalSize> - id=375
-	0, 196612, 1123, 1124, 1125, 1126, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioClip> - id=376
-	0, 196612, 1127, 1128, 1129, 1130, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioClip> - id=377
-	0, 196612, 1131, 1132, 1133, 1134, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=378
-	0, 196612, 1135, 1136, 1137, 1138, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=379
-	0, 196612, 1139, 1140, 1141, 1142, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioConfig> - id=380
-	0, 196612, 1143, 1144, 1145, 1146, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioConfig> - id=381
-	0, 196612, 1147, 1148, 1149, 1150, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioSourceStart> - id=382
-	0, 196612, 1151, 1152, 1153, 1154, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioSourceStart> - id=383
-	0, 196612, 1155, 1156, 1157, 1158, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioSourceStop> - id=384
-	0, 196612, 1159, 1160, 1161, 1162, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioSourceStop> - id=385
-	0, 196612, 1163, 1164, 1165, 1166, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioSource> - id=386
-	0, 196612, 1167, 1168, 1169, 1170, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioSource> - id=387
-	0, 196612, 1171, 1172, 1173, 1174, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=388
-	0, 196612, 1175, 1176, 1177, 1178, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=389
-	0, 196612, 1179, 1180, 1181, 1182, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveFloat> - id=390
-	0, 196612, 1183, 1184, 1185, 1186, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveFloat> - id=391
-	0, 196612, 1187, 1188, 1189, 1190, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveFloat2> - id=392
-	0, 196612, 1191, 1192, 1193, 1194, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveFloat2> - id=393
-	0, 196612, 1195, 1196, 1197, 1198, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveFloat3> - id=394
-	0, 196612, 1199, 1200, 1201, 1202, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveFloat3> - id=395
-	0, 196612, 1203, 1204, 1205, 1206, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveQuaternion> - id=396
-	0, 196612, 1207, 1208, 1209, 1210, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveQuaternion> - id=397
-	0, 196612, 1211, 1212, 1213, 1214, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveColor> - id=398
-	0, 196612, 1215, 1216, 1217, 1218, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveColor> - id=399
-	0, 196612, 1219, 1220, 1221, 1222, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveFloat> - id=400
-	0, 196612, 1223, 1224, 1225, 1226, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveFloat> - id=401
-	0, 196612, 1227, 1228, 1229, 1230, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveFloat2> - id=402
-	0, 196612, 1231, 1232, 1233, 1234, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveFloat2> - id=403
-	0, 196612, 1235, 1236, 1237, 1238, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveFloat3> - id=404
-	0, 196612, 1239, 1240, 1241, 1242, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveFloat3> - id=405
-	0, 196612, 1243, 1244, 1245, 1246, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveQuaternion> - id=406
-	0, 196612, 1247, 1248, 1249, 1250, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveQuaternion> - id=407
-	0, 196612, 1251, 1252, 1253, 1254, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveFloat> - id=408
-	0, 196612, 1255, 1256, 1257, 1258, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveFloat> - id=409
-	0, 196612, 1259, 1260, 1261, 1262, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveFloat2> - id=410
-	0, 196612, 1263, 1264, 1265, 1266, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveFloat2> - id=411
-	0, 196612, 1267, 1268, 1269, 1270, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveFloat3> - id=412
-	0, 196612, 1271, 1272, 1273, 1274, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveFloat3> - id=413
-	0, 196612, 1275, 1276, 1277, 1278, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveQuaternion> - id=414
-	0, 196612, 1279, 1280, 1281, 1282, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveQuaternion> - id=415
-	0, 196612, 1283, 1284, 1285, 1286, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveColor> - id=416
-	0, 196612, 1287, 1288, 1289, 1290, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveColor> - id=417
-	0, 196612, 1291, 1292, 1293, 1294, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.CurveTimeLoopMode> - id=418
-	0, 196612, 1295, 1296, 1297, 1298, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.CurveTimeLoopMode> - id=419
-	0, 196612, 1299, 1300, 1301, 1302, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyFloat> - id=420
-	0, 196612, 1303, 1304, 1305, 1306, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyFloat> - id=421
-	0, 196612, 1307, 1308, 1309, 1310, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyFloat2> - id=422
-	0, 196612, 1311, 1312, 1313, 1314, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyFloat2> - id=423
-	0, 196612, 1315, 1316, 1317, 1318, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyFloat3> - id=424
-	0, 196612, 1319, 1320, 1321, 1322, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyFloat3> - id=425
-	0, 196612, 1323, 1324, 1325, 1326, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyQuaternion> - id=426
-	0, 196612, 1327, 1328, 1329, 1330, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyQuaternion> - id=427
-	0, 196612, 1331, 1332, 1333, 1334, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyColor> - id=428
-	0, 196612, 1335, 1336, 1337, 1338, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyColor> - id=429
-	0, 196612, 1339, 1340, 1341, 1342, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyFloat> - id=430
-	0, 196612, 1343, 1344, 1345, 1346, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyFloat> - id=431
-	0, 196612, 1347, 1348, 1349, 1350, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyFloat2> - id=432
-	0, 196612, 1351, 1352, 1353, 1354, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyFloat2> - id=433
-	0, 196612, 1355, 1356, 1357, 1358, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=434
-	0, 196612, 1359, 1360, 1361, 1362, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=435
-	0, 196612, 1363, 1364, 1365, 1366, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyQuaternion> - id=436
-	0, 196612, 1367, 1368, 1369, 1370, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyQuaternion> - id=437
-	0, 196612, 1371, 1372, 1373, 1374, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.ActiveScene> - id=438
-	0, 196612, 1375, 1376, 1377, 1378, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.ActiveScene> - id=439
-	0, 196612, 1379, 1380, 1381, 1382, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneReference> - id=440
-	0, 196612, 1383, 1384, 1385, 1386, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneReference> - id=441
-	0, 196612, 1387, 1388, 1389, 1390, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneData> - id=442
-	0, 196612, 1391, 1392, 1393, 1394, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneData> - id=443
-	0, 196612, 1395, 1396, 1397, 1398, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneLoadRequest> - id=444
-	0, 196612, 1399, 1400, 1401, 1402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneLoadRequest> - id=445
-	0, 196612, 1403, 1404, 1405, 1406, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneGuid> - id=446
-	0, 196612, 1407, 1408, 1409, 1410, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneGuid> - id=447
-	0, 196612, 1411, 1412, 1413, 1414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneInstanceId> - id=448
-	0, 196612, 1415, 1416, 1417, 1418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneInstanceId> - id=449
-	0, 196612, 1419, 1420, 1421, 1422, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.EntityReferenceRemap> - id=450
-	0, 196612, 1423, 1424, 1425, 1426, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.EntityReferenceRemap> - id=451
-	0, 196612, 1427, 1428, 1429, 1430, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.Scenes> - id=452
-	0, 196612, 1431, 1432, 1433, 1434, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.Scenes> - id=453
-	0, 196612, 1435, 1436, 1437, 1438, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.StartupScenes> - id=454
-	0, 196612, 1439, 1440, 1441, 1442, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.StartupScenes> - id=455
-	0, 196612, 1443, 1444, 1445, 1446, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.WorkspaceScenes> - id=456
-	0, 196612, 1447, 1448, 1449, 1450, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.WorkspaceScenes> - id=457
-	0, 196612, 1451, 1452, 1453, 1454, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2D> - id=458
-	0, 196612, 1455, 1456, 1457, 1458, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2D> - id=459
-	0, 196612, 1459, 1460, 1461, 1462, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer0> - id=460
-	0, 196612, 1463, 1464, 1465, 1466, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer0> - id=461
-	0, 196612, 1467, 1468, 1469, 1470, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer1> - id=462
-	0, 196612, 1471, 1472, 1473, 1474, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer1> - id=463
-	0, 196612, 1475, 1476, 1477, 1478, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer2> - id=464
-	0, 196612, 1479, 1480, 1481, 1482, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer2> - id=465
-	0, 196612, 1483, 1484, 1485, 1486, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer3> - id=466
-	0, 196612, 1487, 1488, 1489, 1490, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer3> - id=467
-	0, 196612, 1491, 1492, 1493, 1494, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer4> - id=468
-	0, 196612, 1495, 1496, 1497, 1498, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer4> - id=469
-	0, 196612, 1499, 1500, 1501, 1502, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer5> - id=470
-	0, 196612, 1503, 1504, 1505, 1506, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer5> - id=471
-	0, 196612, 1507, 1508, 1509, 1510, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer6> - id=472
-	0, 196612, 1511, 1512, 1513, 1514, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer6> - id=473
-	0, 196612, 1515, 1516, 1517, 1518, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer7> - id=474
-	0, 196612, 1519, 1520, 1521, 1522, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer7> - id=475
-	0, 196612, 1523, 1524, 1525, 1526, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer8> - id=476
-	0, 196612, 1527, 1528, 1529, 1530, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer8> - id=477
-	0, 196612, 1531, 1532, 1533, 1534, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer9> - id=478
-	0, 196612, 1535, 1536, 1537, 1538, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer9> - id=479
-	0, 196612, 1539, 1540, 1541, 1542, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer10> - id=480
-	0, 196612, 1543, 1544, 1545, 1546, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer10> - id=481
-	0, 196612, 1547, 1548, 1549, 1550, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer11> - id=482
-	0, 196612, 1551, 1552, 1553, 1554, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer11> - id=483
-	0, 196612, 1555, 1556, 1557, 1558, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer12> - id=484
-	0, 196612, 1559, 1560, 1561, 1562, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer12> - id=485
-	0, 196612, 1563, 1564, 1565, 1566, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer13> - id=486
-	0, 196612, 1567, 1568, 1569, 1570, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer13> - id=487
-	0, 196612, 1571, 1572, 1573, 1574, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer14> - id=488
-	0, 196612, 1575, 1576, 1577, 1578, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer14> - id=489
-	0, 196612, 1579, 1580, 1581, 1582, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer15> - id=490
-	0, 196612, 1583, 1584, 1585, 1586, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer15> - id=491
-	0, 196612, 1587, 1588, 1589, 1590, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2DRenderToTexture> - id=492
-	0, 196612, 1591, 1592, 1593, 1594, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2DRenderToTexture> - id=493
-	0, 196612, 1595, 1596, 1597, 1598, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2DAxisSort> - id=494
-	0, 196612, 1599, 1600, 1601, 1602, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2DAxisSort> - id=495
-	0, 196612, 1603, 1604, 1605, 1606, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2DClippingPlanes> - id=496
-	0, 196612, 1607, 1608, 1609, 1610, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2DClippingPlanes> - id=497
-	0, 196612, 1611, 1612, 1613, 1614, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.DisplayInfo> - id=498
-	0, 196612, 1615, 1616, 1617, 1618, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.DisplayInfo> - id=499
-	0, 196612, 1619, 1620, 1621, 1622, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.DisplayListCamera> - id=500
-	0, 196612, 1623, 1624, 1625, 1626, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.DisplayListCamera> - id=501
-	0, 196612, 1627, 1628, 1629, 1630, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Parent> - id=502
-	0, 196612, 1631, 1632, 1633, 1634, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Parent> - id=503
-	0, 196612, 1635, 1636, 1637, 1638, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Translation> - id=504
-	0, 196612, 1639, 1640, 1641, 1642, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Translation> - id=505
-	0, 196612, 1643, 1644, 1645, 1646, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Rotation> - id=506
-	0, 196612, 1647, 1648, 1649, 1650, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Rotation> - id=507
-	0, 196612, 1651, 1652, 1653, 1654, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.NonUniformScale> - id=508
-	0, 196612, 1655, 1656, 1657, 1658, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.NonUniformScale> - id=509
-	0, 196612, 1659, 1660, 1661, 1662, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Scale> - id=510
-	0, 196612, 1663, 1664, 1665, 1666, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Scale> - id=511
-	0, 196612, 1667, 1668, 1669, 1670, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.LocalToParent> - id=512
-	0, 196612, 1671, 1672, 1673, 1674, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.LocalToParent> - id=513
-	0, 196612, 1675, 1676, 1677, 1678, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.LocalToWorld> - id=514
-	0, 196612, 1679, 1680, 1681, 1682, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.LocalToWorld> - id=515
-	0, 196612, 1683, 1684, 1685, 1686, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.SortingGroup> - id=516
-	0, 196612, 1687, 1688, 1689, 1690, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.SortingGroup> - id=517
-	0, 196612, 1691, 1692, 1693, 1694, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.TransformStatic> - id=518
-	0, 196612, 1695, 1696, 1697, 1698, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.TransformStatic> - id=519
-	0, 196612, 1699, 1700, 1701, 1702, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.PrivateTransformStatic> - id=520
-	0, 196612, 1703, 1704, 1705, 1706, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.PrivateTransformStatic> - id=521
-	0, 196612, 1707, 1708, 1709, 1710, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.PrivateTransformData> - id=522
-	0, 196612, 1711, 1712, 1713, 1714, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.PrivateTransformData> - id=523
-	0, 196612, 1715, 1716, 1717, 1718, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.LayerSorting> - id=524
-	0, 196612, 1719, 1720, 1721, 1722, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.LayerSorting> - id=525
-	0, 196612, 1723, 1724, 1725, 1726, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.DisplayListEntry> - id=526
-	0, 196612, 1727, 1728, 1729, 1730, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.DisplayListEntry> - id=527
-	0, 196612, 1731, 1732, 1733, 1734, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.SortedEntity> - id=528
-	0, 196612, 1735, 1736, 1737, 1738, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.SortedEntity> - id=529
-	0, 196612, 1739, 1740, 1741, 1742, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenComponent> - id=530
-	0, 196612, 1743, 1744, 1745, 1746, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenComponent> - id=531
-	0, 196612, 1747, 1748, 1749, 1750, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenInt> - id=532
-	0, 196612, 1751, 1752, 1753, 1754, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenInt> - id=533
-	0, 196612, 1755, 1756, 1757, 1758, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat> - id=534
-	0, 196612, 1759, 1760, 1761, 1762, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat> - id=535
-	0, 196612, 1763, 1764, 1765, 1766, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat2> - id=536
-	0, 196612, 1767, 1768, 1769, 1770, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat2> - id=537
-	0, 196612, 1771, 1772, 1773, 1774, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat3> - id=538
-	0, 196612, 1775, 1776, 1777, 1778, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat3> - id=539
-	0, 196612, 1779, 1780, 1781, 1782, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat4> - id=540
-	0, 196612, 1783, 1784, 1785, 1786, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat4> - id=541
-	0, 196612, 1787, 1788, 1789, 1790, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenQuaternion> - id=542
-	0, 196612, 1791, 1792, 1793, 1794, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenQuaternion> - id=543
-	0, 196612, 1795, 1796, 1797, 1798, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenColor> - id=544
-	0, 196612, 1799, 1800, 1801, 1802, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenColor> - id=545
-	0, 196612, 1803, 1804, 1805, 1806, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.Image2DHTML> - id=546
-	0, 196612, 1807, 1808, 1809, 1810, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.Image2DHTML> - id=547
-	0, 196612, 1811, 1812, 1813, 1814, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.Image2DHTMLLoading> - id=548
-	0, 196612, 1815, 1816, 1817, 1818, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.Image2DHTMLLoading> - id=549
-	0, 196612, 1819, 1820, 1821, 1822, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Shape2DRenderer> - id=550
-	0, 196612, 1823, 1824, 1825, 1826, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Shape2DRenderer> - id=551
-	0, 196612, 1827, 1828, 1829, 1830, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Shape2DVertex> - id=552
-	0, 196612, 1831, 1832, 1833, 1834, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Shape2DVertex> - id=553
-	0, 196612, 1835, 1836, 1837, 1838, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Shape2DIndex> - id=554
-	0, 196612, 1839, 1840, 1841, 1842, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Shape2DIndex> - id=555
-	0, 196612, 1843, 1844, 1845, 1846, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2D> - id=556
-	0, 196612, 1847, 1848, 1849, 1850, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2D> - id=557
-	0, 196612, 1851, 1852, 1853, 1854, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DPrivate> - id=558
-	0, 196612, 1855, 1856, 1857, 1858, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DPrivate> - id=559
-	0, 196612, 1859, 1860, 1861, 1862, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DRenderer> - id=560
-	0, 196612, 1863, 1864, 1865, 1866, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DRenderer> - id=561
-	0, 196612, 1867, 1868, 1869, 1870, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=562
-	0, 196612, 1871, 1872, 1873, 1874, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=563
-	0, 196612, 1875, 1876, 1877, 1878, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DBorder> - id=564
-	0, 196612, 1879, 1880, 1881, 1882, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DBorder> - id=565
-	0, 196612, 1883, 1884, 1885, 1886, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DSequenceOptions> - id=566
-	0, 196612, 1887, 1888, 1889, 1890, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DSequenceOptions> - id=567
-	0, 196612, 1891, 1892, 1893, 1894, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=568
-	0, 196612, 1895, 1896, 1897, 1898, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=569
-	0, 196612, 1899, 1900, 1901, 1902, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.SpriteAtlas> - id=570
-	0, 196612, 1903, 1904, 1905, 1906, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.SpriteAtlas> - id=571
-	0, 196612, 1907, 1908, 1909, 1910, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DSequence> - id=572
-	0, 196612, 1911, 1912, 1913, 1914, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DSequence> - id=573
-	0, 196612, 1915, 1916, 1917, 1918, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessage> - id=574
-	0, 196612, 1919, 1920, 1921, 1922, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessage> - id=575
-	0, 196612, 1923, 1924, 1925, 1926, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessageInt> - id=576
-	0, 196612, 1927, 1928, 1929, 1930, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessageInt> - id=577
-	0, 196612, 1931, 1932, 1933, 1934, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessageFloat> - id=578
-	0, 196612, 1935, 1936, 1937, 1938, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessageFloat> - id=579
-	0, 196612, 1939, 1940, 1941, 1942, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessageByte> - id=580
-	0, 196612, 1943, 1944, 1945, 1946, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessageByte> - id=581
-	0, 196612, 1947, 1948, 1949, 1950, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UILayout.RectTransform> - id=582
-	0, 196612, 1951, 1952, 1953, 1954, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UILayout.RectTransform> - id=583
-	0, 196612, 1955, 1956, 1957, 1958, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UILayout.UICanvas> - id=584
-	0, 196612, 1959, 1960, 1961, 1962, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UILayout.UICanvas> - id=585
-	0, 196612, 1963, 1964, 1965, 1966, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleVelocity> - id=586
-	0, 196612, 1967, 1968, 1969, 1970, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleVelocity> - id=587
-	0, 196612, 1971, 1972, 1973, 1974, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleAngularVelocity> - id=588
-	0, 196612, 1975, 1976, 1977, 1978, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleAngularVelocity> - id=589
-	0, 196612, 1979, 1980, 1981, 1982, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleLifetimeColor> - id=590
-	0, 196612, 1983, 1984, 1985, 1986, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleLifetimeColor> - id=591
-	0, 196612, 1987, 1988, 1989, 1990, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleLifetimeScale> - id=592
-	0, 196612, 1991, 1992, 1993, 1994, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleLifetimeScale> - id=593
-	0, 196612, 1995, 1996, 1997, 1998, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.BurstEmissionInternal> - id=594
-	0, 196612, 1999, 2000, 2001, 2002, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.BurstEmissionInternal> - id=595
-	0, 196612, 2003, 2004, 2005, 2006, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleEmitterInternal> - id=596
-	0, 196612, 2007, 2008, 2009, 2010, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleEmitterInternal> - id=597
-	0, 196612, 2011, 2012, 2013, 2014, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleEmitterReference> - id=598
-	0, 196612, 2015, 2016, 2017, 2018, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleEmitterReference> - id=599
-	0, 196612, 2019, 2020, 2021, 2022, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.Particle> - id=600
-	0, 196612, 2023, 2024, 2025, 2026, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.Particle> - id=601
-	0, 196612, 2027, 2028, 2029, 2030, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleEmitter> - id=602
-	0, 196612, 2031, 2032, 2033, 2034, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleEmitter> - id=603
-	0, 196612, 2035, 2036, 2037, 2038, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterBoxSource> - id=604
-	0, 196612, 2039, 2040, 2041, 2042, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterBoxSource> - id=605
-	0, 196612, 2043, 2044, 2045, 2046, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterConeSource> - id=606
-	0, 196612, 2047, 2048, 2049, 2050, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterConeSource> - id=607
-	0, 196612, 2051, 2052, 2053, 2054, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterCircleSource> - id=608
-	0, 196612, 2055, 2056, 2057, 2058, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterCircleSource> - id=609
-	0, 196612, 2059, 2060, 2061, 2062, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialScale> - id=610
-	0, 196612, 2063, 2064, 2065, 2066, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialScale> - id=611
-	0, 196612, 2067, 2068, 2069, 2070, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialVelocity> - id=612
-	0, 196612, 2071, 2072, 2073, 2074, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialVelocity> - id=613
-	0, 196612, 2075, 2076, 2077, 2078, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialRotation> - id=614
-	0, 196612, 2079, 2080, 2081, 2082, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialRotation> - id=615
-	0, 196612, 2083, 2084, 2085, 2086, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialAngularVelocity> - id=616
-	0, 196612, 2087, 2088, 2089, 2090, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialAngularVelocity> - id=617
-	0, 196612, 2091, 2092, 2093, 2094, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialColor> - id=618
-	0, 196612, 2095, 2096, 2097, 2098, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialColor> - id=619
-	0, 196612, 2099, 2100, 2101, 2102, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeColor> - id=620
-	0, 196612, 2103, 2104, 2105, 2106, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeColor> - id=621
-	0, 196612, 2107, 2108, 2109, 2110, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeScale> - id=622
-	0, 196612, 2111, 2112, 2113, 2114, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeScale> - id=623
-	0, 196612, 2115, 2116, 2117, 2118, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeAngularVelocity> - id=624
-	0, 196612, 2119, 2120, 2121, 2122, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeAngularVelocity> - id=625
-	0, 196612, 2123, 2124, 2125, 2126, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeVelocity> - id=626
-	0, 196612, 2127, 2128, 2129, 2130, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeVelocity> - id=627
-	0, 196612, 2131, 2132, 2133, 2134, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeSpeedMultiplier> - id=628
-	0, 196612, 2135, 2136, 2137, 2138, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeSpeedMultiplier> - id=629
-	0, 196612, 2139, 2140, 2141, 2142, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.BurstEmission> - id=630
-	0, 196612, 2143, 2144, 2145, 2146, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.BurstEmission> - id=631
-	0, 196612, 2147, 2148, 2149, 2150, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.RectHitBox2D> - id=632
-	0, 196612, 2151, 2152, 2153, 2154, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.RectHitBox2D> - id=633
-	0, 196612, 2155, 2156, 2157, 2158, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.Sprite2DRendererHitBox2D> - id=634
-	0, 196612, 2159, 2160, 2161, 2162, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.Sprite2DRendererHitBox2D> - id=635
-	0, 196612, 2163, 2164, 2165, 2166, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.HitTestResult> - id=636
-	0, 196612, 2167, 2168, 2169, 2170, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.HitTestResult> - id=637
-	0, 196612, 2171, 2172, 2173, 2174, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.RayCastResult> - id=638
-	0, 196612, 2175, 2176, 2177, 2178, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.RayCastResult> - id=639
-	0, 196612, 2179, 2180, 2181, 2182, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=640
-	0, 196612, 2183, 2184, 2185, 2186, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=641
-	0, 196612, 2187, 2188, 2189, 2190, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.AudioHTMLClip> - id=642
-	0, 196612, 2191, 2192, 2193, 2194, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.AudioHTMLClip> - id=643
-	0, 196612, 2195, 2196, 2197, 2198, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.AudioHTMLLoading> - id=644
-	0, 196612, 2199, 2200, 2201, 2202, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.AudioHTMLLoading> - id=645
-	0, 196612, 2203, 2204, 2205, 2206, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.AudioHTMLSource> - id=646
-	0, 196612, 2207, 2208, 2209, 2210, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.AudioHTMLSource> - id=647
-	0, 196612, 2211, 2212, 2213, 2214, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoClipLoadFromFile> - id=648
-	0, 196612, 2215, 2216, 2217, 2218, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoClipLoadFromFile> - id=649
-	0, 196612, 2219, 2220, 2221, 2222, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoClip> - id=650
-	0, 196612, 2223, 2224, 2225, 2226, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoClip> - id=651
-	0, 196612, 2227, 2228, 2229, 2230, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoPlayer> - id=652
-	0, 196612, 2231, 2232, 2233, 2234, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoPlayer> - id=653
-	0, 196612, 2235, 2236, 2237, 2238, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoPlayerAutoDeleteOnEnd> - id=654
-	0, 196612, 2239, 2240, 2241, 2242, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoPlayerAutoDeleteOnEnd> - id=655
-	0, 196612, 2243, 2244, 2245, 2246, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=656
-	0, 196612, 2247, 2248, 2249, 2250, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=657
-	0, 196612, 2251, 2252, 2253, 2254, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.PointerInteraction> - id=658
-	0, 196612, 2255, 2256, 2257, 2258, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.PointerInteraction> - id=659
-	0, 196612, 2259, 2260, 2261, 2262, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.Button> - id=660
-	0, 196612, 2263, 2264, 2265, 2266, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.Button> - id=661
-	0, 196612, 2267, 2268, 2269, 2270, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.Toggle> - id=662
-	0, 196612, 2271, 2272, 2273, 2274, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.Toggle> - id=663
-	0, 196612, 2275, 2276, 2277, 2278, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.SpriteTransition> - id=664
-	0, 196612, 2279, 2280, 2281, 2282, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.SpriteTransition> - id=665
-	0, 196612, 2283, 2284, 2285, 2286, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.ColorTintTransition> - id=666
-	0, 196612, 2287, 2288, 2289, 2290, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.ColorTintTransition> - id=667
-	0, 196612, 2291, 2292, 2293, 2294, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.InactiveUIControl> - id=668
-	0, 196612, 2295, 2296, 2297, 2298, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.InactiveUIControl> - id=669
-	0, 196612, 2299, 2300, 2301, 2302, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.InitialColor> - id=670
-	0, 196612, 2303, 2304, 2305, 2306, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.InitialColor> - id=671
-	0, 196612, 2307, 2308, 2309, 2310, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.BitmapFont> - id=672
-	0, 196612, 2311, 2312, 2313, 2314, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.BitmapFont> - id=673
-	0, 196612, 2315, 2316, 2317, 2318, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.NativeFont> - id=674
-	0, 196612, 2319, 2320, 2321, 2322, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.NativeFont> - id=675
-	0, 196612, 2323, 2324, 2325, 2326, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DStyleNativeFont> - id=676
-	0, 196612, 2327, 2328, 2329, 2330, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DStyleNativeFont> - id=677
-	0, 196612, 2331, 2332, 2333, 2334, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=678
-	0, 196612, 2335, 2336, 2337, 2338, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=679
-	0, 196612, 2339, 2340, 2341, 2342, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DStyle> - id=680
-	0, 196612, 2343, 2344, 2345, 2346, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DStyle> - id=681
-	0, 196612, 2347, 2348, 2349, 2350, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DRenderer> - id=682
-	0, 196612, 2351, 2352, 2353, 2354, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DRenderer> - id=683
-	0, 196612, 2355, 2356, 2357, 2358, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DAutoFit> - id=684
-	0, 196612, 2359, 2360, 2361, 2362, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DAutoFit> - id=685
-	0, 196612, 2363, 2364, 2365, 2366, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DPrivateNative> - id=686
-	0, 196612, 2367, 2368, 2369, 2370, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DPrivateNative> - id=687
-	0, 196612, 2371, 2372, 2373, 2374, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DPrivateBitmap> - id=688
-	0, 196612, 2375, 2376, 2377, 2378, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DPrivateBitmap> - id=689
-	0, 196612, 2379, 2380, 2381, 2382, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=690
-	0, 196612, 2383, 2384, 2385, 2386, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=691
-	0, 196612, 2387, 2388, 2389, 2390, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.GlyphPrivateBuffer> - id=692
-	0, 196612, 2391, 2392, 2393, 2394, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.GlyphPrivateBuffer> - id=693
-	0, 196612, 2395, 2396, 2397, 2398, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.CharacterInfoBuffer> - id=694
-	0, 196612, 2399, 2400, 2401, 2402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.CharacterInfoBuffer> - id=695
-	0, 196612, 2403, 2404, 2405, 2406, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.TextString> - id=696
-	0, 196612, 2407, 2408, 2409, 2410, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.TextString> - id=697
-	0, 196612, 2411, 2412, 2413, 2414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.TextPrivateString> - id=698
-	0, 196612, 2415, 2416, 2417, 2418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.TextPrivateString> - id=699
-	0, 196612, 2419, 2420, 2421, 2422, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.TextPrivateFontName> - id=700
-	0, 196612, 2423, 2424, 2425, 2426, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.TextPrivateFontName> - id=701
-	0, 196612, 2427, 2428, 2429, 2430, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.VideoClipLoading> - id=702
-	0, 196612, 2431, 2432, 2433, 2434, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.VideoClipLoading> - id=703
-	0, 196612, 2435, 2436, 2437, 2438, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.VideoClipLoadingState> - id=704
-	0, 196612, 2439, 2440, 2441, 2442, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.VideoClipLoadingState> - id=705
-	0, 196612, 2443, 2444, 2445, 2446, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.VideoClipHTML> - id=706
-	0, 196612, 2447, 2448, 2449, 2450, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.VideoClipHTML> - id=707
-	0, 196612, 2451, 2452, 2453, 2454, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=708
-	0, 196612, 2455, 2456, 2457, 2458, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=709
-	0, 196612, 2459, 2460, 2461, 2462, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.Image2DGLES2> - id=710
-	0, 196612, 2463, 2464, 2465, 2466, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.Image2DGLES2> - id=711
-	0, 196612, 2467, 2468, 2469, 2470, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.Image2DRenderToTextureHTML> - id=712
-	0, 196612, 2471, 2472, 2473, 2474, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.Image2DRenderToTextureHTML> - id=713
-	0, 196612, 2475, 2476, 2477, 2478, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.Sprite2DRendererHTML> - id=714
-	0, 196612, 2479, 2480, 2481, 2482, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.Sprite2DRendererHTML> - id=715
-	0, 196612, 2483, 2484, 2485, 2486, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TileHTML> - id=716
-	0, 196612, 2487, 2488, 2489, 2490, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TileHTML> - id=717
-	0, 196612, 2491, 2492, 2493, 2494, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TintedGlyphIndex> - id=718
-	0, 196612, 2495, 2496, 2497, 2498, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TintedGlyphIndex> - id=719
-	0, 196612, 2499, 2500, 2501, 2502, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TintedGlyphHTML> - id=720
-	0, 196612, 2503, 2504, 2505, 2506, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TintedGlyphHTML> - id=721
-	0, 196612, 2507, 2508, 2509, 2510, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TextBitmapHTML> - id=722
-	0, 196612, 2511, 2512, 2513, 2514, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TextBitmapHTML> - id=723
-	0, 196612, 2515, 2516, 2517, 2518, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Object> - id=724
-	0, 196612, 2519, 2520, 2521, 2522, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Object> - id=725
-	0, 196612, 2523, 2524, 2525, 2526, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Player> - id=726
-	0, 196612, 2527, 2528, 2529, 2530, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Player> - id=727
-	0, 196612, 2531, 2532, 2533, 2534, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.Button> - id=728
-	0, 196612, 2535, 2536, 2537, 2538, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.Button> - id=729
-	0, 196612, 2539, 2540, 2541, 2542, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.GameConfig> - id=730
-	0, 196612, 2543, 2544, 2545, 2546, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.GameConfig> - id=731
-	0, 196612, 2547, 2548, 2549, 2550, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.Wall> - id=732
-	0, 196612, 2551, 2552, 2553, 2554, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.Wall> - id=733
-	0, 196612, 2555, 2556, 2557, 2558, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.ObjectsManager> - id=734
-	0, 196612, 2559, 2560, 2561, 2562, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.ObjectsManager> - id=735
-	0, 196612, 2563, 2564, 2565, 2566, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.WallsManager> - id=736
-	0, 196612, 2567, 2568, 2569, 2570, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.WallsManager> - id=737
-	0, 262154, 2571, 2572, 2573, 2574, 2575, 2576, 2577, 2578, 2579, 2580, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25552 : 51088, // Unity.Entities.BeginInitializationEntityCommandBufferSystem - id=738
-	0, 196618, 2581, 2582, 2583, 2584, 2585, 2586, 2587, 2588, 2589, 2590, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Entities.EntityCommandBufferSystem - id=739
-	0, 131082, 2591, 2592, 2593, 2594, 2595, 2596, 2597, 2598, 2599, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, // Unity.Entities.ComponentSystem - id=740
-	0, 65545, 2600, 2601, 2602, 2603, 2604, 2605, 2606, 0, 2607, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.ComponentSystemBase - id=741
-	0, 262154, 2608, 2609, 2610, 2611, 2612, 2613, 2614, 2615, 2616, 2617, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25552 : 51088, // Unity.Entities.EndInitializationEntityCommandBufferSystem - id=742
-	0, 262155, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627, 2628, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25848 : 51680, // Unity.Entities.InitializationSystemGroup - id=743
-	0, 196619, 2629, 2630, 2631, 2632, 2633, 2634, 2635, 2636, 2637, 2638, 2639, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Entities.ComponentSystemGroup - id=744
-	0, 262154, 2640, 2641, 2642, 2643, 2644, 2645, 2646, 2647, 2648, 2649, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25552 : 51088, // Unity.Entities.BeginSimulationEntityCommandBufferSystem - id=745
-	0, 262154, 2650, 2651, 2652, 2653, 2654, 2655, 2656, 2657, 2658, 2659, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25552 : 51088, // Unity.Entities.EndSimulationEntityCommandBufferSystem - id=746
-	0, 262155, 2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2669, 2670, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25848 : 51680, // Unity.Entities.LateSimulationSystemGroup - id=747
-	0, 262155, 2671, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679, 2680, 2681, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25848 : 51680, // Unity.Entities.SimulationSystemGroup - id=748
-	0, 262154, 2682, 2683, 2684, 2685, 2686, 2687, 2688, 2689, 2690, 2691, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25552 : 51088, // Unity.Entities.BeginPresentationEntityCommandBufferSystem - id=749
-	0, 262154, 2692, 2693, 2694, 2695, 2696, 2697, 2698, 2699, 2700, 2701, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25552 : 51088, // Unity.Entities.EndPresentationEntityCommandBufferSystem - id=750
-	0, 262155, 2702, 2703, 2704, 2705, 2706, 2707, 2708, 2709, 2710, 2711, 2712, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25848 : 51680, // Unity.Entities.PresentationSystemGroup - id=751
-	0, 196618, 2713, 2714, 2715, 2716, 2717, 2718, 2719, 2720, 2721, 2722, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core.TinyEnvironment - id=752
-	0, 196618, 2723, 2724, 2725, 2726, 2727, 2728, 2729, 2730, 2731, 2732, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.PointQuery.PointQuerySystem - id=753
-	0, 196618, 2733, 2734, 2735, 2736, 2737, 2738, 2739, 2740, 2741, 2742, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.Image2DMaskInit - id=754
-	0, 262155, 2743, 2744, 2745, 2746, 2747, 2748, 2749, 2750, 2751, 2752, 2753, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 25848 : 51680, // Unity.Authoring.SceneConversionSystemGroup - id=755
-	0, 196618, 2754, 2755, 2756, 2757, 2758, 2759, 2760, 2761, 2762, 2763, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Watchers.WatchersSystem - id=756
-	0, 262154, 2764, 2765, 2766, 2767, 2768, 2769, 2770, 2771, 2772, 2773, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 26620 : 53224, // Unity.Tiny.Watchers.DefaultWatchersSystem - id=757
-	0, 196618, 2774, 2775, 2776, 2777, 2778, 2779, 2780, 2781, 2782, 2783, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Scenes.EntityReferenceRemapSystem - id=758
-	0, 196618, 2784, 2785, 2786, 2787, 2788, 2789, 2790, 2791, 2792, 2793, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Scenes.ClearRemappedEntityReferenceSystem - id=759
-	0, 196618, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 2801, 2802, 2803, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Scenes.RemoveRemapInformationSystem - id=760
-	0, 196618, 2804, 2805, 2806, 2807, 2808, 2809, 2810, 2811, 2812, 2813, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Scenes.SceneStreamingSystem - id=761
-	0, 196618, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.DisplayListSystem - id=762
-	0, 196618, 2824, 2825, 2826, 2827, 2828, 2829, 2830, 2831, 2832, 2833, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.TransformHelpersSystem - id=763
-	0, 196618, 2834, 2835, 2836, 2837, 2838, 2839, 2840, 2841, 2842, 2843, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.UpdateLocalTransformSystem - id=764
-	0, 196618, 2844, 2845, 2846, 2847, 2848, 2849, 2850, 2851, 2852, 2853, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.UpdateWorldTransformSystem - id=765
-	0, 196618, 2854, 2855, 2856, 2857, 2858, 2859, 2860, 2861, 2862, 2863, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Tweens.TweenSystem - id=766
-	0, 196618, 2864, 2865, 2866, 2867, 2868, 2869, 2870, 2871, 2872, 2873, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Input.InputSystem - id=767
-	0, 262154, 2874, 2875, 2876, 2877, 2878, 2879, 2880, 2881, 2882, 2883, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 27408 : 54800, // Unity.Tiny.HTML.Image2DIOHTMLSystem - id=768
-	0, 196618, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, 2892, 2893, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.GenericAssetLoader`4<Unity.Tiny.Core2D.Image2D,Unity.Tiny.HTML.Image2DHTML,Unity.Tiny.Core2D.Image2DLoadFromFile,Unity.Tiny.HTML.Image2DHTMLLoading> - id=769
-	0, 196618, 2894, 2895, 2896, 2897, 2898, 2899, 2900, 2901, 2902, 2903, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.Shape2DInitSystem - id=770
-	0, 196618, 2904, 2905, 2906, 2907, 2908, 2909, 2910, 2911, 2912, 2913, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.Sprite2DSystem - id=771
-	0, 196618, 2914, 2915, 2916, 2917, 2918, 2919, 2920, 2921, 2922, 2923, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.SpriteAtlasSystem - id=772
-	0, 196618, 2924, 2925, 2926, 2927, 2928, 2929, 2930, 2931, 2932, 2933, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.SequencePlayerSystem - id=773
-	0, 262155, 2934, 2935, 2936, 2937, 2938, 2939, 2940, 2941, 2942, 2943, 2944, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 27776 : 55536, // Unity.Tiny.HTML.HTMLWindowSystem - id=774
-	0, 196619, 2945, 2946, 2947, 2948, 2949, 2950, 2951, 2952, 2953, 0, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core.WindowSystem - id=775
-	0, 196618, 2954, 2955, 2956, 2957, 2958, 2959, 2960, 2961, 2962, 2963, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UILayout.AddMissingComponents - id=776
-	0, 196618, 2964, 2965, 2966, 2967, 2968, 2969, 2970, 2971, 2972, 2973, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UILayout.SetRectTransformSizeSystem - id=777
-	0, 196618, 2974, 2975, 2976, 2977, 2978, 2979, 2980, 2981, 2982, 2983, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UILayout.SetSprite2DSizeSystem - id=778
-	0, 196618, 2984, 2985, 2986, 2987, 2988, 2989, 2990, 2991, 2992, 2993, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UILayout.UICanvasSystem - id=779
-	0, 196618, 2994, 2995, 2996, 2997, 2998, 2999, 3000, 3001, 3002, 3003, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UILayout.UILayoutSystem - id=780
-	0, 196618, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Particles.EmitterSystem - id=781
-	0, 196618, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Particles.ParticleSystem - id=782
-	0, 262154, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 27284 : 54552, // Unity.Tiny.HTML.HTMLInputSystem - id=783
-	0, 196618, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, 3042, 3043, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.HitBox2D.HitBox2DSystem - id=784
-	0, 262154, 3044, 3045, 3046, 3047, 3048, 3049, 3050, 3051, 3052, 3053, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 28448 : 56880, // Unity.Tiny.HTML.AudioIOHTMLSystem - id=785
-	0, 196618, 3054, 3055, 3056, 3057, 3058, 3059, 3060, 3061, 3062, 3063, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.GenericAssetLoader`4<Unity.Tiny.Audio.AudioClip,Unity.Tiny.HTML.AudioHTMLClip,Unity.Tiny.Audio.AudioClipLoadFromFile,Unity.Tiny.HTML.AudioHTMLLoading> - id=786
-	0, 262158, 3064, 3065, 3066, 3067, 3068, 3069, 3070, 3071, 3072, 3073, 3074, 3075, 3076, 3077, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 28588 : 57160, // Unity.Tiny.HTML.AudioHTMLSystem - id=787
-	0, 196622, 3078, 3079, 3080, 3081, 3082, 3083, 3084, 3085, 3086, 3087, 0, 0, 0, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Audio.AudioSystem - id=788
-	0, 196618, 3088, 3089, 3090, 3091, 3092, 3093, 3094, 3095, 3096, 3097, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Video.VideoSystem - id=789
-	0, 196618, 3098, 3099, 3100, 3101, 3102, 3103, 3104, 3105, 3106, 3107, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UIControls.ButtonSystem - id=790
-	0, 196618, 3108, 3109, 3110, 3111, 3112, 3113, 3114, 3115, 3116, 3117, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UIControls.PointerInteractionSystem - id=791
-	0, 196618, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UIControls.ToggleCheckedSystem - id=792
-	0, 196618, 3128, 3129, 3130, 3131, 3132, 3133, 3134, 3135, 3136, 3137, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UIControls.ToggleSystem - id=793
-	0, 196618, 3138, 3139, 3140, 3141, 3142, 3143, 3144, 3145, 3146, 3147, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.UIControls.UIControlsSystem - id=794
-	0, 262154, 3148, 3149, 3150, 3151, 3152, 3153, 3154, 3155, 3156, 3157, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 26620 : 53224, // Unity.Tiny.UIControls.UIControlsWatchersSystem - id=795
-	0, 196618, 3158, 3159, 3160, 3161, 3162, 3163, 3164, 3165, 3166, 3167, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Text.Text2DInitSystem - id=796
-	0, 196618, 3168, 3169, 3170, 3171, 3172, 3173, 3174, 3175, 3176, 3177, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Text.TextBitmapFontSystem - id=797
-	0, 262154, 3178, 3179, 3180, 3181, 3182, 3183, 3184, 3185, 3186, 3187, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 29272 : 58528, // Unity.Tiny.HTML.VideoHTMLAssetSystem - id=798
-	0, 196618, 3188, 3189, 3190, 3191, 3192, 3193, 3194, 3195, 3196, 3197, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Core2D.GenericAssetLoader`4<Unity.Tiny.Video.VideoClip,Unity.Tiny.HTML.VideoClipLoadingState,Unity.Tiny.Video.VideoClipLoadFromFile,Unity.Tiny.HTML.VideoClipLoading> - id=799
-	0, 196618, 3198, 3199, 3200, 3201, 3202, 3203, 3204, 3205, 3206, 3207, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.HTML.VideoHTMLSystem - id=800
-	0, 196618, 3208, 3209, 3210, 3211, 3212, 3213, 3214, 3215, 3216, 3217, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.TextHTML.TextNativeFontHtmlSystem - id=801
-	0, 262161, 3218, 3219, 3220, 3221, 3222, 3223, 3224, 3225, 3226, 3227, 3228, 3229, 3230, 3231, 3232, 3233, 3234, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 29544 : 59072, // Unity.Tiny.Rendering.RendererGLES2System - id=802
-	0, 196625, 3235, 3236, 3237, 3238, 3239, 3240, 3241, 3242, 3243, 3244, 0, 0, 0, 0, 0, 0, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // Unity.Tiny.Rendering.RendererComponentSystem - id=803
-	0, 262161, 3245, 3246, 3247, 3248, 3249, 3250, 3251, 3252, 3253, 3254, 3255, 3256, 3257, 3258, 3259, 3260, 3261, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, IL2CPP_SIZEOF_VOID_P == 4 ? 29544 : 59072, // Unity.Tiny.Rendering.RendererCanvasSystem - id=804
-	0, 196618, 3262, 3263, 3264, 3265, 3266, 3267, 3268, 3269, 3270, 3271, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // dodgeman.CollideSystem - id=805
-	0, 196618, 3272, 3273, 3274, 3275, 3276, 3277, 3278, 3279, 3280, 3281, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // dodgeman.ObjectsMovingSystem - id=806
-	0, 196618, 3282, 3283, 3284, 3285, 3286, 3287, 3288, 3289, 3290, 3291, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // dodgeman.PlayerDestroySystem - id=807
-	0, 196618, 3292, 3293, 3294, 3295, 3296, 3297, 3298, 3299, 3300, 3301, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // dodgeman.PlayerMovingSystem - id=808
-	0, 196618, 3302, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3311, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25668 : 51320, IL2CPP_SIZEOF_VOID_P == 4 ? 25612 : 51208, // dodgeman.WallMovingSystem - id=809
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Boolean[] - id=810
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Attribute[] - id=811
-	0, 131075, 3312, 3313, 3314, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30084 : 60152, // Unity.Entities.DisableAutoCreationAttribute - id=812
-	0, 65539, 3315, 3316, 3317, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Attribute - id=813
-	0, 131075, 3318, 3319, 3320, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30084 : 60152, // Unity.Entities.UpdateInGroupAttribute - id=814
-	0, 131075, 3321, 3322, 3323, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30084 : 60152, // Unity.Entities.UpdateAfterAttribute - id=815
-	0, 131075, 3324, 3325, 3326, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30084 : 60152, // Unity.Entities.UpdateBeforeAttribute - id=816
-	0, 196612, 3327, 3328, 3329, 3330, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/AddComponentRawType - id=817
-	0, 196612, 3331, 3332, 3333, 3334, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/RemoveComponentRawType - id=818
-	0, 196612, 3335, 3336, 3337, 3338, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/HasComponentDataRawType - id=819
-	0, 196612, 3339, 3340, 3341, 3342, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/GetComponentDataPtrRawROType - id=820
-	0, 196612, 3343, 3344, 3345, 3346, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/GetComponentDataPtrRawRWType - id=821
-	0, 196612, 3347, 3348, 3349, 3350, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/CreateEntityType - id=822
-	0, 196612, 3351, 3352, 3353, 3354, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/DestroyEntityType - id=823
-	0, 196612, 3355, 3356, 3357, 3358, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/CreateArchetypeRawType - id=824
-	0, 196612, 3359, 3360, 3361, 3362, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/TypeIndexForStableTypeHashType - id=825
-	0, 196612, 3363, 3364, 3365, 3366, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/GetBufferElementDataPtrRawROType - id=826
-	0, 196612, 3367, 3368, 3369, 3370, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/GetBufferElementDataPtrRawRWType - id=827
-	0, 196612, 3371, 3372, 3373, 3374, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityManagerDelegates/GetBufferElementDataLengthType - id=828
-	0, 65539, 3375, 3376, 3377, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.EntityManager - id=829
-	0, 65539, 3378, 3379, 3380, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Debugging.StringRingHistory - id=830
-	0, 131075, 3381, 3382, 3383, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // System.Double - id=831
-	0, 131075, 3384, 3385, 3386, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // System.Boolean - id=832
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Byte[] - id=833
-	0, 65539, 3387, 3388, 3389, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Video.VideoSystem/<>c__DisplayClass0_0 - id=834
-	0, 16842760, 3390, 3391, 3392, 3393, 3394, 3395, 3396, 3397, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1624 : 3248, 
+	0, 196612, 893, 894, 895, 896, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.Entity> - id=318
+	0, 196612, 897, 898, 899, 900, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.Entity> - id=319
+	0, 196612, 901, 902, 903, 904, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Transforms.Static> - id=320
+	0, 196612, 905, 906, 907, 908, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Transforms.Static> - id=321
+	0, 196612, 909, 910, 911, 912, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.Disabled> - id=322
+	0, 196612, 913, 914, 915, 916, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.Disabled> - id=323
+	0, 196612, 917, 918, 919, 920, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.Prefab> - id=324
+	0, 196612, 921, 922, 923, 924, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.Prefab> - id=325
+	0, 196612, 925, 926, 927, 928, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.EntityGuid> - id=326
+	0, 196612, 929, 930, 931, 932, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.EntityGuid> - id=327
+	0, 196612, 933, 934, 935, 936, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.ChunkHeader> - id=328
+	0, 196612, 937, 938, 939, 940, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.ChunkHeader> - id=329
+	0, 196612, 941, 942, 943, 944, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.CleanupEntity> - id=330
+	0, 196612, 945, 946, 947, 948, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.CleanupEntity> - id=331
+	0, 196612, 949, 950, 951, 952, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.SceneData> - id=332
+	0, 196612, 953, 954, 955, 956, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.SceneData> - id=333
+	0, 196612, 957, 958, 959, 960, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.RequestSceneLoaded> - id=334
+	0, 196612, 961, 962, 963, 964, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.RequestSceneLoaded> - id=335
+	0, 196612, 965, 966, 967, 968, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.BlobAssetOwner> - id=336
+	0, 196612, 969, 970, 971, 972, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.BlobAssetOwner> - id=337
+	0, 196612, 973, 974, 975, 976, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.SceneTag> - id=338
+	0, 196612, 977, 978, 979, 980, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.SceneTag> - id=339
+	0, 196612, 981, 982, 983, 984, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.SceneSection> - id=340
+	0, 196612, 985, 986, 987, 988, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.SceneSection> - id=341
+	0, 196612, 989, 990, 991, 992, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Entities.LinkedEntityGroup> - id=342
+	0, 196612, 993, 994, 995, 996, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Entities.LinkedEntityGroup> - id=343
+	0, 196612, 997, 998, 999, 1000, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.AssetReference> - id=344
+	0, 196612, 1001, 1002, 1003, 1004, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.AssetReference> - id=345
+	0, 196612, 1005, 1006, 1007, 1008, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.ConfigurationTag> - id=346
+	0, 196612, 1009, 1010, 1011, 1012, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.ConfigurationTag> - id=347
+	0, 196612, 1013, 1014, 1015, 1016, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.SiblingIndex> - id=348
+	0, 196612, 1017, 1018, 1019, 1020, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.SiblingIndex> - id=349
+	0, 196612, 1021, 1022, 1023, 1024, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Authoring.Core.ComponentOrder> - id=350
+	0, 196612, 1025, 1026, 1027, 1028, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Authoring.Core.ComponentOrder> - id=351
+	0, 196612, 1029, 1030, 1031, 1032, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core.EntityName> - id=352
+	0, 196612, 1033, 1034, 1035, 1036, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core.EntityName> - id=353
+	0, 196612, 1037, 1038, 1039, 1040, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.PointQuery.PointQueryTag> - id=354
+	0, 196612, 1041, 1042, 1043, 1044, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.PointQuery.PointQueryTag> - id=355
+	0, 196612, 1045, 1046, 1047, 1048, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=356
+	0, 196612, 1049, 1050, 1051, 1052, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=357
+	0, 196612, 1053, 1054, 1055, 1056, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.PointQuery.QueryResult> - id=358
+	0, 196612, 1057, 1058, 1059, 1060, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.PointQuery.QueryResult> - id=359
+	0, 196612, 1061, 1062, 1063, 1064, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=360
+	0, 196612, 1065, 1066, 1067, 1068, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=361
+	0, 196612, 1069, 1070, 1071, 1072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DRenderToTexture> - id=362
+	0, 196612, 1073, 1074, 1075, 1076, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DRenderToTexture> - id=363
+	0, 196612, 1077, 1078, 1079, 1080, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2D> - id=364
+	0, 196612, 1081, 1082, 1083, 1084, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2D> - id=365
+	0, 196612, 1085, 1086, 1087, 1088, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DAlphaMask> - id=366
+	0, 196612, 1089, 1090, 1091, 1092, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DAlphaMask> - id=367
+	0, 196612, 1093, 1094, 1095, 1096, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=368
+	0, 196612, 1097, 1098, 1099, 1100, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=369
+	0, 196612, 1101, 1102, 1103, 1104, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=370
+	0, 196612, 1105, 1106, 1107, 1108, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=371
+	0, 196612, 1109, 1110, 1111, 1112, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=372
+	0, 196612, 1113, 1114, 1115, 1116, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=373
+	0, 196612, 1117, 1118, 1119, 1120, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.RectTransformFinalSize> - id=374
+	0, 196612, 1121, 1122, 1123, 1124, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.RectTransformFinalSize> - id=375
+	0, 196612, 1125, 1126, 1127, 1128, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioClip> - id=376
+	0, 196612, 1129, 1130, 1131, 1132, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioClip> - id=377
+	0, 196612, 1133, 1134, 1135, 1136, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=378
+	0, 196612, 1137, 1138, 1139, 1140, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=379
+	0, 196612, 1141, 1142, 1143, 1144, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioConfig> - id=380
+	0, 196612, 1145, 1146, 1147, 1148, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioConfig> - id=381
+	0, 196612, 1149, 1150, 1151, 1152, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioSourceStart> - id=382
+	0, 196612, 1153, 1154, 1155, 1156, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioSourceStart> - id=383
+	0, 196612, 1157, 1158, 1159, 1160, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioSourceStop> - id=384
+	0, 196612, 1161, 1162, 1163, 1164, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioSourceStop> - id=385
+	0, 196612, 1165, 1166, 1167, 1168, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioSource> - id=386
+	0, 196612, 1169, 1170, 1171, 1172, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioSource> - id=387
+	0, 196612, 1173, 1174, 1175, 1176, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=388
+	0, 196612, 1177, 1178, 1179, 1180, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=389
+	0, 196612, 1181, 1182, 1183, 1184, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveFloat> - id=390
+	0, 196612, 1185, 1186, 1187, 1188, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveFloat> - id=391
+	0, 196612, 1189, 1190, 1191, 1192, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveFloat2> - id=392
+	0, 196612, 1193, 1194, 1195, 1196, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveFloat2> - id=393
+	0, 196612, 1197, 1198, 1199, 1200, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveFloat3> - id=394
+	0, 196612, 1201, 1202, 1203, 1204, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveFloat3> - id=395
+	0, 196612, 1205, 1206, 1207, 1208, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveQuaternion> - id=396
+	0, 196612, 1209, 1210, 1211, 1212, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveQuaternion> - id=397
+	0, 196612, 1213, 1214, 1215, 1216, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.LinearCurveColor> - id=398
+	0, 196612, 1217, 1218, 1219, 1220, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.LinearCurveColor> - id=399
+	0, 196612, 1221, 1222, 1223, 1224, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveFloat> - id=400
+	0, 196612, 1225, 1226, 1227, 1228, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveFloat> - id=401
+	0, 196612, 1229, 1230, 1231, 1232, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveFloat2> - id=402
+	0, 196612, 1233, 1234, 1235, 1236, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveFloat2> - id=403
+	0, 196612, 1237, 1238, 1239, 1240, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveFloat3> - id=404
+	0, 196612, 1241, 1242, 1243, 1244, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveFloat3> - id=405
+	0, 196612, 1245, 1246, 1247, 1248, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierCurveQuaternion> - id=406
+	0, 196612, 1249, 1250, 1251, 1252, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierCurveQuaternion> - id=407
+	0, 196612, 1253, 1254, 1255, 1256, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveFloat> - id=408
+	0, 196612, 1257, 1258, 1259, 1260, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveFloat> - id=409
+	0, 196612, 1261, 1262, 1263, 1264, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveFloat2> - id=410
+	0, 196612, 1265, 1266, 1267, 1268, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveFloat2> - id=411
+	0, 196612, 1269, 1270, 1271, 1272, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveFloat3> - id=412
+	0, 196612, 1273, 1274, 1275, 1276, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveFloat3> - id=413
+	0, 196612, 1277, 1278, 1279, 1280, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveQuaternion> - id=414
+	0, 196612, 1281, 1282, 1283, 1284, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveQuaternion> - id=415
+	0, 196612, 1285, 1286, 1287, 1288, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.StepCurveColor> - id=416
+	0, 196612, 1289, 1290, 1291, 1292, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.StepCurveColor> - id=417
+	0, 196612, 1293, 1294, 1295, 1296, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.CurveTimeLoopMode> - id=418
+	0, 196612, 1297, 1298, 1299, 1300, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.CurveTimeLoopMode> - id=419
+	0, 196612, 1301, 1302, 1303, 1304, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyFloat> - id=420
+	0, 196612, 1305, 1306, 1307, 1308, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyFloat> - id=421
+	0, 196612, 1309, 1310, 1311, 1312, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyFloat2> - id=422
+	0, 196612, 1313, 1314, 1315, 1316, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyFloat2> - id=423
+	0, 196612, 1317, 1318, 1319, 1320, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyFloat3> - id=424
+	0, 196612, 1321, 1322, 1323, 1324, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyFloat3> - id=425
+	0, 196612, 1325, 1326, 1327, 1328, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyQuaternion> - id=426
+	0, 196612, 1329, 1330, 1331, 1332, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyQuaternion> - id=427
+	0, 196612, 1333, 1334, 1335, 1336, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.KeyColor> - id=428
+	0, 196612, 1337, 1338, 1339, 1340, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.KeyColor> - id=429
+	0, 196612, 1341, 1342, 1343, 1344, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyFloat> - id=430
+	0, 196612, 1345, 1346, 1347, 1348, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyFloat> - id=431
+	0, 196612, 1349, 1350, 1351, 1352, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyFloat2> - id=432
+	0, 196612, 1353, 1354, 1355, 1356, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyFloat2> - id=433
+	0, 196612, 1357, 1358, 1359, 1360, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=434
+	0, 196612, 1361, 1362, 1363, 1364, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=435
+	0, 196612, 1365, 1366, 1367, 1368, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Interpolation.BezierKeyQuaternion> - id=436
+	0, 196612, 1369, 1370, 1371, 1372, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Interpolation.BezierKeyQuaternion> - id=437
+	0, 196612, 1373, 1374, 1375, 1376, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.ActiveScene> - id=438
+	0, 196612, 1377, 1378, 1379, 1380, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.ActiveScene> - id=439
+	0, 196612, 1381, 1382, 1383, 1384, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneReference> - id=440
+	0, 196612, 1385, 1386, 1387, 1388, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneReference> - id=441
+	0, 196612, 1389, 1390, 1391, 1392, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneData> - id=442
+	0, 196612, 1393, 1394, 1395, 1396, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneData> - id=443
+	0, 196612, 1397, 1398, 1399, 1400, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneLoadRequest> - id=444
+	0, 196612, 1401, 1402, 1403, 1404, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneLoadRequest> - id=445
+	0, 196612, 1405, 1406, 1407, 1408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneGuid> - id=446
+	0, 196612, 1409, 1410, 1411, 1412, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneGuid> - id=447
+	0, 196612, 1413, 1414, 1415, 1416, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.SceneInstanceId> - id=448
+	0, 196612, 1417, 1418, 1419, 1420, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.SceneInstanceId> - id=449
+	0, 196612, 1421, 1422, 1423, 1424, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.EntityReferenceRemap> - id=450
+	0, 196612, 1425, 1426, 1427, 1428, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.EntityReferenceRemap> - id=451
+	0, 196612, 1429, 1430, 1431, 1432, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.Scenes> - id=452
+	0, 196612, 1433, 1434, 1435, 1436, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.Scenes> - id=453
+	0, 196612, 1437, 1438, 1439, 1440, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.StartupScenes> - id=454
+	0, 196612, 1441, 1442, 1443, 1444, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.StartupScenes> - id=455
+	0, 196612, 1445, 1446, 1447, 1448, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Scenes.WorkspaceScenes> - id=456
+	0, 196612, 1449, 1450, 1451, 1452, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Scenes.WorkspaceScenes> - id=457
+	0, 196612, 1453, 1454, 1455, 1456, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2D> - id=458
+	0, 196612, 1457, 1458, 1459, 1460, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2D> - id=459
+	0, 196612, 1461, 1462, 1463, 1464, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer0> - id=460
+	0, 196612, 1465, 1466, 1467, 1468, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer0> - id=461
+	0, 196612, 1469, 1470, 1471, 1472, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer1> - id=462
+	0, 196612, 1473, 1474, 1475, 1476, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer1> - id=463
+	0, 196612, 1477, 1478, 1479, 1480, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer2> - id=464
+	0, 196612, 1481, 1482, 1483, 1484, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer2> - id=465
+	0, 196612, 1485, 1486, 1487, 1488, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer3> - id=466
+	0, 196612, 1489, 1490, 1491, 1492, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer3> - id=467
+	0, 196612, 1493, 1494, 1495, 1496, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer4> - id=468
+	0, 196612, 1497, 1498, 1499, 1500, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer4> - id=469
+	0, 196612, 1501, 1502, 1503, 1504, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer5> - id=470
+	0, 196612, 1505, 1506, 1507, 1508, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer5> - id=471
+	0, 196612, 1509, 1510, 1511, 1512, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer6> - id=472
+	0, 196612, 1513, 1514, 1515, 1516, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer6> - id=473
+	0, 196612, 1517, 1518, 1519, 1520, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer7> - id=474
+	0, 196612, 1521, 1522, 1523, 1524, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer7> - id=475
+	0, 196612, 1525, 1526, 1527, 1528, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer8> - id=476
+	0, 196612, 1529, 1530, 1531, 1532, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer8> - id=477
+	0, 196612, 1533, 1534, 1535, 1536, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer9> - id=478
+	0, 196612, 1537, 1538, 1539, 1540, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer9> - id=479
+	0, 196612, 1541, 1542, 1543, 1544, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer10> - id=480
+	0, 196612, 1545, 1546, 1547, 1548, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer10> - id=481
+	0, 196612, 1549, 1550, 1551, 1552, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer11> - id=482
+	0, 196612, 1553, 1554, 1555, 1556, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer11> - id=483
+	0, 196612, 1557, 1558, 1559, 1560, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer12> - id=484
+	0, 196612, 1561, 1562, 1563, 1564, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer12> - id=485
+	0, 196612, 1565, 1566, 1567, 1568, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer13> - id=486
+	0, 196612, 1569, 1570, 1571, 1572, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer13> - id=487
+	0, 196612, 1573, 1574, 1575, 1576, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer14> - id=488
+	0, 196612, 1577, 1578, 1579, 1580, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer14> - id=489
+	0, 196612, 1581, 1582, 1583, 1584, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.CameraLayer15> - id=490
+	0, 196612, 1585, 1586, 1587, 1588, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.CameraLayer15> - id=491
+	0, 196612, 1589, 1590, 1591, 1592, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2DRenderToTexture> - id=492
+	0, 196612, 1593, 1594, 1595, 1596, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2DRenderToTexture> - id=493
+	0, 196612, 1597, 1598, 1599, 1600, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2DAxisSort> - id=494
+	0, 196612, 1601, 1602, 1603, 1604, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2DAxisSort> - id=495
+	0, 196612, 1605, 1606, 1607, 1608, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Camera2DClippingPlanes> - id=496
+	0, 196612, 1609, 1610, 1611, 1612, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Camera2DClippingPlanes> - id=497
+	0, 196612, 1613, 1614, 1615, 1616, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.DisplayInfo> - id=498
+	0, 196612, 1617, 1618, 1619, 1620, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.DisplayInfo> - id=499
+	0, 196612, 1621, 1622, 1623, 1624, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.DisplayListCamera> - id=500
+	0, 196612, 1625, 1626, 1627, 1628, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.DisplayListCamera> - id=501
+	0, 196612, 1629, 1630, 1631, 1632, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Parent> - id=502
+	0, 196612, 1633, 1634, 1635, 1636, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Parent> - id=503
+	0, 196612, 1637, 1638, 1639, 1640, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Translation> - id=504
+	0, 196612, 1641, 1642, 1643, 1644, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Translation> - id=505
+	0, 196612, 1645, 1646, 1647, 1648, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Rotation> - id=506
+	0, 196612, 1649, 1650, 1651, 1652, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Rotation> - id=507
+	0, 196612, 1653, 1654, 1655, 1656, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.NonUniformScale> - id=508
+	0, 196612, 1657, 1658, 1659, 1660, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.NonUniformScale> - id=509
+	0, 196612, 1661, 1662, 1663, 1664, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Scale> - id=510
+	0, 196612, 1665, 1666, 1667, 1668, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Scale> - id=511
+	0, 196612, 1669, 1670, 1671, 1672, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.LocalToParent> - id=512
+	0, 196612, 1673, 1674, 1675, 1676, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.LocalToParent> - id=513
+	0, 196612, 1677, 1678, 1679, 1680, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.LocalToWorld> - id=514
+	0, 196612, 1681, 1682, 1683, 1684, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.LocalToWorld> - id=515
+	0, 196612, 1685, 1686, 1687, 1688, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.SortingGroup> - id=516
+	0, 196612, 1689, 1690, 1691, 1692, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.SortingGroup> - id=517
+	0, 196612, 1693, 1694, 1695, 1696, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.TransformStatic> - id=518
+	0, 196612, 1697, 1698, 1699, 1700, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.TransformStatic> - id=519
+	0, 196612, 1701, 1702, 1703, 1704, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.PrivateTransformStatic> - id=520
+	0, 196612, 1705, 1706, 1707, 1708, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.PrivateTransformStatic> - id=521
+	0, 196612, 1709, 1710, 1711, 1712, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.PrivateTransformData> - id=522
+	0, 196612, 1713, 1714, 1715, 1716, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.PrivateTransformData> - id=523
+	0, 196612, 1717, 1718, 1719, 1720, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.LayerSorting> - id=524
+	0, 196612, 1721, 1722, 1723, 1724, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.LayerSorting> - id=525
+	0, 196612, 1725, 1726, 1727, 1728, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.DisplayListEntry> - id=526
+	0, 196612, 1729, 1730, 1731, 1732, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.DisplayListEntry> - id=527
+	0, 196612, 1733, 1734, 1735, 1736, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.SortedEntity> - id=528
+	0, 196612, 1737, 1738, 1739, 1740, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.SortedEntity> - id=529
+	0, 196612, 1741, 1742, 1743, 1744, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenComponent> - id=530
+	0, 196612, 1745, 1746, 1747, 1748, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenComponent> - id=531
+	0, 196612, 1749, 1750, 1751, 1752, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenInt> - id=532
+	0, 196612, 1753, 1754, 1755, 1756, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenInt> - id=533
+	0, 196612, 1757, 1758, 1759, 1760, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat> - id=534
+	0, 196612, 1761, 1762, 1763, 1764, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat> - id=535
+	0, 196612, 1765, 1766, 1767, 1768, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat2> - id=536
+	0, 196612, 1769, 1770, 1771, 1772, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat2> - id=537
+	0, 196612, 1773, 1774, 1775, 1776, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat3> - id=538
+	0, 196612, 1777, 1778, 1779, 1780, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat3> - id=539
+	0, 196612, 1781, 1782, 1783, 1784, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenFloat4> - id=540
+	0, 196612, 1785, 1786, 1787, 1788, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenFloat4> - id=541
+	0, 196612, 1789, 1790, 1791, 1792, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenQuaternion> - id=542
+	0, 196612, 1793, 1794, 1795, 1796, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenQuaternion> - id=543
+	0, 196612, 1797, 1798, 1799, 1800, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Tweens.TweenColor> - id=544
+	0, 196612, 1801, 1802, 1803, 1804, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Tweens.TweenColor> - id=545
+	0, 196612, 1805, 1806, 1807, 1808, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.Image2DHTML> - id=546
+	0, 196612, 1809, 1810, 1811, 1812, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.Image2DHTML> - id=547
+	0, 196612, 1813, 1814, 1815, 1816, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.Image2DHTMLLoading> - id=548
+	0, 196612, 1817, 1818, 1819, 1820, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.Image2DHTMLLoading> - id=549
+	0, 196612, 1821, 1822, 1823, 1824, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Shape2DRenderer> - id=550
+	0, 196612, 1825, 1826, 1827, 1828, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Shape2DRenderer> - id=551
+	0, 196612, 1829, 1830, 1831, 1832, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Shape2DVertex> - id=552
+	0, 196612, 1833, 1834, 1835, 1836, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Shape2DVertex> - id=553
+	0, 196612, 1837, 1838, 1839, 1840, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Shape2DIndex> - id=554
+	0, 196612, 1841, 1842, 1843, 1844, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Shape2DIndex> - id=555
+	0, 196612, 1845, 1846, 1847, 1848, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2D> - id=556
+	0, 196612, 1849, 1850, 1851, 1852, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2D> - id=557
+	0, 196612, 1853, 1854, 1855, 1856, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DPrivate> - id=558
+	0, 196612, 1857, 1858, 1859, 1860, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DPrivate> - id=559
+	0, 196612, 1861, 1862, 1863, 1864, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DRenderer> - id=560
+	0, 196612, 1865, 1866, 1867, 1868, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DRenderer> - id=561
+	0, 196612, 1869, 1870, 1871, 1872, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=562
+	0, 196612, 1873, 1874, 1875, 1876, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=563
+	0, 196612, 1877, 1878, 1879, 1880, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DBorder> - id=564
+	0, 196612, 1881, 1882, 1883, 1884, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DBorder> - id=565
+	0, 196612, 1885, 1886, 1887, 1888, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DSequenceOptions> - id=566
+	0, 196612, 1889, 1890, 1891, 1892, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DSequenceOptions> - id=567
+	0, 196612, 1893, 1894, 1895, 1896, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=568
+	0, 196612, 1897, 1898, 1899, 1900, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=569
+	0, 196612, 1901, 1902, 1903, 1904, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.SpriteAtlas> - id=570
+	0, 196612, 1905, 1906, 1907, 1908, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.SpriteAtlas> - id=571
+	0, 196612, 1909, 1910, 1911, 1912, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Core2D.Sprite2DSequence> - id=572
+	0, 196612, 1913, 1914, 1915, 1916, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Core2D.Sprite2DSequence> - id=573
+	0, 196612, 1917, 1918, 1919, 1920, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessage> - id=574
+	0, 196612, 1921, 1922, 1923, 1924, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessage> - id=575
+	0, 196612, 1925, 1926, 1927, 1928, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessageInt> - id=576
+	0, 196612, 1929, 1930, 1931, 1932, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessageInt> - id=577
+	0, 196612, 1933, 1934, 1935, 1936, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessageFloat> - id=578
+	0, 196612, 1937, 1938, 1939, 1940, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessageFloat> - id=579
+	0, 196612, 1941, 1942, 1943, 1944, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.NativeMessageByte> - id=580
+	0, 196612, 1945, 1946, 1947, 1948, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.NativeMessageByte> - id=581
+	0, 196612, 1949, 1950, 1951, 1952, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UILayout.RectTransform> - id=582
+	0, 196612, 1953, 1954, 1955, 1956, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UILayout.RectTransform> - id=583
+	0, 196612, 1957, 1958, 1959, 1960, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UILayout.UICanvas> - id=584
+	0, 196612, 1961, 1962, 1963, 1964, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UILayout.UICanvas> - id=585
+	0, 196612, 1965, 1966, 1967, 1968, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleVelocity> - id=586
+	0, 196612, 1969, 1970, 1971, 1972, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleVelocity> - id=587
+	0, 196612, 1973, 1974, 1975, 1976, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleAngularVelocity> - id=588
+	0, 196612, 1977, 1978, 1979, 1980, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleAngularVelocity> - id=589
+	0, 196612, 1981, 1982, 1983, 1984, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleLifetimeColor> - id=590
+	0, 196612, 1985, 1986, 1987, 1988, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleLifetimeColor> - id=591
+	0, 196612, 1989, 1990, 1991, 1992, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleLifetimeScale> - id=592
+	0, 196612, 1993, 1994, 1995, 1996, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleLifetimeScale> - id=593
+	0, 196612, 1997, 1998, 1999, 2000, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.BurstEmissionInternal> - id=594
+	0, 196612, 2001, 2002, 2003, 2004, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.BurstEmissionInternal> - id=595
+	0, 196612, 2005, 2006, 2007, 2008, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleEmitterInternal> - id=596
+	0, 196612, 2009, 2010, 2011, 2012, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleEmitterInternal> - id=597
+	0, 196612, 2013, 2014, 2015, 2016, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleEmitterReference> - id=598
+	0, 196612, 2017, 2018, 2019, 2020, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleEmitterReference> - id=599
+	0, 196612, 2021, 2022, 2023, 2024, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.Particle> - id=600
+	0, 196612, 2025, 2026, 2027, 2028, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.Particle> - id=601
+	0, 196612, 2029, 2030, 2031, 2032, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.ParticleEmitter> - id=602
+	0, 196612, 2033, 2034, 2035, 2036, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.ParticleEmitter> - id=603
+	0, 196612, 2037, 2038, 2039, 2040, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterBoxSource> - id=604
+	0, 196612, 2041, 2042, 2043, 2044, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterBoxSource> - id=605
+	0, 196612, 2045, 2046, 2047, 2048, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterConeSource> - id=606
+	0, 196612, 2049, 2050, 2051, 2052, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterConeSource> - id=607
+	0, 196612, 2053, 2054, 2055, 2056, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterCircleSource> - id=608
+	0, 196612, 2057, 2058, 2059, 2060, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterCircleSource> - id=609
+	0, 196612, 2061, 2062, 2063, 2064, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialScale> - id=610
+	0, 196612, 2065, 2066, 2067, 2068, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialScale> - id=611
+	0, 196612, 2069, 2070, 2071, 2072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialVelocity> - id=612
+	0, 196612, 2073, 2074, 2075, 2076, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialVelocity> - id=613
+	0, 196612, 2077, 2078, 2079, 2080, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialRotation> - id=614
+	0, 196612, 2081, 2082, 2083, 2084, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialRotation> - id=615
+	0, 196612, 2085, 2086, 2087, 2088, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialAngularVelocity> - id=616
+	0, 196612, 2089, 2090, 2091, 2092, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialAngularVelocity> - id=617
+	0, 196612, 2093, 2094, 2095, 2096, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.EmitterInitialColor> - id=618
+	0, 196612, 2097, 2098, 2099, 2100, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.EmitterInitialColor> - id=619
+	0, 196612, 2101, 2102, 2103, 2104, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeColor> - id=620
+	0, 196612, 2105, 2106, 2107, 2108, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeColor> - id=621
+	0, 196612, 2109, 2110, 2111, 2112, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeScale> - id=622
+	0, 196612, 2113, 2114, 2115, 2116, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeScale> - id=623
+	0, 196612, 2117, 2118, 2119, 2120, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeAngularVelocity> - id=624
+	0, 196612, 2121, 2122, 2123, 2124, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeAngularVelocity> - id=625
+	0, 196612, 2125, 2126, 2127, 2128, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeVelocity> - id=626
+	0, 196612, 2129, 2130, 2131, 2132, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeVelocity> - id=627
+	0, 196612, 2133, 2134, 2135, 2136, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.LifetimeSpeedMultiplier> - id=628
+	0, 196612, 2137, 2138, 2139, 2140, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.LifetimeSpeedMultiplier> - id=629
+	0, 196612, 2141, 2142, 2143, 2144, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Particles.BurstEmission> - id=630
+	0, 196612, 2145, 2146, 2147, 2148, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Particles.BurstEmission> - id=631
+	0, 196612, 2149, 2150, 2151, 2152, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.RectHitBox2D> - id=632
+	0, 196612, 2153, 2154, 2155, 2156, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.RectHitBox2D> - id=633
+	0, 196612, 2157, 2158, 2159, 2160, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.Sprite2DRendererHitBox2D> - id=634
+	0, 196612, 2161, 2162, 2163, 2164, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.Sprite2DRendererHitBox2D> - id=635
+	0, 196612, 2165, 2166, 2167, 2168, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.HitTestResult> - id=636
+	0, 196612, 2169, 2170, 2171, 2172, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.HitTestResult> - id=637
+	0, 196612, 2173, 2174, 2175, 2176, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.RayCastResult> - id=638
+	0, 196612, 2177, 2178, 2179, 2180, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.RayCastResult> - id=639
+	0, 196612, 2181, 2182, 2183, 2184, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=640
+	0, 196612, 2185, 2186, 2187, 2188, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=641
+	0, 196612, 2189, 2190, 2191, 2192, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.AudioHTMLClip> - id=642
+	0, 196612, 2193, 2194, 2195, 2196, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.AudioHTMLClip> - id=643
+	0, 196612, 2197, 2198, 2199, 2200, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.AudioHTMLLoading> - id=644
+	0, 196612, 2201, 2202, 2203, 2204, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.AudioHTMLLoading> - id=645
+	0, 196612, 2205, 2206, 2207, 2208, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.AudioHTMLSource> - id=646
+	0, 196612, 2209, 2210, 2211, 2212, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.AudioHTMLSource> - id=647
+	0, 196612, 2213, 2214, 2215, 2216, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoClipLoadFromFile> - id=648
+	0, 196612, 2217, 2218, 2219, 2220, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoClipLoadFromFile> - id=649
+	0, 196612, 2221, 2222, 2223, 2224, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoClip> - id=650
+	0, 196612, 2225, 2226, 2227, 2228, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoClip> - id=651
+	0, 196612, 2229, 2230, 2231, 2232, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoPlayer> - id=652
+	0, 196612, 2233, 2234, 2235, 2236, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoPlayer> - id=653
+	0, 196612, 2237, 2238, 2239, 2240, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoPlayerAutoDeleteOnEnd> - id=654
+	0, 196612, 2241, 2242, 2243, 2244, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoPlayerAutoDeleteOnEnd> - id=655
+	0, 196612, 2245, 2246, 2247, 2248, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=656
+	0, 196612, 2249, 2250, 2251, 2252, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=657
+	0, 196612, 2253, 2254, 2255, 2256, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.PointerInteraction> - id=658
+	0, 196612, 2257, 2258, 2259, 2260, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.PointerInteraction> - id=659
+	0, 196612, 2261, 2262, 2263, 2264, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.Button> - id=660
+	0, 196612, 2265, 2266, 2267, 2268, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.Button> - id=661
+	0, 196612, 2269, 2270, 2271, 2272, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.Toggle> - id=662
+	0, 196612, 2273, 2274, 2275, 2276, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.Toggle> - id=663
+	0, 196612, 2277, 2278, 2279, 2280, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.SpriteTransition> - id=664
+	0, 196612, 2281, 2282, 2283, 2284, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.SpriteTransition> - id=665
+	0, 196612, 2285, 2286, 2287, 2288, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.ColorTintTransition> - id=666
+	0, 196612, 2289, 2290, 2291, 2292, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.ColorTintTransition> - id=667
+	0, 196612, 2293, 2294, 2295, 2296, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.InactiveUIControl> - id=668
+	0, 196612, 2297, 2298, 2299, 2300, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.InactiveUIControl> - id=669
+	0, 196612, 2301, 2302, 2303, 2304, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.UIControls.InitialColor> - id=670
+	0, 196612, 2305, 2306, 2307, 2308, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.UIControls.InitialColor> - id=671
+	0, 196612, 2309, 2310, 2311, 2312, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.BitmapFont> - id=672
+	0, 196612, 2313, 2314, 2315, 2316, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.BitmapFont> - id=673
+	0, 196612, 2317, 2318, 2319, 2320, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.NativeFont> - id=674
+	0, 196612, 2321, 2322, 2323, 2324, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.NativeFont> - id=675
+	0, 196612, 2325, 2326, 2327, 2328, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DStyleNativeFont> - id=676
+	0, 196612, 2329, 2330, 2331, 2332, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DStyleNativeFont> - id=677
+	0, 196612, 2333, 2334, 2335, 2336, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=678
+	0, 196612, 2337, 2338, 2339, 2340, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=679
+	0, 196612, 2341, 2342, 2343, 2344, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DStyle> - id=680
+	0, 196612, 2345, 2346, 2347, 2348, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DStyle> - id=681
+	0, 196612, 2349, 2350, 2351, 2352, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DRenderer> - id=682
+	0, 196612, 2353, 2354, 2355, 2356, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DRenderer> - id=683
+	0, 196612, 2357, 2358, 2359, 2360, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DAutoFit> - id=684
+	0, 196612, 2361, 2362, 2363, 2364, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DAutoFit> - id=685
+	0, 196612, 2365, 2366, 2367, 2368, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DPrivateNative> - id=686
+	0, 196612, 2369, 2370, 2371, 2372, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DPrivateNative> - id=687
+	0, 196612, 2373, 2374, 2375, 2376, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DPrivateBitmap> - id=688
+	0, 196612, 2377, 2378, 2379, 2380, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DPrivateBitmap> - id=689
+	0, 196612, 2381, 2382, 2383, 2384, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=690
+	0, 196612, 2385, 2386, 2387, 2388, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=691
+	0, 196612, 2389, 2390, 2391, 2392, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.GlyphPrivateBuffer> - id=692
+	0, 196612, 2393, 2394, 2395, 2396, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.GlyphPrivateBuffer> - id=693
+	0, 196612, 2397, 2398, 2399, 2400, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.CharacterInfoBuffer> - id=694
+	0, 196612, 2401, 2402, 2403, 2404, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.CharacterInfoBuffer> - id=695
+	0, 196612, 2405, 2406, 2407, 2408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.TextString> - id=696
+	0, 196612, 2409, 2410, 2411, 2412, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.TextString> - id=697
+	0, 196612, 2413, 2414, 2415, 2416, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.TextPrivateString> - id=698
+	0, 196612, 2417, 2418, 2419, 2420, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.TextPrivateString> - id=699
+	0, 196612, 2421, 2422, 2423, 2424, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Text.TextPrivateFontName> - id=700
+	0, 196612, 2425, 2426, 2427, 2428, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Text.TextPrivateFontName> - id=701
+	0, 196612, 2429, 2430, 2431, 2432, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.VideoClipLoading> - id=702
+	0, 196612, 2433, 2434, 2435, 2436, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.VideoClipLoading> - id=703
+	0, 196612, 2437, 2438, 2439, 2440, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.VideoClipLoadingState> - id=704
+	0, 196612, 2441, 2442, 2443, 2444, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.VideoClipLoadingState> - id=705
+	0, 196612, 2445, 2446, 2447, 2448, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.HTML.VideoClipHTML> - id=706
+	0, 196612, 2449, 2450, 2451, 2452, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.HTML.VideoClipHTML> - id=707
+	0, 196612, 2453, 2454, 2455, 2456, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=708
+	0, 196612, 2457, 2458, 2459, 2460, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=709
+	0, 196612, 2461, 2462, 2463, 2464, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.Image2DGLES2> - id=710
+	0, 196612, 2465, 2466, 2467, 2468, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.Image2DGLES2> - id=711
+	0, 196612, 2469, 2470, 2471, 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.Image2DRenderToTextureHTML> - id=712
+	0, 196612, 2473, 2474, 2475, 2476, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.Image2DRenderToTextureHTML> - id=713
+	0, 196612, 2477, 2478, 2479, 2480, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.Sprite2DRendererHTML> - id=714
+	0, 196612, 2481, 2482, 2483, 2484, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.Sprite2DRendererHTML> - id=715
+	0, 196612, 2485, 2486, 2487, 2488, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TileHTML> - id=716
+	0, 196612, 2489, 2490, 2491, 2492, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TileHTML> - id=717
+	0, 196612, 2493, 2494, 2495, 2496, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TintedGlyphIndex> - id=718
+	0, 196612, 2497, 2498, 2499, 2500, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TintedGlyphIndex> - id=719
+	0, 196612, 2501, 2502, 2503, 2504, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TintedGlyphHTML> - id=720
+	0, 196612, 2505, 2506, 2507, 2508, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TintedGlyphHTML> - id=721
+	0, 196612, 2509, 2510, 2511, 2512, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Unity.Tiny.Rendering.TextBitmapHTML> - id=722
+	0, 196612, 2513, 2514, 2515, 2516, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Unity.Tiny.Rendering.TextBitmapHTML> - id=723
+	0, 196612, 2517, 2518, 2519, 2520, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Object> - id=724
+	0, 196612, 2521, 2522, 2523, 2524, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Object> - id=725
+	0, 196612, 2525, 2526, 2527, 2528, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<Player> - id=726
+	0, 196612, 2529, 2530, 2531, 2532, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<Player> - id=727
+	0, 196612, 2533, 2534, 2535, 2536, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.Button> - id=728
+	0, 196612, 2537, 2538, 2539, 2540, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.Button> - id=729
+	0, 196612, 2541, 2542, 2543, 2544, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.GameConfig> - id=730
+	0, 196612, 2545, 2546, 2547, 2548, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.GameConfig> - id=731
+	0, 196612, 2549, 2550, 2551, 2552, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.ScoreManager> - id=732
+	0, 196612, 2553, 2554, 2555, 2556, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.ScoreManager> - id=733
+	0, 196612, 2557, 2558, 2559, 2560, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.StartButton> - id=734
+	0, 196612, 2561, 2562, 2563, 2564, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.StartButton> - id=735
+	0, 196612, 2565, 2566, 2567, 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.Wall> - id=736
+	0, 196612, 2569, 2570, 2571, 2572, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.Wall> - id=737
+	0, 196612, 2573, 2574, 2575, 2576, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.ObjectsManager> - id=738
+	0, 196612, 2577, 2578, 2579, 2580, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.ObjectsManager> - id=739
+	0, 196612, 2581, 2582, 2583, 2584, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.WallsManager> - id=740
+	0, 196612, 2585, 2586, 2587, 2588, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.WallsManager> - id=741
+	0, 262154, 2589, 2590, 2591, 2592, 2593, 2594, 2595, 2596, 2597, 2598, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 25720 : 51424, // Unity.Entities.BeginInitializationEntityCommandBufferSystem - id=742
+	0, 196618, 2599, 2600, 2601, 2602, 2603, 2604, 2605, 2606, 2607, 2608, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Entities.EntityCommandBufferSystem - id=743
+	0, 131082, 2609, 2610, 2611, 2612, 2613, 2614, 2615, 2616, 2617, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, // Unity.Entities.ComponentSystem - id=744
+	0, 65545, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 0, 2625, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.ComponentSystemBase - id=745
+	0, 262154, 2626, 2627, 2628, 2629, 2630, 2631, 2632, 2633, 2634, 2635, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 25720 : 51424, // Unity.Entities.EndInitializationEntityCommandBufferSystem - id=746
+	0, 262155, 2636, 2637, 2638, 2639, 2640, 2641, 2642, 2643, 2644, 2645, 2646, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26016 : 52016, // Unity.Entities.InitializationSystemGroup - id=747
+	0, 196619, 2647, 2648, 2649, 2650, 2651, 2652, 2653, 2654, 2655, 2656, 2657, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Entities.ComponentSystemGroup - id=748
+	0, 262154, 2658, 2659, 2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 25720 : 51424, // Unity.Entities.BeginSimulationEntityCommandBufferSystem - id=749
+	0, 262154, 2668, 2669, 2670, 2671, 2672, 2673, 2674, 2675, 2676, 2677, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 25720 : 51424, // Unity.Entities.EndSimulationEntityCommandBufferSystem - id=750
+	0, 262155, 2678, 2679, 2680, 2681, 2682, 2683, 2684, 2685, 2686, 2687, 2688, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26016 : 52016, // Unity.Entities.LateSimulationSystemGroup - id=751
+	0, 262155, 2689, 2690, 2691, 2692, 2693, 2694, 2695, 2696, 2697, 2698, 2699, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26016 : 52016, // Unity.Entities.SimulationSystemGroup - id=752
+	0, 262154, 2700, 2701, 2702, 2703, 2704, 2705, 2706, 2707, 2708, 2709, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 25720 : 51424, // Unity.Entities.BeginPresentationEntityCommandBufferSystem - id=753
+	0, 262154, 2710, 2711, 2712, 2713, 2714, 2715, 2716, 2717, 2718, 2719, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 25720 : 51424, // Unity.Entities.EndPresentationEntityCommandBufferSystem - id=754
+	0, 262155, 2720, 2721, 2722, 2723, 2724, 2725, 2726, 2727, 2728, 2729, 2730, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26016 : 52016, // Unity.Entities.PresentationSystemGroup - id=755
+	0, 196618, 2731, 2732, 2733, 2734, 2735, 2736, 2737, 2738, 2739, 2740, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core.TinyEnvironment - id=756
+	0, 196618, 2741, 2742, 2743, 2744, 2745, 2746, 2747, 2748, 2749, 2750, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.PointQuery.PointQuerySystem - id=757
+	0, 196618, 2751, 2752, 2753, 2754, 2755, 2756, 2757, 2758, 2759, 2760, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.Image2DMaskInit - id=758
+	0, 262155, 2761, 2762, 2763, 2764, 2765, 2766, 2767, 2768, 2769, 2770, 2771, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26016 : 52016, // Unity.Authoring.SceneConversionSystemGroup - id=759
+	0, 196618, 2772, 2773, 2774, 2775, 2776, 2777, 2778, 2779, 2780, 2781, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Watchers.WatchersSystem - id=760
+	0, 262154, 2782, 2783, 2784, 2785, 2786, 2787, 2788, 2789, 2790, 2791, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26788 : 53560, // Unity.Tiny.Watchers.DefaultWatchersSystem - id=761
+	0, 196618, 2792, 2793, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 2801, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Scenes.EntityReferenceRemapSystem - id=762
+	0, 196618, 2802, 2803, 2804, 2805, 2806, 2807, 2808, 2809, 2810, 2811, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Scenes.ClearRemappedEntityReferenceSystem - id=763
+	0, 196618, 2812, 2813, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Scenes.RemoveRemapInformationSystem - id=764
+	0, 196618, 2822, 2823, 2824, 2825, 2826, 2827, 2828, 2829, 2830, 2831, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Scenes.SceneStreamingSystem - id=765
+	0, 196618, 2832, 2833, 2834, 2835, 2836, 2837, 2838, 2839, 2840, 2841, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.DisplayListSystem - id=766
+	0, 196618, 2842, 2843, 2844, 2845, 2846, 2847, 2848, 2849, 2850, 2851, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.TransformHelpersSystem - id=767
+	0, 196618, 2852, 2853, 2854, 2855, 2856, 2857, 2858, 2859, 2860, 2861, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.UpdateLocalTransformSystem - id=768
+	0, 196618, 2862, 2863, 2864, 2865, 2866, 2867, 2868, 2869, 2870, 2871, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.UpdateWorldTransformSystem - id=769
+	0, 196618, 2872, 2873, 2874, 2875, 2876, 2877, 2878, 2879, 2880, 2881, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Tweens.TweenSystem - id=770
+	0, 196618, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Input.InputSystem - id=771
+	0, 262154, 2892, 2893, 2894, 2895, 2896, 2897, 2898, 2899, 2900, 2901, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 27576 : 55136, // Unity.Tiny.HTML.Image2DIOHTMLSystem - id=772
+	0, 196618, 2902, 2903, 2904, 2905, 2906, 2907, 2908, 2909, 2910, 2911, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.GenericAssetLoader`4<Unity.Tiny.Core2D.Image2D,Unity.Tiny.HTML.Image2DHTML,Unity.Tiny.Core2D.Image2DLoadFromFile,Unity.Tiny.HTML.Image2DHTMLLoading> - id=773
+	0, 196618, 2912, 2913, 2914, 2915, 2916, 2917, 2918, 2919, 2920, 2921, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.Shape2DInitSystem - id=774
+	0, 196618, 2922, 2923, 2924, 2925, 2926, 2927, 2928, 2929, 2930, 2931, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.Sprite2DSystem - id=775
+	0, 196618, 2932, 2933, 2934, 2935, 2936, 2937, 2938, 2939, 2940, 2941, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.SpriteAtlasSystem - id=776
+	0, 196618, 2942, 2943, 2944, 2945, 2946, 2947, 2948, 2949, 2950, 2951, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.SequencePlayerSystem - id=777
+	0, 262155, 2952, 2953, 2954, 2955, 2956, 2957, 2958, 2959, 2960, 2961, 2962, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 27944 : 55872, // Unity.Tiny.HTML.HTMLWindowSystem - id=778
+	0, 196619, 2963, 2964, 2965, 2966, 2967, 2968, 2969, 2970, 2971, 0, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core.WindowSystem - id=779
+	0, 196618, 2972, 2973, 2974, 2975, 2976, 2977, 2978, 2979, 2980, 2981, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UILayout.AddMissingComponents - id=780
+	0, 196618, 2982, 2983, 2984, 2985, 2986, 2987, 2988, 2989, 2990, 2991, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UILayout.SetRectTransformSizeSystem - id=781
+	0, 196618, 2992, 2993, 2994, 2995, 2996, 2997, 2998, 2999, 3000, 3001, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UILayout.SetSprite2DSizeSystem - id=782
+	0, 196618, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UILayout.UICanvasSystem - id=783
+	0, 196618, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UILayout.UILayoutSystem - id=784
+	0, 196618, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029, 3030, 3031, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Particles.EmitterSystem - id=785
+	0, 196618, 3032, 3033, 3034, 3035, 3036, 3037, 3038, 3039, 3040, 3041, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Particles.ParticleSystem - id=786
+	0, 262154, 3042, 3043, 3044, 3045, 3046, 3047, 3048, 3049, 3050, 3051, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 27452 : 54888, // Unity.Tiny.HTML.HTMLInputSystem - id=787
+	0, 196618, 3052, 3053, 3054, 3055, 3056, 3057, 3058, 3059, 3060, 3061, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.HitBox2D.HitBox2DSystem - id=788
+	0, 262154, 3062, 3063, 3064, 3065, 3066, 3067, 3068, 3069, 3070, 3071, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 28616 : 57216, // Unity.Tiny.HTML.AudioIOHTMLSystem - id=789
+	0, 196618, 3072, 3073, 3074, 3075, 3076, 3077, 3078, 3079, 3080, 3081, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.GenericAssetLoader`4<Unity.Tiny.Audio.AudioClip,Unity.Tiny.HTML.AudioHTMLClip,Unity.Tiny.Audio.AudioClipLoadFromFile,Unity.Tiny.HTML.AudioHTMLLoading> - id=790
+	0, 262158, 3082, 3083, 3084, 3085, 3086, 3087, 3088, 3089, 3090, 3091, 3092, 3093, 3094, 3095, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 28756 : 57496, // Unity.Tiny.HTML.AudioHTMLSystem - id=791
+	0, 196622, 3096, 3097, 3098, 3099, 3100, 3101, 3102, 3103, 3104, 3105, 0, 0, 0, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Audio.AudioSystem - id=792
+	0, 196618, 3106, 3107, 3108, 3109, 3110, 3111, 3112, 3113, 3114, 3115, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Video.VideoSystem - id=793
+	0, 196618, 3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UIControls.ButtonSystem - id=794
+	0, 196618, 3126, 3127, 3128, 3129, 3130, 3131, 3132, 3133, 3134, 3135, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UIControls.PointerInteractionSystem - id=795
+	0, 196618, 3136, 3137, 3138, 3139, 3140, 3141, 3142, 3143, 3144, 3145, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UIControls.ToggleCheckedSystem - id=796
+	0, 196618, 3146, 3147, 3148, 3149, 3150, 3151, 3152, 3153, 3154, 3155, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UIControls.ToggleSystem - id=797
+	0, 196618, 3156, 3157, 3158, 3159, 3160, 3161, 3162, 3163, 3164, 3165, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.UIControls.UIControlsSystem - id=798
+	0, 262154, 3166, 3167, 3168, 3169, 3170, 3171, 3172, 3173, 3174, 3175, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 26788 : 53560, // Unity.Tiny.UIControls.UIControlsWatchersSystem - id=799
+	0, 196618, 3176, 3177, 3178, 3179, 3180, 3181, 3182, 3183, 3184, 3185, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Text.Text2DInitSystem - id=800
+	0, 196618, 3186, 3187, 3188, 3189, 3190, 3191, 3192, 3193, 3194, 3195, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Text.TextBitmapFontSystem - id=801
+	0, 262154, 3196, 3197, 3198, 3199, 3200, 3201, 3202, 3203, 3204, 3205, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 29440 : 58864, // Unity.Tiny.HTML.VideoHTMLAssetSystem - id=802
+	0, 196618, 3206, 3207, 3208, 3209, 3210, 3211, 3212, 3213, 3214, 3215, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Core2D.GenericAssetLoader`4<Unity.Tiny.Video.VideoClip,Unity.Tiny.HTML.VideoClipLoadingState,Unity.Tiny.Video.VideoClipLoadFromFile,Unity.Tiny.HTML.VideoClipLoading> - id=803
+	0, 196618, 3216, 3217, 3218, 3219, 3220, 3221, 3222, 3223, 3224, 3225, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.HTML.VideoHTMLSystem - id=804
+	0, 196618, 3226, 3227, 3228, 3229, 3230, 3231, 3232, 3233, 3234, 3235, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.TextHTML.TextNativeFontHtmlSystem - id=805
+	0, 262161, 3236, 3237, 3238, 3239, 3240, 3241, 3242, 3243, 3244, 3245, 3246, 3247, 3248, 3249, 3250, 3251, 3252, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 29712 : 59408, // Unity.Tiny.Rendering.RendererGLES2System - id=806
+	0, 196625, 3253, 3254, 3255, 3256, 3257, 3258, 3259, 3260, 3261, 3262, 0, 0, 0, 0, 0, 0, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // Unity.Tiny.Rendering.RendererComponentSystem - id=807
+	0, 262161, 3263, 3264, 3265, 3266, 3267, 3268, 3269, 3270, 3271, 3272, 3273, 3274, 3275, 3276, 3277, 3278, 3279, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, IL2CPP_SIZEOF_VOID_P == 4 ? 29712 : 59408, // Unity.Tiny.Rendering.RendererCanvasSystem - id=808
+	0, 196618, 3280, 3281, 3282, 3283, 3284, 3285, 3286, 3287, 3288, 3289, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.CollideSystem - id=809
+	0, 196618, 3290, 3291, 3292, 3293, 3294, 3295, 3296, 3297, 3298, 3299, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.ObjectsMovingSystem - id=810
+	0, 196618, 3300, 3301, 3302, 3303, 3304, 3305, 3306, 3307, 3308, 3309, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.PlayerDestroySystem - id=811
+	0, 196618, 3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3318, 3319, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.PlayerMovingSystem - id=812
+	0, 196618, 3320, 3321, 3322, 3323, 3324, 3325, 3326, 3327, 3328, 3329, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.ScoreSystem - id=813
+	0, 196618, 3330, 3331, 3332, 3333, 3334, 3335, 3336, 3337, 3338, 3339, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.StartButtonSystem - id=814
+	0, 196618, 3340, 3341, 3342, 3343, 3344, 3345, 3346, 3347, 3348, 3349, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 25836 : 51656, IL2CPP_SIZEOF_VOID_P == 4 ? 25780 : 51544, // dodgeman.WallMovingSystem - id=815
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Boolean[] - id=816
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Attribute[] - id=817
+	0, 131075, 3350, 3351, 3352, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30372 : 60728, // Unity.Entities.DisableAutoCreationAttribute - id=818
+	0, 65539, 3353, 3354, 3355, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Attribute - id=819
+	0, 131075, 3356, 3357, 3358, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30372 : 60728, // Unity.Entities.UpdateInGroupAttribute - id=820
+	0, 131075, 3359, 3360, 3361, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30372 : 60728, // Unity.Entities.UpdateAfterAttribute - id=821
+	0, 131075, 3362, 3363, 3364, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30372 : 60728, // Unity.Entities.UpdateBeforeAttribute - id=822
+	0, 196612, 3365, 3366, 3367, 3368, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/AddComponentRawType - id=823
+	0, 196612, 3369, 3370, 3371, 3372, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/RemoveComponentRawType - id=824
+	0, 196612, 3373, 3374, 3375, 3376, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/HasComponentDataRawType - id=825
+	0, 196612, 3377, 3378, 3379, 3380, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/GetComponentDataPtrRawROType - id=826
+	0, 196612, 3381, 3382, 3383, 3384, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/GetComponentDataPtrRawRWType - id=827
+	0, 196612, 3385, 3386, 3387, 3388, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/CreateEntityType - id=828
+	0, 196612, 3389, 3390, 3391, 3392, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/DestroyEntityType - id=829
+	0, 196612, 3393, 3394, 3395, 3396, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/CreateArchetypeRawType - id=830
+	0, 196612, 3397, 3398, 3399, 3400, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/TypeIndexForStableTypeHashType - id=831
+	0, 196612, 3401, 3402, 3403, 3404, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/GetBufferElementDataPtrRawROType - id=832
+	0, 196612, 3405, 3406, 3407, 3408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/GetBufferElementDataPtrRawRWType - id=833
+	0, 196612, 3409, 3410, 3411, 3412, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityManagerDelegates/GetBufferElementDataLengthType - id=834
+	0, 65539, 3413, 3414, 3415, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.EntityManager - id=835
+	0, 65539, 3416, 3417, 3418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Debugging.StringRingHistory - id=836
+	0, 131075, 3419, 3420, 3421, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // System.Double - id=837
+	0, 131075, 3422, 3423, 3424, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // System.Boolean - id=838
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Byte[] - id=839
+	0, 65539, 3425, 3426, 3427, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Video.VideoSystem/<>c__DisplayClass0_0 - id=840
+	0, 16842760, 3428, 3429, 3430, 3431, 3432, 3433, 3434, 3435, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1576 : 3152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.MakeEntryShape - id=835
-	0, 65539, 3398, 3399, 3400, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Rendering.RendererComponentSystem/<>c__DisplayClass16_0 - id=836
-	0, 16842760, 3401, 3402, 3403, 3404, 3405, 3406, 3407, 3408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1624 : 3248, 
+	#endif // Unity.Tiny.Core2D.MakeEntryShape - id=841
+	0, 65539, 3436, 3437, 3438, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Rendering.RendererComponentSystem/<>c__DisplayClass16_0 - id=842
+	0, 16842760, 3439, 3440, 3441, 3442, 3443, 3444, 3445, 3446, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1576 : 3152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.MakeEntrySortingGroup - id=837
-	0, 65539, 3409, 3410, 3411, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.DisplayListSystem/<>c__DisplayClass13_0 - id=838
-	0, 65539, 3412, 3413, 3414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.DisplayListSystem/<>c__DisplayClass18_0 - id=839
-	0, 16842756, 3415, 3416, 3417, 3418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 30980 : 61944, 
+	#endif // Unity.Tiny.Core2D.MakeEntrySortingGroup - id=843
+	0, 65539, 3447, 3448, 3449, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.DisplayListSystem/<>c__DisplayClass13_0 - id=844
+	0, 65539, 3450, 3451, 3452, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.DisplayListSystem/<>c__DisplayClass18_0 - id=845
+	0, 16842756, 3453, 3454, 3455, 3456, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 31268 : 62520, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=840
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=841
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.Entity[] - id=842
-	0, 65539, 3419, 3420, 3421, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.UpdateLocalTransformSystem/<>c__DisplayClass1_0 - id=843
-	0, 196612, 3422, 3423, 3424, 3425, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_D`1<Unity.Tiny.Core2D.PrivateTransformData> - id=844
-	0, 196612, 3426, 3427, 3428, 3429, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.LocalToParent> - id=845
-	0, 196612, 3430, 3431, 3432, 3433, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=846
-	0, 196612, 3434, 3435, 3436, 3437, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.LocalToParent> - id=847
-	0, 196612, 3438, 3439, 3440, 3441, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.LocalToParent> - id=848
-	0, 196612, 3442, 3443, 3444, 3445, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=849
-	0, 196612, 3446, 3447, 3448, 3449, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.LocalToParent> - id=850
-	0, 196612, 3450, 3451, 3452, 3453, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.LocalToParent> - id=851
-	0, 196612, 3454, 3455, 3456, 3457, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=852
-	0, 196612, 3458, 3459, 3460, 3461, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=853
-	0, 196612, 3462, 3463, 3464, 3465, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDDD`4<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=854
-	0, 196612, 3466, 3467, 3468, 3469, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_DDDD`4<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=855
-	0, 65539, 3470, 3471, 3472, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.UpdateLocalTransformSystem/<>c - id=856
-	0, 65539, 3473, 3474, 3475, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.UpdateWorldTransformSystem/<>c__DisplayClass2_0 - id=857
-	0, 65539, 3476, 3477, 3478, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.CollideSystem/<>c__DisplayClass0_0 - id=858
-	0, 65539, 3479, 3480, 3481, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.CollideSystem/<>c__DisplayClass0_1 - id=859
-	0, 65539, 3482, 3483, 3484, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.PlayerDestroySystem/<>c__DisplayClass0_0 - id=860
-	0, 65539, 3485, 3486, 3487, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.PlayerMovingSystem/<>c__DisplayClass0_0 - id=861
-	0, 65539, 3488, 3489, 3490, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandlePool - id=862
-	0, 65540, 3491, 3492, 3493, 3494, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Collections.LowLevel.Unsafe.DisposeSentinel - id=863
-	0, 16908292, 3495, 3496, 3497, 3498, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31696 : 63376, 
+	#endif // System.Collections.Generic.List`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=846
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=847
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.Entity[] - id=848
+	0, 65539, 3457, 3458, 3459, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.UpdateLocalTransformSystem/<>c__DisplayClass1_0 - id=849
+	0, 196612, 3460, 3461, 3462, 3463, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_D`1<Unity.Tiny.Core2D.PrivateTransformData> - id=850
+	0, 196612, 3464, 3465, 3466, 3467, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.LocalToParent> - id=851
+	0, 196612, 3468, 3469, 3470, 3471, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=852
+	0, 196612, 3472, 3473, 3474, 3475, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.LocalToParent> - id=853
+	0, 196612, 3476, 3477, 3478, 3479, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DD`2<Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.LocalToParent> - id=854
+	0, 196612, 3480, 3481, 3482, 3483, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=855
+	0, 196612, 3484, 3485, 3486, 3487, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.LocalToParent> - id=856
+	0, 196612, 3488, 3489, 3490, 3491, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.LocalToParent> - id=857
+	0, 196612, 3492, 3493, 3494, 3495, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=858
+	0, 196612, 3496, 3497, 3498, 3499, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDD`3<Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=859
+	0, 196612, 3500, 3501, 3502, 3503, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDDD`4<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.NonUniformScale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=860
+	0, 196612, 3504, 3505, 3506, 3507, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_DDDD`4<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent> - id=861
+	0, 65539, 3508, 3509, 3510, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.UpdateLocalTransformSystem/<>c - id=862
+	0, 65539, 3511, 3512, 3513, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.UpdateWorldTransformSystem/<>c__DisplayClass2_0 - id=863
+	0, 65539, 3514, 3515, 3516, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.CollideSystem/<>c__DisplayClass0_0 - id=864
+	0, 65539, 3517, 3518, 3519, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.CollideSystem/<>c__DisplayClass0_1 - id=865
+	0, 65539, 3520, 3521, 3522, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.ObjectsMovingSystem/<>c__DisplayClass2_0 - id=866
+	0, 65539, 3523, 3524, 3525, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.PlayerDestroySystem/<>c__DisplayClass0_0 - id=867
+	0, 65539, 3526, 3527, 3528, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.PlayerMovingSystem/<>c__DisplayClass0_0 - id=868
+	0, 65539, 3529, 3530, 3531, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.ScoreSystem/<>c__DisplayClass0_0 - id=869
+	0, 65539, 3532, 3533, 3534, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.StartButtonSystem/<>c__DisplayClass2_0 - id=870
+	0, 65539, 3535, 3536, 3537, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.WallMovingSystem/<>c__DisplayClass0_0 - id=871
+	0, 65539, 3538, 3539, 3540, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandlePool - id=872
+	0, 65540, 3541, 3542, 3543, 3544, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Collections.LowLevel.Unsafe.DisposeSentinel - id=873
+	0, 16908292, 3545, 3546, 3547, 3548, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32080 : 64144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetypesJob - id=864
-	0, 0, // Unity.Jobs.IJobParallelFor - id=865
-	0, 16908292, 3499, 3500, 3501, 3502, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31696 : 63376, 
+	#endif // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetypesJob - id=874
+	0, 0, // Unity.Jobs.IJobParallelFor - id=875
+	0, 16908292, 3549, 3550, 3551, 3552, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32080 : 64144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.GatherChunks - id=866
-	0, 16908292, 3503, 3504, 3505, 3506, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31696 : 63376, 
+	#endif // Unity.Entities.GatherChunks - id=876
+	0, 16908292, 3553, 3554, 3555, 3556, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32080 : 64144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.JoinChunksJob - id=867
-	0, 131075, 3507, 3508, 3509, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.ComponentTypeInArchetype - id=868
-	0, 16908292, 3510, 3511, 3512, 3513, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31852 : 63688, 
+	#endif // Unity.Entities.JoinChunksJob - id=877
+	0, 131075, 3557, 3558, 3559, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.ComponentTypeInArchetype - id=878
+	0, 16908292, 3560, 3561, 3562, 3563, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32236 : 64456, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.ArchetypeChunk - id=869
-	0, 0, // System.IEquatable`1<Unity.Entities.ArchetypeChunk> - id=870
-	0, 16842756, 3514, 3515, 3516, 3517, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 31896 : 63776, 
+	#endif // Unity.Entities.ArchetypeChunk - id=879
+	0, 0, // System.IEquatable`1<Unity.Entities.ArchetypeChunk> - id=880
+	0, 16842756, 3564, 3565, 3566, 3567, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32280 : 64544, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<System.String> - id=871
-	0, 0, // System.Collections.Generic.IEnumerable`1<System.String> - id=872
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ComponentSystemBase> - id=873
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1<System.String> - id=881
+	0, 0, // System.Collections.Generic.IEnumerable`1<System.String> - id=882
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ComponentSystemBase> - id=883
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ComponentSystemBase> - id=874
-	0, 0, // System.Collections.IEnumerator - id=875
-	0, 65539, 3518, 3519, 3520, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.EntityQueryCache - id=876
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityQuery[] - id=877
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentSystemGroup/SysAndDep[] - id=878
-	0, 16842756, 3521, 3522, 3523, 3524, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32032 : 64048, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ComponentSystemBase> - id=884
+	0, 0, // System.Collections.IEnumerator - id=885
+	0, 65539, 3568, 3569, 3570, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.EntityQueryCache - id=886
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityQuery[] - id=887
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentSystemGroup/SysAndDep[] - id=888
+	0, 16842756, 3571, 3572, 3573, 3574, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32416 : 64816, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<System.Type> - id=879
-	0, 0, // System.Collections.Generic.IEnumerable`1<System.Type> - id=880
-	0, 65539, 3525, 3526, 3527, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.ComponentSystemGroup/Heap`1<Unity.Entities.ComponentSystemGroup/TypeHeapElement> - id=881
-	0, 16842756, 3528, 3529, 3530, 3531, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 31904 : 63792, 
+	#endif // System.Collections.Generic.List`1<System.Type> - id=889
+	0, 0, // System.Collections.Generic.IEnumerable`1<System.Type> - id=890
+	0, 65539, 3575, 3576, 3577, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.ComponentSystemGroup/Heap`1<Unity.Entities.ComponentSystemGroup/TypeHeapElement> - id=891
+	0, 16842756, 3578, 3579, 3580, 3581, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32288 : 64560, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Entities.ComponentSystemBase> - id=882
-	0, 131075, 3532, 3533, 3534, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, // Unity.Entities.CircularSystemDependencyException - id=883
-	0, 16908292, 3535, 3536, 3537, 3538, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32168 : 64320, 
+	#endif // System.Collections.Generic.List`1<Unity.Entities.ComponentSystemBase> - id=892
+	0, 131075, 3582, 3583, 3584, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, // Unity.Entities.CircularSystemDependencyException - id=893
+	0, 16908292, 3585, 3586, 3587, 3588, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32552 : 65088, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.ComponentType - id=884
-	0, 0, // System.IEquatable`1<Unity.Entities.ComponentType> - id=885
-	0, 16908292, 3539, 3540, 3541, 3542, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32216 : 64416, 
+	#endif // Unity.Entities.ComponentType - id=894
+	0, 0, // System.IEquatable`1<Unity.Entities.ComponentType> - id=895
+	0, 16908292, 3589, 3590, 3591, 3592, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32600 : 65184, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityArchetype - id=886
-	0, 0, // System.IEquatable`1<Unity.Entities.EntityArchetype> - id=887
-	0, 196611, 3543, 3544, 3545, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, IL2CPP_SIZEOF_VOID_P == 4 ? 68 : 136, // System.NullReferenceException - id=888
-	0, 16842756, 3546, 3547, 3548, 3549, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32292 : 64568, 
+	#endif // Unity.Entities.EntityArchetype - id=896
+	0, 0, // System.IEquatable`1<Unity.Entities.EntityArchetype> - id=897
+	0, 196611, 3593, 3594, 3595, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, IL2CPP_SIZEOF_VOID_P == 4 ? 68 : 136, // System.NullReferenceException - id=898
+	0, 16842756, 3596, 3597, 3598, 3599, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32676 : 65336, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Entities.EntityCommandBuffer> - id=889
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityCommandBuffer> - id=890
-	0, 16842756, 3550, 3551, 3552, 3553, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1<Unity.Entities.EntityCommandBuffer> - id=899
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityCommandBuffer> - id=900
+	0, 16842756, 3600, 3601, 3602, 3603, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityQuery - id=891
-	0, 33685509, 3554, 3555, 3556, 3557, 3558, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32384 : 64752, IL2CPP_SIZEOF_VOID_P == 4 ? 32392 : 64768, 
+	#endif // Unity.Entities.EntityQuery - id=901
+	0, 33685509, 3604, 3605, 3606, 3607, 3608, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32768 : 65520, IL2CPP_SIZEOF_VOID_P == 4 ? 32776 : 65536, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 
 	#else
 	18446462594438135811U, 
-	#endif // System.UInt64 - id=892
-	0, 0, // System.IEquatable`1<System.UInt64> - id=893
-	0, 0, // System.IComparable`1<System.UInt64> - id=894
-	0, 65539, 3559, 3560, 3561, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.ManagedComponentStore - id=895
-	0, 16842756, 3562, 3563, 3564, 3565, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.UInt64 - id=902
+	0, 0, // System.IEquatable`1<System.UInt64> - id=903
+	0, 0, // System.IComparable`1<System.UInt64> - id=904
+	0, 65539, 3609, 3610, 3611, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Entities.ManagedComponentStore - id=905
+	0, 16842756, 3612, 3613, 3614, 3615, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityGroupManager - id=896
-	0, 65539, 3566, 3567, 3568, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Profiling.ProfilerMarker - id=897
-	0, 196611, 3569, 3570, 3571, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Entities.EntityQueryOptions - id=898
-	0, 262147, 3572, 3573, 3574, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, IL2CPP_SIZEOF_VOID_P == 4 ? 68 : 136, IL2CPP_SIZEOF_VOID_P == 4 ? 36 : 72, // System.ArgumentOutOfRangeException - id=899
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.UInt32[] - id=900
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityQueryBuilder[] - id=901
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Int32[][] - id=902
-	0, 131075, 3575, 3576, 3577, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, // Unity.Entities.EntityQueryDescValidationException - id=903
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.FastEquality/Layout[] - id=904
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Char[] - id=905
-	0, 16842756, 3578, 3579, 3580, 3581, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32696 : 65376, 
+	#endif // Unity.Entities.EntityGroupManager - id=906
+	0, 65539, 3616, 3617, 3618, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Profiling.ProfilerMarker - id=907
+	0, 196611, 3619, 3620, 3621, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Entities.EntityQueryOptions - id=908
+	0, 262147, 3622, 3623, 3624, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, IL2CPP_SIZEOF_VOID_P == 4 ? 68 : 136, IL2CPP_SIZEOF_VOID_P == 4 ? 36 : 72, // System.ArgumentOutOfRangeException - id=909
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.UInt32[] - id=910
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityQueryBuilder[] - id=911
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Int32[][] - id=912
+	0, 131075, 3625, 3626, 3627, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, // Unity.Entities.EntityQueryDescValidationException - id=913
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.FastEquality/Layout[] - id=914
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // System.Char[] - id=915
+	0, 16842756, 3628, 3629, 3630, 3631, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33080 : 66144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<System.Object> - id=906
-	0, 0, // System.Collections.Generic.IEnumerable`1<System.Object> - id=907
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ManagedComponentStore/ManagedArrayStorage[] - id=908
-	0, 33685509, 3582, 3583, 3584, 3585, 3586, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32768 : 65520, IL2CPP_SIZEOF_VOID_P == 4 ? 32776 : 65536, 
+	#endif // System.Collections.Generic.List`1<System.Object> - id=916
+	0, 0, // System.Collections.Generic.IEnumerable`1<System.Object> - id=917
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ManagedComponentStore/ManagedArrayStorage[] - id=918
+	0, 33685509, 3632, 3633, 3634, 3635, 3636, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 33152 : 66288, IL2CPP_SIZEOF_VOID_P == 4 ? 33160 : 66304, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 
 	#else
 	18446462594438135811U, 
-	#endif // Unity.Entities.NativeString512 - id=909
-	0, 0, // System.IComparable`1<Unity.Entities.NativeString512> - id=910
-	0, 0, // System.IEquatable`1<Unity.Entities.NativeString512> - id=911
-	0, 16842756, 3587, 3588, 3589, 3590, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32820 : 65624, 
+	#endif // Unity.Entities.NativeString512 - id=919
+	0, 0, // System.IComparable`1<Unity.Entities.NativeString512> - id=920
+	0, 0, // System.IEquatable`1<Unity.Entities.NativeString512> - id=921
+	0, 16842756, 3637, 3638, 3639, 3640, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33204 : 66392, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Entities.FastEquality/TypeInfo> - id=912
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.FastEquality/TypeInfo> - id=913
-	0, 16842756, 3591, 3592, 3593, 3594, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32864 : 65712, 
+	#endif // System.Collections.Generic.List`1<Unity.Entities.FastEquality/TypeInfo> - id=922
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.FastEquality/TypeInfo> - id=923
+	0, 16842756, 3641, 3642, 3643, 3644, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33248 : 66480, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Entities.World> - id=914
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.World> - id=915
-	0, 16842759, 3595, 3596, 3597, 3598, 3599, 3600, 3601, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 32920 : 65824, 
+	#endif // System.Collections.Generic.List`1<Unity.Entities.World> - id=924
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.World> - id=925
+	0, 16842759, 3645, 3646, 3647, 3648, 3649, 3650, 3651, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33304 : 66592, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.AudioHTMLSystemLoadFromFile - id=916
-	0, 0, // Unity.Tiny.Core2D.IGenericAssetLoader`4<Unity.Tiny.Audio.AudioClip,Unity.Tiny.HTML.AudioHTMLClip,Unity.Tiny.Audio.AudioClipLoadFromFile,Unity.Tiny.HTML.AudioHTMLLoading> - id=917
-	0, 196612, 3602, 3603, 3604, 3605, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/GetKeyValueDelegate`1<System.Single> - id=918
-	0, 196612, 3606, 3607, 3608, 3609, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/EvaluateSegmentDelegate`1<System.Single> - id=919
-	0, 196612, 3610, 3611, 3612, 3613, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/GetKeyValueDelegate`1<Unity.Mathematics.float3> - id=920
-	0, 196612, 3614, 3615, 3616, 3617, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/EvaluateSegmentDelegate`1<Unity.Mathematics.float3> - id=921
-	0, 196612, 3618, 3619, 3620, 3621, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/GetKeyValueDelegate`1<Unity.Tiny.Core2D.Color> - id=922
-	0, 196612, 3622, 3623, 3624, 3625, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/EvaluateSegmentDelegate`1<Unity.Tiny.Core2D.Color> - id=923
-	0, 196612, 3626, 3627, 3628, 3629, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/LerpFunc`1<System.Single> - id=924
-	0, 196612, 3630, 3631, 3632, 3633, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/LerpFunc`1<Unity.Mathematics.float3> - id=925
-	0, 196612, 3634, 3635, 3636, 3637, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Interpolation.CurveEvaluator/LerpFunc`1<Unity.Tiny.Core2D.Color> - id=926
-	0, 16842760, 3638, 3639, 3640, 3641, 3642, 3643, 3644, 3645, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1624 : 3248, 
+	#endif // Unity.Tiny.HTML.AudioHTMLSystemLoadFromFile - id=926
+	0, 0, // Unity.Tiny.Core2D.IGenericAssetLoader`4<Unity.Tiny.Audio.AudioClip,Unity.Tiny.HTML.AudioHTMLClip,Unity.Tiny.Audio.AudioClipLoadFromFile,Unity.Tiny.HTML.AudioHTMLLoading> - id=927
+	0, 196612, 3652, 3653, 3654, 3655, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/GetKeyValueDelegate`1<System.Single> - id=928
+	0, 196612, 3656, 3657, 3658, 3659, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/EvaluateSegmentDelegate`1<System.Single> - id=929
+	0, 196612, 3660, 3661, 3662, 3663, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/GetKeyValueDelegate`1<Unity.Mathematics.float3> - id=930
+	0, 196612, 3664, 3665, 3666, 3667, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/EvaluateSegmentDelegate`1<Unity.Mathematics.float3> - id=931
+	0, 196612, 3668, 3669, 3670, 3671, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/GetKeyValueDelegate`1<Unity.Tiny.Core2D.Color> - id=932
+	0, 196612, 3672, 3673, 3674, 3675, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/EvaluateSegmentDelegate`1<Unity.Tiny.Core2D.Color> - id=933
+	0, 196612, 3676, 3677, 3678, 3679, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/LerpFunc`1<System.Single> - id=934
+	0, 196612, 3680, 3681, 3682, 3683, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/LerpFunc`1<Unity.Mathematics.float3> - id=935
+	0, 196612, 3684, 3685, 3686, 3687, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Interpolation.CurveEvaluator/LerpFunc`1<Unity.Tiny.Core2D.Color> - id=936
+	0, 16842760, 3688, 3689, 3690, 3691, 3692, 3693, 3694, 3695, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1576 : 3152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HitBox2D.MakeEntryHitBox2D - id=927
-	0, 65539, 3646, 3647, 3648, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HitBox2D.HitBox2DSystem/<>c__DisplayClass10_0 - id=928
-	0, 196612, 3649, 3650, 3651, 3652, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_EB`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=929
-	0, 65539, 3653, 3654, 3655, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HitBox2D.HitBox2DSystem/<>c - id=930
-	0, 196612, 3656, 3657, 3658, 3659, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.Core.WindowSystem/MainLoopDelegate - id=931
-	0, 196612, 3660, 3661, 3662, 3663, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Tiny.HTML.SendMessageHandler/RegisterSendMessageDelegate - id=932
-	0, 65539, 3664, 3665, 3666, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.Image2DMaskInit/<>c__DisplayClass1_0 - id=933
-	0, 16842759, 3667, 3668, 3669, 3670, 3671, 3672, 3673, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33532 : 67048, 
+	#endif // Unity.Tiny.HitBox2D.MakeEntryHitBox2D - id=937
+	0, 65539, 3696, 3697, 3698, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HitBox2D.HitBox2DSystem/<>c__DisplayClass10_0 - id=938
+	0, 196612, 3699, 3700, 3701, 3702, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_EB`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=939
+	0, 65539, 3703, 3704, 3705, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.HitBox2D.HitBox2DSystem/<>c - id=940
+	0, 196612, 3706, 3707, 3708, 3709, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.Core.WindowSystem/MainLoopDelegate - id=941
+	0, 196612, 3710, 3711, 3712, 3713, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Tiny.HTML.SendMessageHandler/RegisterSendMessageDelegate - id=942
+	0, 65539, 3714, 3715, 3716, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.Image2DMaskInit/<>c__DisplayClass1_0 - id=943
+	0, 16842759, 3717, 3718, 3719, 3720, 3721, 3722, 3723, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33916 : 67816, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.HTML.Image2DIOHTMLLoader - id=934
-	0, 0, // Unity.Tiny.Core2D.IGenericAssetLoader`4<Unity.Tiny.Core2D.Image2D,Unity.Tiny.HTML.Image2DHTML,Unity.Tiny.Core2D.Image2DLoadFromFile,Unity.Tiny.HTML.Image2DHTMLLoading> - id=935
-	0, 65539, 3674, 3675, 3676, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Input.InputSystem/<>c__DisplayClass13_0 - id=936
-	0, 16842756, 3677, 3678, 3679, 3680, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Tiny.HTML.Image2DIOHTMLLoader - id=944
+	0, 0, // Unity.Tiny.Core2D.IGenericAssetLoader`4<Unity.Tiny.Core2D.Image2D,Unity.Tiny.HTML.Image2DHTML,Unity.Tiny.Core2D.Image2DLoadFromFile,Unity.Tiny.HTML.Image2DHTMLLoading> - id=945
+	0, 65539, 3724, 3725, 3726, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Input.InputSystem/<>c__DisplayClass13_0 - id=946
+	0, 16842756, 3727, 3728, 3729, 3730, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Input.InputData - id=937
-	0, 65539, 3681, 3682, 3683, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass0_0 - id=938
-	0, 16842756, 3684, 3685, 3686, 3687, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 33660 : 67304, 
+	#endif // Unity.Tiny.Input.InputData - id=947
+	0, 65539, 3731, 3732, 3733, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass0_0 - id=948
+	0, 16842756, 3734, 3735, 3736, 3737, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 34044 : 68072, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // System.Collections.Generic.List`1<Unity.Entities.Entity> - id=939
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.Entity> - id=940
-	0, 65539, 3688, 3689, 3690, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass1_0 - id=941
-	0, 65539, 3691, 3692, 3693, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass2_0 - id=942
-	0, 65539, 3694, 3695, 3696, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass3_0 - id=943
-	0, 65539, 3697, 3698, 3699, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass4_0 - id=944
-	0, 65539, 3700, 3701, 3702, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass0_0 - id=945
-	0, 65539, 3703, 3704, 3705, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass2_0 - id=946
-	0, 196612, 3706, 3707, 3708, 3709, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1416 : 2832, IL2CPP_SIZEOF_VOID_P == 4 ? 1388 : 2776, // Unity.Entities.EntityQueryBuilder/F_D`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=947
-	0, 65539, 3710, 3711, 3712, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass4_0 - id=948
-	0, 65539, 3713, 3714, 3715, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass5_0 - id=949
-	0, 65539, 3716, 3717, 3718, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass9_0 - id=950
-	0, 65539, 3719, 3720, 3721, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass10_0 - id=951
-	0, 65539, 3722, 3723, 3724, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c - id=952
-	0, 65539, 3725, 3726, 3727, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.PointQuery.PointQuerySystem/<>c__DisplayClass0_0 - id=953
-	0, 16908292, 3728, 3729, 3730, 3731, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34032 : 68048, 
+	#endif // System.Collections.Generic.List`1<Unity.Entities.Entity> - id=949
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.Entity> - id=950
+	0, 65539, 3738, 3739, 3740, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass1_0 - id=951
+	0, 65539, 3741, 3742, 3743, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass2_0 - id=952
+	0, 65539, 3744, 3745, 3746, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass3_0 - id=953
+	0, 65539, 3747, 3748, 3749, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.EmitterSystem/<>c__DisplayClass4_0 - id=954
+	0, 65539, 3750, 3751, 3752, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass0_0 - id=955
+	0, 65539, 3753, 3754, 3755, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass2_0 - id=956
+	0, 196612, 3756, 3757, 3758, 3759, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 1368 : 2736, IL2CPP_SIZEOF_VOID_P == 4 ? 1340 : 2680, // Unity.Entities.EntityQueryBuilder/F_D`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=957
+	0, 65539, 3760, 3761, 3762, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass4_0 - id=958
+	0, 65539, 3763, 3764, 3765, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass5_0 - id=959
+	0, 65539, 3766, 3767, 3768, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass9_0 - id=960
+	0, 65539, 3769, 3770, 3771, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c__DisplayClass10_0 - id=961
+	0, 65539, 3772, 3773, 3774, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Particles.ParticleSystem/<>c - id=962
+	0, 65539, 3775, 3776, 3777, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.PointQuery.PointQuerySystem/<>c__DisplayClass0_0 - id=963
+	0, 16908292, 3778, 3779, 3780, 3781, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34416 : 68816, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Core2D.Color - id=954
-	0, 0, // System.IEquatable`1<Unity.Tiny.Core2D.Color> - id=955
-	0, 16908292, 3732, 3733, 3734, 3735, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Tiny.Core2D.Color - id=964
+	0, 0, // System.IEquatable`1<Unity.Tiny.Core2D.Color> - id=965
+	0, 16908292, 3782, 3783, 3784, 3785, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityCommandBuffer - id=956
-	0, 131075, 3736, 3737, 3738, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.FastEquality/TypeInfo - id=957
-	0, 131075, 3739, 3740, 3741, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityBatchInChunk - id=958
-	0, 16908292, 3742, 3743, 3744, 3745, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34176 : 68336, 
+	#endif // Unity.Entities.EntityCommandBuffer - id=966
+	0, 131075, 3786, 3787, 3788, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.FastEquality/TypeInfo - id=967
+	0, 131075, 3789, 3790, 3791, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityBatchInChunk - id=968
+	0, 16908292, 3792, 3793, 3794, 3795, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34560 : 69104, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.Serialization.SerializeUtility/BlobAssetPtr - id=959
-	0, 0, // System.IEquatable`1<Unity.Entities.Serialization.SerializeUtility/BlobAssetPtr> - id=960
-	0, 131075, 3746, 3747, 3748, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.TypeManager/EntityOffsetInfo - id=961
-	0, 131075, 3749, 3750, 3751, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.Core2D.Sprite2DSystem/WrapImage2D - id=962
-	0, 196611, 3752, 3753, 3754, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Tiny.Input.KeyCode - id=963
-	0, 131075, 3755, 3756, 3757, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.Input.Touch - id=964
-	0, 131075, 3758, 3759, 3760, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.UIControls.PointerState - id=965
-	0, 65539, 3761, 3762, 3763, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.Core2D.NonUniformScale> - id=966
-	0, 65539, 3764, 3765, 3766, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.Core2D.Rotation> - id=967
-	0, 65539, 3767, 3768, 3769, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.Core2D.Translation> - id=968
-	0, 65539, 3770, 3771, 3772, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.UILayout.RectTransform> - id=969
-	0, 196611, 3773, 3774, 3775, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Entities.TypeManager/TypeCategory - id=970
-	0, 131075, 3776, 3777, 3778, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // System.Char - id=971
-	0, 16908292, 3779, 3780, 3781, 3782, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34524 : 69032, 
+	#endif // Unity.Entities.Serialization.SerializeUtility/BlobAssetPtr - id=969
+	0, 0, // System.IEquatable`1<Unity.Entities.Serialization.SerializeUtility/BlobAssetPtr> - id=970
+	0, 131075, 3796, 3797, 3798, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.TypeManager/EntityOffsetInfo - id=971
+	0, 131075, 3799, 3800, 3801, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.Core2D.Sprite2DSystem/WrapImage2D - id=972
+	0, 196611, 3802, 3803, 3804, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Tiny.Input.KeyCode - id=973
+	0, 131075, 3805, 3806, 3807, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.Input.Touch - id=974
+	0, 131075, 3808, 3809, 3810, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Tiny.UIControls.PointerState - id=975
+	0, 65539, 3811, 3812, 3813, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.Core2D.NonUniformScale> - id=976
+	0, 65539, 3814, 3815, 3816, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.Core2D.Rotation> - id=977
+	0, 65539, 3817, 3818, 3819, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.Core2D.Translation> - id=978
+	0, 65539, 3820, 3821, 3822, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.UILayout.UICanvasSystem/<>c__DisplayClass6_0`2<Unity.Tiny.UILayout.UICanvas,Unity.Tiny.UILayout.RectTransform> - id=979
+	0, 196611, 3823, 3824, 3825, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 388 : 776, // Unity.Entities.TypeManager/TypeCategory - id=980
+	0, 131075, 3826, 3827, 3828, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // System.Char - id=981
+	0, 16908292, 3829, 3830, 3831, 3832, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34908 : 69800, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.GatherEntitiesJob - id=972
-	0, 0, // Unity.Entities.IJobChunk - id=973
-	0, 16908292, 3783, 3784, 3785, 3786, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34524 : 69032, 
+	#endif // Unity.Entities.GatherEntitiesJob - id=982
+	0, 0, // Unity.Entities.IJobChunk - id=983
+	0, 16908292, 3833, 3834, 3835, 3836, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 34908 : 69800, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Scenes.EntityReferenceRemapSystem/BuildEntityGuidHashMapJob - id=974
-	0, 16908292, 3787, 3788, 3789, 3790, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31696 : 63376, 
+	#endif // Unity.Tiny.Scenes.EntityReferenceRemapSystem/BuildEntityGuidHashMapJob - id=984
+	0, 16908292, 3837, 3838, 3839, 3840, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32080 : 64144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityManagerChangeArchetypeUtility/CopyBlittableChunkData - id=975
-	0, 16908292, 3791, 3792, 3793, 3794, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31696 : 63376, 
+	#endif // Unity.Entities.EntityManagerChangeArchetypeUtility/CopyBlittableChunkData - id=985
+	0, 16908292, 3841, 3842, 3843, 3844, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32080 : 64144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapAllChunksJob - id=976
-	0, 16908292, 3795, 3796, 3797, 3798, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31696 : 63376, 
+	#endif // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapAllChunksJob - id=986
+	0, 16908292, 3845, 3846, 3847, 3848, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32080 : 64144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Entities.GatherChunksWithFiltering - id=977
-	0, 0, // System.IEquatable`1<System.Object> - id=978
-	0, 0, // System.IEquatable`1<System.String> - id=979
-	0, 131075, 3799, 3800, 3801, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 34736 : 69456, // System.Type - id=980
-	0, 65539, 3802, 3803, 3804, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Reflection.MemberInfo - id=981
-	0, 0, // System.IEquatable`1<System.Type> - id=982
-	0, 0, // System.IEquatable`1<Unity.Entities.ComponentSystemBase> - id=983
-	0, 0, // System.IEquatable`1<Unity.Entities.EntityCommandBuffer> - id=984
-	0, 0, // System.IEquatable`1<Unity.Entities.FastEquality/TypeInfo> - id=985
-	0, 0, // System.IEquatable`1<Unity.Entities.World> - id=986
-	0, 0, // System.IEquatable`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=987
-	0, 0, // System.IEquatable`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=988
-	0, 0, // System.IEquatable`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=989
-	0, 131076, 3805, 3806, 3807, 3808, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 34856 : 69696, // System.Collections.Generic.BasicComparer`1<System.Object> - id=990
-	0, 65540, 3809, 3810, 3811, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<System.Object> - id=991
-	0, 131076, 3812, 3813, 3814, 3815, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 34916 : 69816, // System.Collections.Generic.BasicComparer`1<System.String> - id=992
-	0, 65540, 3816, 3817, 3818, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<System.String> - id=993
-	0, 131076, 3819, 3820, 3821, 3822, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 34976 : 69936, // System.Collections.Generic.BasicComparer`1<System.Type> - id=994
-	0, 65540, 3823, 3824, 3825, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<System.Type> - id=995
-	0, 131076, 3826, 3827, 3828, 3829, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35036 : 70056, // System.Collections.Generic.BasicComparer`1<Unity.Entities.ComponentSystemBase> - id=996
-	0, 65540, 3830, 3831, 3832, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.ComponentSystemBase> - id=997
-	0, 131076, 3833, 3834, 3835, 3836, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35096 : 70176, // System.Collections.Generic.BasicComparer`1<Unity.Entities.Entity> - id=998
-	0, 65540, 3837, 3838, 3839, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.Entity> - id=999
-	0, 131076, 3840, 3841, 3842, 3843, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35156 : 70296, // System.Collections.Generic.BasicComparer`1<Unity.Entities.EntityCommandBuffer> - id=1000
-	0, 65540, 3844, 3845, 3846, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.EntityCommandBuffer> - id=1001
-	0, 131076, 3847, 3848, 3849, 3850, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35216 : 70416, // System.Collections.Generic.BasicComparer`1<Unity.Entities.FastEquality/TypeInfo> - id=1002
-	0, 65540, 3851, 3852, 3853, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.FastEquality/TypeInfo> - id=1003
-	0, 131076, 3854, 3855, 3856, 3857, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35276 : 70536, // System.Collections.Generic.BasicComparer`1<Unity.Entities.World> - id=1004
-	0, 65540, 3858, 3859, 3860, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.World> - id=1005
-	0, 131076, 3861, 3862, 3863, 3864, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35336 : 70656, // System.Collections.Generic.BasicComparer`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1006
-	0, 65540, 3865, 3866, 3867, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1007
-	0, 131076, 3868, 3869, 3870, 3871, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35396 : 70776, // System.Collections.Generic.BasicComparer`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=1008
-	0, 65540, 3872, 3873, 3874, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=1009
-	0, 131076, 3875, 3876, 3877, 3878, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35456 : 70896, // System.Collections.Generic.BasicComparer`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1010
-	0, 65540, 3879, 3880, 3881, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1011
-	0, 50462726, 3882, 3883, 3884, 3885, 3886, 3887, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35544 : 71064, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Entities.GatherChunksWithFiltering - id=987
+	0, 0, // System.IEquatable`1<System.Object> - id=988
+	0, 0, // System.IEquatable`1<System.String> - id=989
+	0, 131075, 3849, 3850, 3851, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35120 : 70224, // System.Type - id=990
+	0, 65539, 3852, 3853, 3854, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Reflection.MemberInfo - id=991
+	0, 0, // System.IEquatable`1<System.Type> - id=992
+	0, 0, // System.IEquatable`1<Unity.Entities.ComponentSystemBase> - id=993
+	0, 0, // System.IEquatable`1<Unity.Entities.EntityCommandBuffer> - id=994
+	0, 0, // System.IEquatable`1<Unity.Entities.FastEquality/TypeInfo> - id=995
+	0, 0, // System.IEquatable`1<Unity.Entities.World> - id=996
+	0, 0, // System.IEquatable`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=997
+	0, 0, // System.IEquatable`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=998
+	0, 0, // System.IEquatable`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=999
+	0, 131076, 3855, 3856, 3857, 3858, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35240 : 70464, // System.Collections.Generic.BasicComparer`1<System.Object> - id=1000
+	0, 65540, 3859, 3860, 3861, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<System.Object> - id=1001
+	0, 131076, 3862, 3863, 3864, 3865, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35300 : 70584, // System.Collections.Generic.BasicComparer`1<System.String> - id=1002
+	0, 65540, 3866, 3867, 3868, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<System.String> - id=1003
+	0, 131076, 3869, 3870, 3871, 3872, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35360 : 70704, // System.Collections.Generic.BasicComparer`1<System.Type> - id=1004
+	0, 65540, 3873, 3874, 3875, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<System.Type> - id=1005
+	0, 131076, 3876, 3877, 3878, 3879, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35420 : 70824, // System.Collections.Generic.BasicComparer`1<Unity.Entities.ComponentSystemBase> - id=1006
+	0, 65540, 3880, 3881, 3882, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.ComponentSystemBase> - id=1007
+	0, 131076, 3883, 3884, 3885, 3886, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35480 : 70944, // System.Collections.Generic.BasicComparer`1<Unity.Entities.Entity> - id=1008
+	0, 65540, 3887, 3888, 3889, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.Entity> - id=1009
+	0, 131076, 3890, 3891, 3892, 3893, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35540 : 71064, // System.Collections.Generic.BasicComparer`1<Unity.Entities.EntityCommandBuffer> - id=1010
+	0, 65540, 3894, 3895, 3896, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.EntityCommandBuffer> - id=1011
+	0, 131076, 3897, 3898, 3899, 3900, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35600 : 71184, // System.Collections.Generic.BasicComparer`1<Unity.Entities.FastEquality/TypeInfo> - id=1012
+	0, 65540, 3901, 3902, 3903, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.FastEquality/TypeInfo> - id=1013
+	0, 131076, 3904, 3905, 3906, 3907, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35660 : 71304, // System.Collections.Generic.BasicComparer`1<Unity.Entities.World> - id=1014
+	0, 65540, 3908, 3909, 3910, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Entities.World> - id=1015
+	0, 131076, 3911, 3912, 3913, 3914, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35720 : 71424, // System.Collections.Generic.BasicComparer`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1016
+	0, 65540, 3915, 3916, 3917, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1017
+	0, 131076, 3918, 3919, 3920, 3921, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35780 : 71544, // System.Collections.Generic.BasicComparer`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=1018
+	0, 65540, 3922, 3923, 3924, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=1019
+	0, 131076, 3925, 3926, 3927, 3928, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 35840 : 71664, // System.Collections.Generic.BasicComparer`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1020
+	0, 65540, 3929, 3930, 3931, 0, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // System.Collections.Generic.EqualityComparer`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1021
+	0, 50462726, 3932, 3933, 3934, 3935, 3936, 3937, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35928 : 71832, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<System.Object> - id=1012
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<System.Object> - id=1022
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<System.Object> - id=1013
-	0, 50462726, 3888, 3889, 3890, 3891, 3892, 3893, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35624 : 71216, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<System.Object> - id=1023
+	0, 50462726, 3938, 3939, 3940, 3941, 3942, 3943, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36008 : 71984, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<System.String> - id=1014
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<System.String> - id=1024
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<System.String> - id=1015
-	0, 50462726, 3894, 3895, 3896, 3897, 3898, 3899, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35704 : 71368, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<System.String> - id=1025
+	0, 50462726, 3944, 3945, 3946, 3947, 3948, 3949, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36088 : 72136, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<System.Type> - id=1016
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<System.Type> - id=1026
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<System.Type> - id=1017
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentSystemBase[] - id=1018
-	0, 50462726, 3900, 3901, 3902, 3903, 3904, 3905, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 31912 : 63808, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<System.Type> - id=1027
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentSystemBase[] - id=1028
+	0, 50462726, 3950, 3951, 3952, 3953, 3954, 3955, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32296 : 64576, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.ComponentSystemBase> - id=1019
-	0, 50462726, 3906, 3907, 3908, 3909, 3910, 3911, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35860 : 71664, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.ComponentSystemBase> - id=1029
+	0, 50462726, 3956, 3957, 3958, 3959, 3960, 3961, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36244 : 72432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.Entity> - id=1020
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.Entity> - id=1030
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.Entity> - id=1021
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityCommandBuffer[] - id=1022
-	0, 50462726, 3912, 3913, 3914, 3915, 3916, 3917, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35956 : 71848, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.Entity> - id=1031
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.EntityCommandBuffer[] - id=1032
+	0, 50462726, 3962, 3963, 3964, 3965, 3966, 3967, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36340 : 72616, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.EntityCommandBuffer> - id=1023
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.EntityCommandBuffer> - id=1033
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityCommandBuffer> - id=1024
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.FastEquality/TypeInfo[] - id=1025
-	0, 50462726, 3918, 3919, 3920, 3921, 3922, 3923, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36052 : 72032, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityCommandBuffer> - id=1034
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.FastEquality/TypeInfo[] - id=1035
+	0, 50462726, 3968, 3969, 3970, 3971, 3972, 3973, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36436 : 72800, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.FastEquality/TypeInfo> - id=1026
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.FastEquality/TypeInfo> - id=1036
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.FastEquality/TypeInfo> - id=1027
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.World[] - id=1028
-	0, 50462726, 3924, 3925, 3926, 3927, 3928, 3929, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36148 : 72216, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.FastEquality/TypeInfo> - id=1037
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.World[] - id=1038
+	0, 50462726, 3974, 3975, 3976, 3977, 3978, 3979, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36532 : 72984, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.World> - id=1029
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Entities.World> - id=1039
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.World> - id=1030
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Tiny.Core2D.IExternalDisplayListEntryMaker[] - id=1031
-	0, 50462726, 3930, 3931, 3932, 3933, 3934, 3935, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36244 : 72400, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.World> - id=1040
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Tiny.Core2D.IExternalDisplayListEntryMaker[] - id=1041
+	0, 50462726, 3980, 3981, 3982, 3983, 3984, 3985, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36628 : 73168, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1032
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1042
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1033
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Tiny.UIControls.PointerControlInteraction[] - id=1034
-	0, 50462726, 3936, 3937, 3938, 3939, 3940, 3941, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36340 : 72584, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.IExternalDisplayListEntryMaker> - id=1043
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Tiny.UIControls.PointerControlInteraction[] - id=1044
+	0, 50462726, 3986, 3987, 3988, 3989, 3990, 3991, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36724 : 73352, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Tiny.UIControls.PointerControlInteraction> - id=1035
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Tiny.UIControls.PointerControlInteraction> - id=1045
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=1036
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Tiny.Watchers.IWatcherValueEntry[] - id=1037
-	0, 50462726, 3942, 3943, 3944, 3945, 3946, 3947, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36436 : 72768, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.PointerControlInteraction> - id=1046
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Tiny.Watchers.IWatcherValueEntry[] - id=1047
+	0, 50462726, 3992, 3993, 3994, 3995, 3996, 3997, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36820 : 73536, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1038
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.List`1/Enumerator<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1048
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1039
-	0, 196611, 3948, 3949, 3950, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, IL2CPP_SIZEOF_VOID_P == 4 ? 68 : 136, // System.IndexOutOfRangeException - id=1040
-	0, 50462726, 3951, 3952, 3953, 3954, 3955, 3956, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36548 : 72984, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Watchers.IWatcherValueEntry> - id=1049
+	0, 196611, 3998, 3999, 4000, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192, IL2CPP_SIZEOF_VOID_P == 4 ? 68 : 136, // System.IndexOutOfRangeException - id=1050
+	0, 50462726, 4001, 4002, 4003, 4004, 4005, 4006, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36932 : 73752, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Object> - id=1041
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Object> - id=1051
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Object> - id=1042
-	0, 50462726, 3957, 3958, 3959, 3960, 3961, 3962, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 36628 : 73136, IL2CPP_SIZEOF_VOID_P == 4 ? 36636 : 73152, 
+	#endif // System.Collections.Generic.IEnumerator`1<Object> - id=1052
+	0, 50462726, 4007, 4008, 4009, 4010, 4011, 4012, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37012 : 73904, IL2CPP_SIZEOF_VOID_P == 4 ? 37020 : 73920, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Object> - id=1043
-	0, 0, // System.Collections.Generic.IEnumerable`1<Object> - id=1044
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Object>> - id=1045
-	0, 50462726, 3963, 3964, 3965, 3966, 3967, 3968, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36704 : 73280, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Object> - id=1053
+	0, 0, // System.Collections.Generic.IEnumerable`1<Object> - id=1054
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Object>> - id=1055
+	0, 50462726, 4013, 4014, 4015, 4016, 4017, 4018, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37088 : 74048, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Player> - id=1046
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Player> - id=1056
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Player> - id=1047
-	0, 50462726, 3969, 3970, 3971, 3972, 3973, 3974, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 36784 : 73432, IL2CPP_SIZEOF_VOID_P == 4 ? 36792 : 73448, 
+	#endif // System.Collections.Generic.IEnumerator`1<Player> - id=1057
+	0, 50462726, 4019, 4020, 4021, 4022, 4023, 4024, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37168 : 74200, IL2CPP_SIZEOF_VOID_P == 4 ? 37176 : 74216, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Player> - id=1048
-	0, 0, // System.Collections.Generic.IEnumerable`1<Player> - id=1049
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Player>> - id=1050
-	0, 50462726, 3975, 3976, 3977, 3978, 3979, 3980, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36860 : 73576, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Player> - id=1058
+	0, 0, // System.Collections.Generic.IEnumerable`1<Player> - id=1059
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Player>> - id=1060
+	0, 50462726, 4025, 4026, 4027, 4028, 4029, 4030, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37244 : 74344, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<System.Char> - id=1051
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<System.Char> - id=1061
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<System.Char> - id=1052
-	0, 50462726, 3981, 3982, 3983, 3984, 3985, 3986, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 36940 : 73728, IL2CPP_SIZEOF_VOID_P == 4 ? 36948 : 73744, 
+	#endif // System.Collections.Generic.IEnumerator`1<System.Char> - id=1062
+	0, 50462726, 4031, 4032, 4033, 4034, 4035, 4036, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37324 : 74496, IL2CPP_SIZEOF_VOID_P == 4 ? 37332 : 74512, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<System.Char> - id=1053
-	0, 0, // System.Collections.Generic.IEnumerable`1<System.Char> - id=1054
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<System.Char>> - id=1055
-	0, 50462726, 3987, 3988, 3989, 3990, 3991, 3992, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37016 : 73872, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<System.Char> - id=1063
+	0, 0, // System.Collections.Generic.IEnumerable`1<System.Char> - id=1064
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<System.Char>> - id=1065
+	0, 50462726, 4037, 4038, 4039, 4040, 4041, 4042, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37400 : 74640, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<System.Int32> - id=1056
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<System.Int32> - id=1066
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<System.Int32> - id=1057
-	0, 50462726, 3993, 3994, 3995, 3996, 3997, 3998, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 37096 : 74024, IL2CPP_SIZEOF_VOID_P == 4 ? 37104 : 74040, 
+	#endif // System.Collections.Generic.IEnumerator`1<System.Int32> - id=1067
+	0, 50462726, 4043, 4044, 4045, 4046, 4047, 4048, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37480 : 74792, IL2CPP_SIZEOF_VOID_P == 4 ? 37488 : 74808, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<System.Int32> - id=1058
-	0, 0, // System.Collections.Generic.IEnumerable`1<System.Int32> - id=1059
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<System.Int32>> - id=1060
-	0, 50462726, 3999, 4000, 4001, 4002, 4003, 4004, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37172 : 74168, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<System.Int32> - id=1068
+	0, 0, // System.Collections.Generic.IEnumerable`1<System.Int32> - id=1069
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<System.Int32>> - id=1070
+	0, 50462726, 4049, 4050, 4051, 4052, 4053, 4054, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37556 : 74936, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<System.UInt64> - id=1061
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<System.UInt64> - id=1071
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<System.UInt64> - id=1062
-	0, 50462726, 4005, 4006, 4007, 4008, 4009, 4010, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 37252 : 74320, IL2CPP_SIZEOF_VOID_P == 4 ? 37260 : 74336, 
+	#endif // System.Collections.Generic.IEnumerator`1<System.UInt64> - id=1072
+	0, 50462726, 4055, 4056, 4057, 4058, 4059, 4060, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37636 : 75088, IL2CPP_SIZEOF_VOID_P == 4 ? 37644 : 75104, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<System.UInt64> - id=1063
-	0, 0, // System.Collections.Generic.IEnumerable`1<System.UInt64> - id=1064
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<System.UInt64>> - id=1065
-	0, 50462726, 4011, 4012, 4013, 4014, 4015, 4016, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37328 : 74464, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<System.UInt64> - id=1073
+	0, 0, // System.Collections.Generic.IEnumerable`1<System.UInt64> - id=1074
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<System.UInt64>> - id=1075
+	0, 50462726, 4061, 4062, 4063, 4064, 4065, 4066, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37712 : 75232, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.ArchetypeChunk> - id=1066
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.ArchetypeChunk> - id=1076
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ArchetypeChunk> - id=1067
-	0, 50462726, 4017, 4018, 4019, 4020, 4021, 4022, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 37408 : 74616, IL2CPP_SIZEOF_VOID_P == 4 ? 37416 : 74632, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ArchetypeChunk> - id=1077
+	0, 50462726, 4067, 4068, 4069, 4070, 4071, 4072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37792 : 75384, IL2CPP_SIZEOF_VOID_P == 4 ? 37800 : 75400, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.ArchetypeChunk> - id=1068
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ArchetypeChunk> - id=1069
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.ArchetypeChunk>> - id=1070
-	0, 50462726, 4023, 4024, 4025, 4026, 4027, 4028, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37484 : 74760, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.ArchetypeChunk> - id=1078
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ArchetypeChunk> - id=1079
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.ArchetypeChunk>> - id=1080
+	0, 50462726, 4073, 4074, 4075, 4076, 4077, 4078, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37868 : 75528, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.ComponentType> - id=1071
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.ComponentType> - id=1081
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ComponentType> - id=1072
-	0, 50462726, 4029, 4030, 4031, 4032, 4033, 4034, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 37564 : 74912, IL2CPP_SIZEOF_VOID_P == 4 ? 37572 : 74928, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ComponentType> - id=1082
+	0, 50462726, 4079, 4080, 4081, 4082, 4083, 4084, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 37948 : 75680, IL2CPP_SIZEOF_VOID_P == 4 ? 37956 : 75696, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.ComponentType> - id=1073
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ComponentType> - id=1074
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.ComponentType>> - id=1075
-	0, 131075, 4035, 4036, 4037, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.ECBChainPlaybackState - id=1076
-	0, 50462726, 4038, 4039, 4040, 4041, 4042, 4043, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37668 : 75112, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.ComponentType> - id=1083
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ComponentType> - id=1084
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.ComponentType>> - id=1085
+	0, 131075, 4085, 4086, 4087, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.ECBChainPlaybackState - id=1086
+	0, 50462726, 4088, 4089, 4090, 4091, 4092, 4093, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38052 : 75880, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.ECBChainPlaybackState> - id=1077
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.ECBChainPlaybackState> - id=1087
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ECBChainPlaybackState> - id=1078
-	0, 50462726, 4044, 4045, 4046, 4047, 4048, 4049, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 37748 : 75264, IL2CPP_SIZEOF_VOID_P == 4 ? 37756 : 75280, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.ECBChainPlaybackState> - id=1088
+	0, 50462726, 4094, 4095, 4096, 4097, 4098, 4099, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 38132 : 76032, IL2CPP_SIZEOF_VOID_P == 4 ? 38140 : 76048, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.ECBChainPlaybackState> - id=1079
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ECBChainPlaybackState> - id=1080
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.ECBChainPlaybackState>> - id=1081
-	0, 50462726, 4050, 4051, 4052, 4053, 4054, 4055, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 35860 : 71664, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.ECBChainPlaybackState> - id=1089
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.ECBChainPlaybackState> - id=1090
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.ECBChainPlaybackState>> - id=1091
+	0, 50462726, 4100, 4101, 4102, 4103, 4104, 4105, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 36244 : 72432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.Entity> - id=1082
-	0, 50462726, 4056, 4057, 4058, 4059, 4060, 4061, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 33660 : 67304, IL2CPP_SIZEOF_VOID_P == 4 ? 37884 : 75520, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.Entity> - id=1092
+	0, 50462726, 4106, 4107, 4108, 4109, 4110, 4111, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 34044 : 68072, IL2CPP_SIZEOF_VOID_P == 4 ? 38268 : 76288, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.Entity> - id=1083
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.Entity>> - id=1084
-	0, 50462726, 4062, 4063, 4064, 4065, 4066, 4067, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 37952 : 75648, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.Entity> - id=1093
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.Entity>> - id=1094
+	0, 50462726, 4112, 4113, 4114, 4115, 4116, 4117, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38336 : 76416, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityArchetype> - id=1085
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityArchetype> - id=1095
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityArchetype> - id=1086
-	0, 50462726, 4068, 4069, 4070, 4071, 4072, 4073, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 38032 : 75800, IL2CPP_SIZEOF_VOID_P == 4 ? 38040 : 75816, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityArchetype> - id=1096
+	0, 50462726, 4118, 4119, 4120, 4121, 4122, 4123, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 38416 : 76568, IL2CPP_SIZEOF_VOID_P == 4 ? 38424 : 76584, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityArchetype> - id=1087
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityArchetype> - id=1088
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityArchetype>> - id=1089
-	0, 50462726, 4074, 4075, 4076, 4077, 4078, 4079, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38108 : 75944, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityArchetype> - id=1097
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityArchetype> - id=1098
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityArchetype>> - id=1099
+	0, 50462726, 4124, 4125, 4126, 4127, 4128, 4129, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38492 : 76712, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityBatchInChunk> - id=1090
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityBatchInChunk> - id=1100
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityBatchInChunk> - id=1091
-	0, 50462726, 4080, 4081, 4082, 4083, 4084, 4085, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 38188 : 76096, IL2CPP_SIZEOF_VOID_P == 4 ? 38196 : 76112, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityBatchInChunk> - id=1101
+	0, 50462726, 4130, 4131, 4132, 4133, 4134, 4135, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 38572 : 76864, IL2CPP_SIZEOF_VOID_P == 4 ? 38580 : 76880, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityBatchInChunk> - id=1092
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityBatchInChunk> - id=1093
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityBatchInChunk>> - id=1094
-	0, 50462726, 4086, 4087, 4088, 4089, 4090, 4091, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38264 : 76240, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityBatchInChunk> - id=1102
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityBatchInChunk> - id=1103
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityBatchInChunk>> - id=1104
+	0, 50462726, 4136, 4137, 4138, 4139, 4140, 4141, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38648 : 77008, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityGuid> - id=1095
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityGuid> - id=1105
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityGuid> - id=1096
-	0, 50462726, 4092, 4093, 4094, 4095, 4096, 4097, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 38344 : 76392, IL2CPP_SIZEOF_VOID_P == 4 ? 38352 : 76408, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityGuid> - id=1106
+	0, 50462726, 4142, 4143, 4144, 4145, 4146, 4147, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 38728 : 77160, IL2CPP_SIZEOF_VOID_P == 4 ? 38736 : 77176, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityGuid> - id=1097
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityGuid> - id=1098
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityGuid>> - id=1099
-	0, 131075, 4098, 4099, 4100, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype - id=1100
-	0, 50462726, 4101, 4102, 4103, 4104, 4105, 4106, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38448 : 76592, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityGuid> - id=1107
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityGuid> - id=1108
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityGuid>> - id=1109
+	0, 131075, 4148, 4149, 4150, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype - id=1110
+	0, 50462726, 4151, 4152, 4153, 4154, 4155, 4156, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38832 : 77360, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1101
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1111
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1102
-	0, 50462726, 4107, 4108, 4109, 4110, 4111, 4112, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 38528 : 76744, IL2CPP_SIZEOF_VOID_P == 4 ? 38536 : 76760, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1112
+	0, 50462726, 4157, 4158, 4159, 4160, 4161, 4162, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 38912 : 77512, IL2CPP_SIZEOF_VOID_P == 4 ? 38920 : 77528, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1103
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1104
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype>> - id=1105
-	0, 131075, 4113, 4114, 4115, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk - id=1106
-	0, 50462726, 4116, 4117, 4118, 4119, 4120, 4121, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38632 : 76944, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1113
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype> - id=1114
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapArchetype>> - id=1115
+	0, 131075, 4163, 4164, 4165, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk - id=1116
+	0, 50462726, 4166, 4167, 4168, 4169, 4170, 4171, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39016 : 77712, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1107
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1117
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1108
-	0, 50462726, 4122, 4123, 4124, 4125, 4126, 4127, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 38712 : 77096, IL2CPP_SIZEOF_VOID_P == 4 ? 38720 : 77112, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1118
+	0, 50462726, 4172, 4173, 4174, 4175, 4176, 4177, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 39096 : 77864, IL2CPP_SIZEOF_VOID_P == 4 ? 39104 : 77880, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1109
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1110
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk>> - id=1111
-	0, 131075, 4128, 4129, 4130, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityRemapUtility/EntityRemapInfo - id=1112
-	0, 50462726, 4131, 4132, 4133, 4134, 4135, 4136, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38816 : 77296, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1119
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk> - id=1120
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityManagerMoveEntitiesUtility/RemapChunk>> - id=1121
+	0, 131075, 4178, 4179, 4180, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.EntityRemapUtility/EntityRemapInfo - id=1122
+	0, 50462726, 4181, 4182, 4183, 4184, 4185, 4186, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39200 : 78064, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1113
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1123
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1114
-	0, 50462726, 4137, 4138, 4139, 4140, 4141, 4142, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 38896 : 77448, IL2CPP_SIZEOF_VOID_P == 4 ? 38904 : 77464, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1124
+	0, 50462726, 4187, 4188, 4189, 4190, 4191, 4192, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 39280 : 78216, IL2CPP_SIZEOF_VOID_P == 4 ? 39288 : 78232, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1115
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1116
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo>> - id=1117
-	0, 50462726, 4143, 4144, 4145, 4146, 4147, 4148, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 38972 : 77592, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1125
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo> - id=1126
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.EntityRemapUtility/EntityRemapInfo>> - id=1127
+	0, 50462726, 4193, 4194, 4195, 4196, 4197, 4198, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39356 : 78360, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.LinkedEntityGroup> - id=1118
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.LinkedEntityGroup> - id=1128
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.LinkedEntityGroup> - id=1119
-	0, 50462726, 4149, 4150, 4151, 4152, 4153, 4154, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 39052 : 77744, IL2CPP_SIZEOF_VOID_P == 4 ? 39060 : 77760, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.LinkedEntityGroup> - id=1129
+	0, 50462726, 4199, 4200, 4201, 4202, 4203, 4204, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 39436 : 78512, IL2CPP_SIZEOF_VOID_P == 4 ? 39444 : 78528, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.LinkedEntityGroup> - id=1120
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.LinkedEntityGroup> - id=1121
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.LinkedEntityGroup>> - id=1122
-	0, 131075, 4155, 4156, 4157, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord - id=1123
-	0, 50462726, 4158, 4159, 4160, 4161, 4162, 4163, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39156 : 77944, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.LinkedEntityGroup> - id=1130
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.LinkedEntityGroup> - id=1131
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.LinkedEntityGroup>> - id=1132
+	0, 131075, 4205, 4206, 4207, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord - id=1133
+	0, 50462726, 4208, 4209, 4210, 4211, 4212, 4213, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39540 : 78712, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1124
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1134
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1125
-	0, 50462726, 4164, 4165, 4166, 4167, 4168, 4169, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 39236 : 78096, IL2CPP_SIZEOF_VOID_P == 4 ? 39244 : 78112, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1135
+	0, 50462726, 4214, 4215, 4216, 4217, 4218, 4219, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 39620 : 78864, IL2CPP_SIZEOF_VOID_P == 4 ? 39628 : 78880, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1126
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1127
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord>> - id=1128
-	0, 50462726, 4170, 4171, 4172, 4173, 4174, 4175, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39312 : 78240, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1136
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord> - id=1137
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.Serialization.SerializeUtility/BufferPatchRecord>> - id=1138
+	0, 50462726, 4220, 4221, 4222, 4223, 4224, 4225, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39696 : 79008, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1129
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1139
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1130
-	0, 50462726, 4176, 4177, 4178, 4179, 4180, 4181, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 39392 : 78392, IL2CPP_SIZEOF_VOID_P == 4 ? 39400 : 78408, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1140
+	0, 50462726, 4226, 4227, 4228, 4229, 4230, 4231, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 39776 : 79160, IL2CPP_SIZEOF_VOID_P == 4 ? 39784 : 79176, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1131
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1132
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.TypeManager/EntityOffsetInfo>> - id=1133
-	0, 131075, 4182, 4183, 4184, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Jobs.JobHandle - id=1134
-	0, 50462726, 4185, 4186, 4187, 4188, 4189, 4190, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39496 : 78592, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1141
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Entities.TypeManager/EntityOffsetInfo> - id=1142
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Entities.TypeManager/EntityOffsetInfo>> - id=1143
+	0, 131075, 4232, 4233, 4234, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, // Unity.Jobs.JobHandle - id=1144
+	0, 50462726, 4235, 4236, 4237, 4238, 4239, 4240, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39880 : 79360, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Jobs.JobHandle> - id=1135
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Jobs.JobHandle> - id=1145
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Jobs.JobHandle> - id=1136
-	0, 50462726, 4191, 4192, 4193, 4194, 4195, 4196, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 39576 : 78744, IL2CPP_SIZEOF_VOID_P == 4 ? 39584 : 78760, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Jobs.JobHandle> - id=1146
+	0, 50462726, 4241, 4242, 4243, 4244, 4245, 4246, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 39960 : 79512, IL2CPP_SIZEOF_VOID_P == 4 ? 39968 : 79528, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Jobs.JobHandle> - id=1137
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Jobs.JobHandle> - id=1138
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Jobs.JobHandle>> - id=1139
-	0, 50462726, 4197, 4198, 4199, 4200, 4201, 4202, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39652 : 78888, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Jobs.JobHandle> - id=1147
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Jobs.JobHandle> - id=1148
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Jobs.JobHandle>> - id=1149
+	0, 50462726, 4247, 4248, 4249, 4250, 4251, 4252, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40036 : 79656, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioClip> - id=1140
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioClip> - id=1150
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioClip> - id=1141
-	0, 50462726, 4203, 4204, 4205, 4206, 4207, 4208, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 39732 : 79040, IL2CPP_SIZEOF_VOID_P == 4 ? 39740 : 79056, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioClip> - id=1151
+	0, 50462726, 4253, 4254, 4255, 4256, 4257, 4258, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 40116 : 79808, IL2CPP_SIZEOF_VOID_P == 4 ? 40124 : 79824, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClip> - id=1142
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioClip> - id=1143
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClip>> - id=1144
-	0, 50462726, 4209, 4210, 4211, 4212, 4213, 4214, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39808 : 79184, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClip> - id=1152
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioClip> - id=1153
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClip>> - id=1154
+	0, 50462726, 4259, 4260, 4261, 4262, 4263, 4264, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40192 : 79952, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1145
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1155
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1146
-	0, 50462726, 4215, 4216, 4217, 4218, 4219, 4220, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 39888 : 79336, IL2CPP_SIZEOF_VOID_P == 4 ? 39896 : 79352, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1156
+	0, 50462726, 4265, 4266, 4267, 4268, 4269, 4270, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 40272 : 80104, IL2CPP_SIZEOF_VOID_P == 4 ? 40280 : 80120, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1147
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1148
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFile>> - id=1149
-	0, 50462726, 4221, 4222, 4223, 4224, 4225, 4226, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 39964 : 79480, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1157
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioClipLoadFromFile> - id=1158
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFile>> - id=1159
+	0, 50462726, 4271, 4272, 4273, 4274, 4275, 4276, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40348 : 80248, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1150
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1160
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1151
-	0, 50462726, 4227, 4228, 4229, 4230, 4231, 4232, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40044 : 79632, IL2CPP_SIZEOF_VOID_P == 4 ? 40052 : 79648, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1161
+	0, 50462726, 4277, 4278, 4279, 4280, 4281, 4282, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 40428 : 80400, IL2CPP_SIZEOF_VOID_P == 4 ? 40436 : 80416, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1152
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1153
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile>> - id=1154
-	0, 50462726, 4233, 4234, 4235, 4236, 4237, 4238, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40120 : 79776, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1162
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile> - id=1163
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile>> - id=1164
+	0, 50462726, 4283, 4284, 4285, 4286, 4287, 4288, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40504 : 80544, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioSource> - id=1155
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioSource> - id=1165
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioSource> - id=1156
-	0, 50462726, 4239, 4240, 4241, 4242, 4243, 4244, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40200 : 79928, IL2CPP_SIZEOF_VOID_P == 4 ? 40208 : 79944, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioSource> - id=1166
+	0, 50462726, 4289, 4290, 4291, 4292, 4293, 4294, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 40584 : 80696, IL2CPP_SIZEOF_VOID_P == 4 ? 40592 : 80712, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSource> - id=1157
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioSource> - id=1158
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSource>> - id=1159
-	0, 50462726, 4245, 4246, 4247, 4248, 4249, 4250, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40276 : 80072, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSource> - id=1167
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioSource> - id=1168
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSource>> - id=1169
+	0, 50462726, 4295, 4296, 4297, 4298, 4299, 4300, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40660 : 80840, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioSourceStart> - id=1160
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioSourceStart> - id=1170
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioSourceStart> - id=1161
-	0, 50462726, 4251, 4252, 4253, 4254, 4255, 4256, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40356 : 80224, IL2CPP_SIZEOF_VOID_P == 4 ? 40364 : 80240, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioSourceStart> - id=1171
+	0, 50462726, 4301, 4302, 4303, 4304, 4305, 4306, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 40740 : 80992, IL2CPP_SIZEOF_VOID_P == 4 ? 40748 : 81008, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStart> - id=1162
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioSourceStart> - id=1163
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStart>> - id=1164
-	0, 50462726, 4257, 4258, 4259, 4260, 4261, 4262, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40432 : 80368, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStart> - id=1172
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioSourceStart> - id=1173
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStart>> - id=1174
+	0, 50462726, 4307, 4308, 4309, 4310, 4311, 4312, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40816 : 81136, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioSourceStop> - id=1165
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Audio.AudioSourceStop> - id=1175
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioSourceStop> - id=1166
-	0, 50462726, 4263, 4264, 4265, 4266, 4267, 4268, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40512 : 80520, IL2CPP_SIZEOF_VOID_P == 4 ? 40520 : 80536, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Audio.AudioSourceStop> - id=1176
+	0, 50462726, 4313, 4314, 4315, 4316, 4317, 4318, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 40896 : 81288, IL2CPP_SIZEOF_VOID_P == 4 ? 40904 : 81304, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStop> - id=1167
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioSourceStop> - id=1168
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStop>> - id=1169
-	0, 50462726, 4269, 4270, 4271, 4272, 4273, 4274, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40588 : 80664, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStop> - id=1177
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Audio.AudioSourceStop> - id=1178
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Audio.AudioSourceStop>> - id=1179
+	0, 50462726, 4319, 4320, 4321, 4322, 4323, 4324, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40972 : 81432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core.EntityName> - id=1170
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core.EntityName> - id=1180
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core.EntityName> - id=1171
-	0, 50462726, 4275, 4276, 4277, 4278, 4279, 4280, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40668 : 80816, IL2CPP_SIZEOF_VOID_P == 4 ? 40676 : 80832, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core.EntityName> - id=1181
+	0, 50462726, 4325, 4326, 4327, 4328, 4329, 4330, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41052 : 81584, IL2CPP_SIZEOF_VOID_P == 4 ? 41060 : 81600, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core.EntityName> - id=1172
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core.EntityName> - id=1173
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core.EntityName>> - id=1174
-	0, 50462726, 4281, 4282, 4283, 4284, 4285, 4286, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40744 : 80960, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core.EntityName> - id=1182
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core.EntityName> - id=1183
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core.EntityName>> - id=1184
+	0, 50462726, 4331, 4332, 4333, 4334, 4335, 4336, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41128 : 81728, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Camera2D> - id=1175
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Camera2D> - id=1185
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Camera2D> - id=1176
-	0, 50462726, 4287, 4288, 4289, 4290, 4291, 4292, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40824 : 81112, IL2CPP_SIZEOF_VOID_P == 4 ? 40832 : 81128, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Camera2D> - id=1186
+	0, 50462726, 4337, 4338, 4339, 4340, 4341, 4342, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41208 : 81880, IL2CPP_SIZEOF_VOID_P == 4 ? 41216 : 81896, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Camera2D> - id=1177
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Camera2D> - id=1178
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Camera2D>> - id=1179
-	0, 50462726, 4293, 4294, 4295, 4296, 4297, 4298, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 40900 : 81256, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Camera2D> - id=1187
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Camera2D> - id=1188
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Camera2D>> - id=1189
+	0, 50462726, 4343, 4344, 4345, 4346, 4347, 4348, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41284 : 82024, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.DisplayListCamera> - id=1180
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.DisplayListCamera> - id=1190
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.DisplayListCamera> - id=1181
-	0, 50462726, 4299, 4300, 4301, 4302, 4303, 4304, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 40980 : 81408, IL2CPP_SIZEOF_VOID_P == 4 ? 40988 : 81424, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.DisplayListCamera> - id=1191
+	0, 50462726, 4349, 4350, 4351, 4352, 4353, 4354, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41364 : 82176, IL2CPP_SIZEOF_VOID_P == 4 ? 41372 : 82192, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListCamera> - id=1182
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.DisplayListCamera> - id=1183
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListCamera>> - id=1184
-	0, 50462726, 4305, 4306, 4307, 4308, 4309, 4310, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41056 : 81552, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListCamera> - id=1192
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.DisplayListCamera> - id=1193
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListCamera>> - id=1194
+	0, 50462726, 4355, 4356, 4357, 4358, 4359, 4360, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41440 : 82320, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.DisplayListEntry> - id=1185
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.DisplayListEntry> - id=1195
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.DisplayListEntry> - id=1186
-	0, 50462726, 4311, 4312, 4313, 4314, 4315, 4316, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 41136 : 81704, IL2CPP_SIZEOF_VOID_P == 4 ? 41144 : 81720, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.DisplayListEntry> - id=1196
+	0, 50462726, 4361, 4362, 4363, 4364, 4365, 4366, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41520 : 82472, IL2CPP_SIZEOF_VOID_P == 4 ? 41528 : 82488, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListEntry> - id=1187
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.DisplayListEntry> - id=1188
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListEntry>> - id=1189
-	0, 50462726, 4317, 4318, 4319, 4320, 4321, 4322, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41212 : 81848, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListEntry> - id=1197
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.DisplayListEntry> - id=1198
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.DisplayListEntry>> - id=1199
+	0, 50462726, 4367, 4368, 4369, 4370, 4371, 4372, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41596 : 82616, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2D> - id=1190
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2D> - id=1200
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2D> - id=1191
-	0, 50462726, 4323, 4324, 4325, 4326, 4327, 4328, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 41292 : 82000, IL2CPP_SIZEOF_VOID_P == 4 ? 41300 : 82016, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2D> - id=1201
+	0, 50462726, 4373, 4374, 4375, 4376, 4377, 4378, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41676 : 82768, IL2CPP_SIZEOF_VOID_P == 4 ? 41684 : 82784, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2D> - id=1192
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2D> - id=1193
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2D>> - id=1194
-	0, 50462726, 4329, 4330, 4331, 4332, 4333, 4334, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41368 : 82144, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2D> - id=1202
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2D> - id=1203
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2D>> - id=1204
+	0, 50462726, 4379, 4380, 4381, 4382, 4383, 4384, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41752 : 82912, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1195
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1205
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1196
-	0, 50462726, 4335, 4336, 4337, 4338, 4339, 4340, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 41448 : 82296, IL2CPP_SIZEOF_VOID_P == 4 ? 41456 : 82312, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1206
+	0, 50462726, 4385, 4386, 4387, 4388, 4389, 4390, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41832 : 83064, IL2CPP_SIZEOF_VOID_P == 4 ? 41840 : 83080, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1197
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1198
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DAlphaMaskData>> - id=1199
-	0, 50462726, 4341, 4342, 4343, 4344, 4345, 4346, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41524 : 82440, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1207
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DAlphaMaskData> - id=1208
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DAlphaMaskData>> - id=1209
+	0, 50462726, 4391, 4392, 4393, 4394, 4395, 4396, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41908 : 83208, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1200
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1210
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1201
-	0, 50462726, 4347, 4348, 4349, 4350, 4351, 4352, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 41604 : 82592, IL2CPP_SIZEOF_VOID_P == 4 ? 41612 : 82608, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1211
+	0, 50462726, 4397, 4398, 4399, 4400, 4401, 4402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 41988 : 83360, IL2CPP_SIZEOF_VOID_P == 4 ? 41996 : 83376, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1202
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1203
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFile>> - id=1204
-	0, 50462726, 4353, 4354, 4355, 4356, 4357, 4358, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41680 : 82736, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1212
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DLoadFromFile> - id=1213
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFile>> - id=1214
+	0, 50462726, 4403, 4404, 4405, 4406, 4407, 4408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42064 : 83504, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1205
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1215
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1206
-	0, 50462726, 4359, 4360, 4361, 4362, 4363, 4364, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 41760 : 82888, IL2CPP_SIZEOF_VOID_P == 4 ? 41768 : 82904, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1216
+	0, 50462726, 4409, 4410, 4411, 4412, 4413, 4414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 42144 : 83656, IL2CPP_SIZEOF_VOID_P == 4 ? 42152 : 83672, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1207
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1208
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile>> - id=1209
-	0, 50462726, 4365, 4366, 4367, 4368, 4369, 4370, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41836 : 83032, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1217
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile> - id=1218
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileImageFile>> - id=1219
+	0, 50462726, 4415, 4416, 4417, 4418, 4419, 4420, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42220 : 83800, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1210
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1220
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1211
-	0, 50462726, 4371, 4372, 4373, 4374, 4375, 4376, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 41916 : 83184, IL2CPP_SIZEOF_VOID_P == 4 ? 41924 : 83200, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1221
+	0, 50462726, 4421, 4422, 4423, 4424, 4425, 4426, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 42300 : 83952, IL2CPP_SIZEOF_VOID_P == 4 ? 42308 : 83968, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1212
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1213
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile>> - id=1214
-	0, 50462726, 4377, 4378, 4379, 4380, 4381, 4382, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 41992 : 83328, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1222
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile> - id=1223
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Image2DLoadFromFileMaskFile>> - id=1224
+	0, 50462726, 4427, 4428, 4429, 4430, 4431, 4432, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42376 : 84096, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.LocalToParent> - id=1215
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.LocalToParent> - id=1225
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.LocalToParent> - id=1216
-	0, 50462726, 4383, 4384, 4385, 4386, 4387, 4388, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 42072 : 83480, IL2CPP_SIZEOF_VOID_P == 4 ? 42080 : 83496, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.LocalToParent> - id=1226
+	0, 50462726, 4433, 4434, 4435, 4436, 4437, 4438, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 42456 : 84248, IL2CPP_SIZEOF_VOID_P == 4 ? 42464 : 84264, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToParent> - id=1217
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.LocalToParent> - id=1218
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToParent>> - id=1219
-	0, 50462726, 4389, 4390, 4391, 4392, 4393, 4394, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42148 : 83624, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToParent> - id=1227
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.LocalToParent> - id=1228
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToParent>> - id=1229
+	0, 50462726, 4439, 4440, 4441, 4442, 4443, 4444, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42532 : 84392, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.LocalToWorld> - id=1220
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.LocalToWorld> - id=1230
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.LocalToWorld> - id=1221
-	0, 50462726, 4395, 4396, 4397, 4398, 4399, 4400, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 42228 : 83776, IL2CPP_SIZEOF_VOID_P == 4 ? 42236 : 83792, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.LocalToWorld> - id=1231
+	0, 50462726, 4445, 4446, 4447, 4448, 4449, 4450, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 42612 : 84544, IL2CPP_SIZEOF_VOID_P == 4 ? 42620 : 84560, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToWorld> - id=1222
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.LocalToWorld> - id=1223
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToWorld>> - id=1224
-	0, 50462726, 4401, 4402, 4403, 4404, 4405, 4406, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42304 : 83920, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToWorld> - id=1232
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.LocalToWorld> - id=1233
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.LocalToWorld>> - id=1234
+	0, 50462726, 4451, 4452, 4453, 4454, 4455, 4456, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42688 : 84688, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.NonUniformScale> - id=1225
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.NonUniformScale> - id=1235
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.NonUniformScale> - id=1226
-	0, 50462726, 4407, 4408, 4409, 4410, 4411, 4412, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 42384 : 84072, IL2CPP_SIZEOF_VOID_P == 4 ? 42392 : 84088, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.NonUniformScale> - id=1236
+	0, 50462726, 4457, 4458, 4459, 4460, 4461, 4462, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 42768 : 84840, IL2CPP_SIZEOF_VOID_P == 4 ? 42776 : 84856, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.NonUniformScale> - id=1227
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.NonUniformScale> - id=1228
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.NonUniformScale>> - id=1229
-	0, 50462726, 4413, 4414, 4415, 4416, 4417, 4418, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42460 : 84216, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.NonUniformScale> - id=1237
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.NonUniformScale> - id=1238
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.NonUniformScale>> - id=1239
+	0, 50462726, 4463, 4464, 4465, 4466, 4467, 4468, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42844 : 84984, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Parent> - id=1230
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Parent> - id=1240
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Parent> - id=1231
-	0, 50462726, 4419, 4420, 4421, 4422, 4423, 4424, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 42540 : 84368, IL2CPP_SIZEOF_VOID_P == 4 ? 42548 : 84384, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Parent> - id=1241
+	0, 50462726, 4469, 4470, 4471, 4472, 4473, 4474, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 42924 : 85136, IL2CPP_SIZEOF_VOID_P == 4 ? 42932 : 85152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Parent> - id=1232
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Parent> - id=1233
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Parent>> - id=1234
-	0, 50462726, 4425, 4426, 4427, 4428, 4429, 4430, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42616 : 84512, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Parent> - id=1242
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Parent> - id=1243
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Parent>> - id=1244
+	0, 50462726, 4475, 4476, 4477, 4478, 4479, 4480, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43000 : 85280, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.PrivateTransformData> - id=1235
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.PrivateTransformData> - id=1245
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.PrivateTransformData> - id=1236
-	0, 50462726, 4431, 4432, 4433, 4434, 4435, 4436, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 42696 : 84664, IL2CPP_SIZEOF_VOID_P == 4 ? 42704 : 84680, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.PrivateTransformData> - id=1246
+	0, 50462726, 4481, 4482, 4483, 4484, 4485, 4486, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 43080 : 85432, IL2CPP_SIZEOF_VOID_P == 4 ? 43088 : 85448, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.PrivateTransformData> - id=1237
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.PrivateTransformData> - id=1238
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.PrivateTransformData>> - id=1239
-	0, 50462726, 4437, 4438, 4439, 4440, 4441, 4442, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42772 : 84808, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.PrivateTransformData> - id=1247
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.PrivateTransformData> - id=1248
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.PrivateTransformData>> - id=1249
+	0, 50462726, 4487, 4488, 4489, 4490, 4491, 4492, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43156 : 85576, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1240
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1250
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1241
-	0, 50462726, 4443, 4444, 4445, 4446, 4447, 4448, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 42852 : 84960, IL2CPP_SIZEOF_VOID_P == 4 ? 42860 : 84976, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1251
+	0, 50462726, 4493, 4494, 4495, 4496, 4497, 4498, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 43236 : 85728, IL2CPP_SIZEOF_VOID_P == 4 ? 43244 : 85744, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1242
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1243
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.RectTransformFinalSize>> - id=1244
-	0, 50462726, 4449, 4450, 4451, 4452, 4453, 4454, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 42928 : 85104, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1252
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.RectTransformFinalSize> - id=1253
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.RectTransformFinalSize>> - id=1254
+	0, 50462726, 4499, 4500, 4501, 4502, 4503, 4504, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43312 : 85872, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Rotation> - id=1245
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Rotation> - id=1255
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Rotation> - id=1246
-	0, 50462726, 4455, 4456, 4457, 4458, 4459, 4460, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43008 : 85256, IL2CPP_SIZEOF_VOID_P == 4 ? 43016 : 85272, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Rotation> - id=1256
+	0, 50462726, 4505, 4506, 4507, 4508, 4509, 4510, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 43392 : 86024, IL2CPP_SIZEOF_VOID_P == 4 ? 43400 : 86040, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Rotation> - id=1247
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Rotation> - id=1248
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Rotation>> - id=1249
-	0, 50462726, 4461, 4462, 4463, 4464, 4465, 4466, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43084 : 85400, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Rotation> - id=1257
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Rotation> - id=1258
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Rotation>> - id=1259
+	0, 50462726, 4511, 4512, 4513, 4514, 4515, 4516, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43468 : 86168, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Scale> - id=1250
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Scale> - id=1260
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Scale> - id=1251
-	0, 50462726, 4467, 4468, 4469, 4470, 4471, 4472, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43164 : 85552, IL2CPP_SIZEOF_VOID_P == 4 ? 43172 : 85568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Scale> - id=1261
+	0, 50462726, 4517, 4518, 4519, 4520, 4521, 4522, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 43548 : 86320, IL2CPP_SIZEOF_VOID_P == 4 ? 43556 : 86336, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Scale> - id=1252
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Scale> - id=1253
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Scale>> - id=1254
-	0, 50462726, 4473, 4474, 4475, 4476, 4477, 4478, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43240 : 85696, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Scale> - id=1262
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Scale> - id=1263
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Scale>> - id=1264
+	0, 50462726, 4523, 4524, 4525, 4526, 4527, 4528, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43624 : 86464, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Shape2DVertex> - id=1255
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Shape2DVertex> - id=1265
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Shape2DVertex> - id=1256
-	0, 50462726, 4479, 4480, 4481, 4482, 4483, 4484, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43320 : 85848, IL2CPP_SIZEOF_VOID_P == 4 ? 43328 : 85864, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Shape2DVertex> - id=1266
+	0, 50462726, 4529, 4530, 4531, 4532, 4533, 4534, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 43704 : 86616, IL2CPP_SIZEOF_VOID_P == 4 ? 43712 : 86632, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Shape2DVertex> - id=1257
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Shape2DVertex> - id=1258
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Shape2DVertex>> - id=1259
-	0, 50462726, 4485, 4486, 4487, 4488, 4489, 4490, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43396 : 85992, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Shape2DVertex> - id=1267
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Shape2DVertex> - id=1268
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Shape2DVertex>> - id=1269
+	0, 50462726, 4535, 4536, 4537, 4538, 4539, 4540, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43780 : 86760, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.SortedEntity> - id=1260
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.SortedEntity> - id=1270
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.SortedEntity> - id=1261
-	0, 50462726, 4491, 4492, 4493, 4494, 4495, 4496, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43476 : 86144, IL2CPP_SIZEOF_VOID_P == 4 ? 43484 : 86160, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.SortedEntity> - id=1271
+	0, 50462726, 4541, 4542, 4543, 4544, 4545, 4546, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 43860 : 86912, IL2CPP_SIZEOF_VOID_P == 4 ? 43868 : 86928, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.SortedEntity> - id=1262
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.SortedEntity> - id=1263
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.SortedEntity>> - id=1264
-	0, 50462726, 4497, 4498, 4499, 4500, 4501, 4502, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43552 : 86288, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.SortedEntity> - id=1272
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.SortedEntity> - id=1273
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.SortedEntity>> - id=1274
+	0, 50462726, 4547, 4548, 4549, 4550, 4551, 4552, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43936 : 87056, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2D> - id=1265
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2D> - id=1275
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2D> - id=1266
-	0, 50462726, 4503, 4504, 4505, 4506, 4507, 4508, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43632 : 86440, IL2CPP_SIZEOF_VOID_P == 4 ? 43640 : 86456, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2D> - id=1276
+	0, 50462726, 4553, 4554, 4555, 4556, 4557, 4558, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44016 : 87208, IL2CPP_SIZEOF_VOID_P == 4 ? 44024 : 87224, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2D> - id=1267
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2D> - id=1268
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2D>> - id=1269
-	0, 50462726, 4509, 4510, 4511, 4512, 4513, 4514, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43708 : 86584, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2D> - id=1277
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2D> - id=1278
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2D>> - id=1279
+	0, 50462726, 4559, 4560, 4561, 4562, 4563, 4564, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44092 : 87352, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1270
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1280
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1271
-	0, 50462726, 4515, 4516, 4517, 4518, 4519, 4520, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43788 : 86736, IL2CPP_SIZEOF_VOID_P == 4 ? 43796 : 86752, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1281
+	0, 50462726, 4565, 4566, 4567, 4568, 4569, 4570, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44172 : 87504, IL2CPP_SIZEOF_VOID_P == 4 ? 44180 : 87520, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1272
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1273
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DPrivate>> - id=1274
-	0, 50462726, 4521, 4522, 4523, 4524, 4525, 4526, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 43864 : 86880, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1282
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DPrivate> - id=1283
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DPrivate>> - id=1284
+	0, 50462726, 4571, 4572, 4573, 4574, 4575, 4576, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44248 : 87648, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1275
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1285
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1276
-	0, 50462726, 4527, 4528, 4529, 4530, 4531, 4532, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 43944 : 87032, IL2CPP_SIZEOF_VOID_P == 4 ? 43952 : 87048, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1286
+	0, 50462726, 4577, 4578, 4579, 4580, 4581, 4582, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44328 : 87800, IL2CPP_SIZEOF_VOID_P == 4 ? 44336 : 87816, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1277
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1278
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRenderer>> - id=1279
-	0, 50462726, 4533, 4534, 4535, 4536, 4537, 4538, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44020 : 87176, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1287
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DRenderer> - id=1288
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRenderer>> - id=1289
+	0, 50462726, 4583, 4584, 4585, 4586, 4587, 4588, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44404 : 87944, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1280
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1290
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1281
-	0, 50462726, 4539, 4540, 4541, 4542, 4543, 4544, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 44100 : 87328, IL2CPP_SIZEOF_VOID_P == 4 ? 44108 : 87344, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1291
+	0, 50462726, 4589, 4590, 4591, 4592, 4593, 4594, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44484 : 88096, IL2CPP_SIZEOF_VOID_P == 4 ? 44492 : 88112, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1282
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1283
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRendererOptions>> - id=1284
-	0, 50462726, 4545, 4546, 4547, 4548, 4549, 4550, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44176 : 87472, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1292
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DRendererOptions> - id=1293
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DRendererOptions>> - id=1294
+	0, 50462726, 4595, 4596, 4597, 4598, 4599, 4600, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44560 : 88240, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DSequence> - id=1285
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DSequence> - id=1295
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DSequence> - id=1286
-	0, 50462726, 4551, 4552, 4553, 4554, 4555, 4556, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 44256 : 87624, IL2CPP_SIZEOF_VOID_P == 4 ? 44264 : 87640, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DSequence> - id=1296
+	0, 50462726, 4601, 4602, 4603, 4604, 4605, 4606, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44640 : 88392, IL2CPP_SIZEOF_VOID_P == 4 ? 44648 : 88408, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequence> - id=1287
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DSequence> - id=1288
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequence>> - id=1289
-	0, 50462726, 4557, 4558, 4559, 4560, 4561, 4562, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44332 : 87768, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequence> - id=1297
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DSequence> - id=1298
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequence>> - id=1299
+	0, 50462726, 4607, 4608, 4609, 4610, 4611, 4612, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44716 : 88536, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1290
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1300
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1291
-	0, 50462726, 4563, 4564, 4565, 4566, 4567, 4568, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 44412 : 87920, IL2CPP_SIZEOF_VOID_P == 4 ? 44420 : 87936, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1301
+	0, 50462726, 4613, 4614, 4615, 4616, 4617, 4618, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44796 : 88688, IL2CPP_SIZEOF_VOID_P == 4 ? 44804 : 88704, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1292
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1293
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer>> - id=1294
-	0, 50462726, 4569, 4570, 4571, 4572, 4573, 4574, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44488 : 88064, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1302
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer> - id=1303
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Sprite2DSequencePlayer>> - id=1304
+	0, 50462726, 4619, 4620, 4621, 4622, 4623, 4624, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44872 : 88832, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Translation> - id=1295
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Core2D.Translation> - id=1305
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Translation> - id=1296
-	0, 50462726, 4575, 4576, 4577, 4578, 4579, 4580, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 44568 : 88216, IL2CPP_SIZEOF_VOID_P == 4 ? 44576 : 88232, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Core2D.Translation> - id=1306
+	0, 50462726, 4625, 4626, 4627, 4628, 4629, 4630, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 44952 : 88984, IL2CPP_SIZEOF_VOID_P == 4 ? 44960 : 89000, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Translation> - id=1297
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Translation> - id=1298
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Translation>> - id=1299
-	0, 50462726, 4581, 4582, 4583, 4584, 4585, 4586, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44644 : 88360, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Translation> - id=1307
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Core2D.Translation> - id=1308
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Core2D.Translation>> - id=1309
+	0, 50462726, 4631, 4632, 4633, 4634, 4635, 4636, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45028 : 89128, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.AudioHTMLClip> - id=1300
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.AudioHTMLClip> - id=1310
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.AudioHTMLClip> - id=1301
-	0, 50462726, 4587, 4588, 4589, 4590, 4591, 4592, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 44724 : 88512, IL2CPP_SIZEOF_VOID_P == 4 ? 44732 : 88528, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.AudioHTMLClip> - id=1311
+	0, 50462726, 4637, 4638, 4639, 4640, 4641, 4642, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 45108 : 89280, IL2CPP_SIZEOF_VOID_P == 4 ? 45116 : 89296, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLClip> - id=1302
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.AudioHTMLClip> - id=1303
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLClip>> - id=1304
-	0, 50462726, 4593, 4594, 4595, 4596, 4597, 4598, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44800 : 88656, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLClip> - id=1312
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.AudioHTMLClip> - id=1313
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLClip>> - id=1314
+	0, 50462726, 4643, 4644, 4645, 4646, 4647, 4648, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45184 : 89424, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.AudioHTMLLoading> - id=1305
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.AudioHTMLLoading> - id=1315
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.AudioHTMLLoading> - id=1306
-	0, 50462726, 4599, 4600, 4601, 4602, 4603, 4604, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 44880 : 88808, IL2CPP_SIZEOF_VOID_P == 4 ? 44888 : 88824, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.AudioHTMLLoading> - id=1316
+	0, 50462726, 4649, 4650, 4651, 4652, 4653, 4654, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 45264 : 89576, IL2CPP_SIZEOF_VOID_P == 4 ? 45272 : 89592, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLLoading> - id=1307
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.AudioHTMLLoading> - id=1308
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLLoading>> - id=1309
-	0, 50462726, 4605, 4606, 4607, 4608, 4609, 4610, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 44956 : 88952, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLLoading> - id=1317
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.AudioHTMLLoading> - id=1318
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.AudioHTMLLoading>> - id=1319
+	0, 50462726, 4655, 4656, 4657, 4658, 4659, 4660, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45340 : 89720, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.Image2DHTML> - id=1310
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.Image2DHTML> - id=1320
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.Image2DHTML> - id=1311
-	0, 50462726, 4611, 4612, 4613, 4614, 4615, 4616, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45036 : 89104, IL2CPP_SIZEOF_VOID_P == 4 ? 45044 : 89120, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.Image2DHTML> - id=1321
+	0, 50462726, 4661, 4662, 4663, 4664, 4665, 4666, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 45420 : 89872, IL2CPP_SIZEOF_VOID_P == 4 ? 45428 : 89888, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTML> - id=1312
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.Image2DHTML> - id=1313
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTML>> - id=1314
-	0, 50462726, 4617, 4618, 4619, 4620, 4621, 4622, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45112 : 89248, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTML> - id=1322
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.Image2DHTML> - id=1323
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTML>> - id=1324
+	0, 50462726, 4667, 4668, 4669, 4670, 4671, 4672, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45496 : 90016, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1315
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1325
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1316
-	0, 50462726, 4623, 4624, 4625, 4626, 4627, 4628, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45192 : 89400, IL2CPP_SIZEOF_VOID_P == 4 ? 45200 : 89416, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1326
+	0, 50462726, 4673, 4674, 4675, 4676, 4677, 4678, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 45576 : 90168, IL2CPP_SIZEOF_VOID_P == 4 ? 45584 : 90184, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1317
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1318
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTMLLoading>> - id=1319
-	0, 50462726, 4629, 4630, 4631, 4632, 4633, 4634, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45268 : 89544, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1327
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.Image2DHTMLLoading> - id=1328
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.Image2DHTMLLoading>> - id=1329
+	0, 50462726, 4679, 4680, 4681, 4682, 4683, 4684, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45652 : 90312, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.NativeMessageByte> - id=1320
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.NativeMessageByte> - id=1330
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.NativeMessageByte> - id=1321
-	0, 50462726, 4635, 4636, 4637, 4638, 4639, 4640, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45348 : 89696, IL2CPP_SIZEOF_VOID_P == 4 ? 45356 : 89712, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.NativeMessageByte> - id=1331
+	0, 50462726, 4685, 4686, 4687, 4688, 4689, 4690, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 45732 : 90464, IL2CPP_SIZEOF_VOID_P == 4 ? 45740 : 90480, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageByte> - id=1322
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.NativeMessageByte> - id=1323
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageByte>> - id=1324
-	0, 50462726, 4641, 4642, 4643, 4644, 4645, 4646, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45424 : 89840, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageByte> - id=1332
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.NativeMessageByte> - id=1333
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageByte>> - id=1334
+	0, 50462726, 4691, 4692, 4693, 4694, 4695, 4696, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45808 : 90608, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.NativeMessageFloat> - id=1325
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.NativeMessageFloat> - id=1335
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.NativeMessageFloat> - id=1326
-	0, 50462726, 4647, 4648, 4649, 4650, 4651, 4652, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45504 : 89992, IL2CPP_SIZEOF_VOID_P == 4 ? 45512 : 90008, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.NativeMessageFloat> - id=1336
+	0, 50462726, 4697, 4698, 4699, 4700, 4701, 4702, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 45888 : 90760, IL2CPP_SIZEOF_VOID_P == 4 ? 45896 : 90776, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageFloat> - id=1327
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.NativeMessageFloat> - id=1328
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageFloat>> - id=1329
-	0, 50462726, 4653, 4654, 4655, 4656, 4657, 4658, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45580 : 90136, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageFloat> - id=1337
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.NativeMessageFloat> - id=1338
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageFloat>> - id=1339
+	0, 50462726, 4703, 4704, 4705, 4706, 4707, 4708, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45964 : 90904, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.NativeMessageInt> - id=1330
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.NativeMessageInt> - id=1340
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.NativeMessageInt> - id=1331
-	0, 50462726, 4659, 4660, 4661, 4662, 4663, 4664, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45660 : 90288, IL2CPP_SIZEOF_VOID_P == 4 ? 45668 : 90304, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.NativeMessageInt> - id=1341
+	0, 50462726, 4709, 4710, 4711, 4712, 4713, 4714, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46044 : 91056, IL2CPP_SIZEOF_VOID_P == 4 ? 46052 : 91072, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageInt> - id=1332
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.NativeMessageInt> - id=1333
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageInt>> - id=1334
-	0, 50462726, 4665, 4666, 4667, 4668, 4669, 4670, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45736 : 90432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageInt> - id=1342
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.NativeMessageInt> - id=1343
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.NativeMessageInt>> - id=1344
+	0, 50462726, 4715, 4716, 4717, 4718, 4719, 4720, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46120 : 91200, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.VideoClipHTML> - id=1335
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.VideoClipHTML> - id=1345
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.VideoClipHTML> - id=1336
-	0, 50462726, 4671, 4672, 4673, 4674, 4675, 4676, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45816 : 90584, IL2CPP_SIZEOF_VOID_P == 4 ? 45824 : 90600, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.VideoClipHTML> - id=1346
+	0, 50462726, 4721, 4722, 4723, 4724, 4725, 4726, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46200 : 91352, IL2CPP_SIZEOF_VOID_P == 4 ? 46208 : 91368, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipHTML> - id=1337
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.VideoClipHTML> - id=1338
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipHTML>> - id=1339
-	0, 50462726, 4677, 4678, 4679, 4680, 4681, 4682, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 45892 : 90728, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipHTML> - id=1347
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.VideoClipHTML> - id=1348
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipHTML>> - id=1349
+	0, 50462726, 4727, 4728, 4729, 4730, 4731, 4732, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46276 : 91496, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.VideoClipLoading> - id=1340
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.VideoClipLoading> - id=1350
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.VideoClipLoading> - id=1341
-	0, 50462726, 4683, 4684, 4685, 4686, 4687, 4688, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 45972 : 90880, IL2CPP_SIZEOF_VOID_P == 4 ? 45980 : 90896, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.VideoClipLoading> - id=1351
+	0, 50462726, 4733, 4734, 4735, 4736, 4737, 4738, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46356 : 91648, IL2CPP_SIZEOF_VOID_P == 4 ? 46364 : 91664, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoading> - id=1342
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.VideoClipLoading> - id=1343
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoading>> - id=1344
-	0, 50462726, 4689, 4690, 4691, 4692, 4693, 4694, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46048 : 91024, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoading> - id=1352
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.VideoClipLoading> - id=1353
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoading>> - id=1354
+	0, 50462726, 4739, 4740, 4741, 4742, 4743, 4744, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46432 : 91792, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.VideoClipLoadingState> - id=1345
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HTML.VideoClipLoadingState> - id=1355
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.VideoClipLoadingState> - id=1346
-	0, 50462726, 4695, 4696, 4697, 4698, 4699, 4700, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 46128 : 91176, IL2CPP_SIZEOF_VOID_P == 4 ? 46136 : 91192, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HTML.VideoClipLoadingState> - id=1356
+	0, 50462726, 4745, 4746, 4747, 4748, 4749, 4750, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46512 : 91944, IL2CPP_SIZEOF_VOID_P == 4 ? 46520 : 91960, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoadingState> - id=1347
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.VideoClipLoadingState> - id=1348
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoadingState>> - id=1349
-	0, 50462726, 4701, 4702, 4703, 4704, 4705, 4706, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46204 : 91320, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoadingState> - id=1357
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HTML.VideoClipLoadingState> - id=1358
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HTML.VideoClipLoadingState>> - id=1359
+	0, 50462726, 4751, 4752, 4753, 4754, 4755, 4756, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46588 : 92088, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1350
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1360
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1351
-	0, 50462726, 4707, 4708, 4709, 4710, 4711, 4712, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 46284 : 91472, IL2CPP_SIZEOF_VOID_P == 4 ? 46292 : 91488, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1361
+	0, 50462726, 4757, 4758, 4759, 4760, 4761, 4762, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46668 : 92240, IL2CPP_SIZEOF_VOID_P == 4 ? 46676 : 92256, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1352
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1353
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HitBox2D.HitBoxOverlap>> - id=1354
-	0, 50462726, 4713, 4714, 4715, 4716, 4717, 4718, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46360 : 91616, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1362
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.HitBox2D.HitBoxOverlap> - id=1363
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.HitBox2D.HitBoxOverlap>> - id=1364
+	0, 50462726, 4763, 4764, 4765, 4766, 4767, 4768, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46744 : 92384, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Input.KeyCode> - id=1355
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Input.KeyCode> - id=1365
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Input.KeyCode> - id=1356
-	0, 50462726, 4719, 4720, 4721, 4722, 4723, 4724, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 46440 : 91768, IL2CPP_SIZEOF_VOID_P == 4 ? 46448 : 91784, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Input.KeyCode> - id=1366
+	0, 50462726, 4769, 4770, 4771, 4772, 4773, 4774, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46824 : 92536, IL2CPP_SIZEOF_VOID_P == 4 ? 46832 : 92552, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Input.KeyCode> - id=1357
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Input.KeyCode> - id=1358
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Input.KeyCode>> - id=1359
-	0, 50462726, 4725, 4726, 4727, 4728, 4729, 4730, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46516 : 91912, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Input.KeyCode> - id=1367
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Input.KeyCode> - id=1368
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Input.KeyCode>> - id=1369
+	0, 50462726, 4775, 4776, 4777, 4778, 4779, 4780, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46900 : 92680, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Input.Touch> - id=1360
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Input.Touch> - id=1370
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Input.Touch> - id=1361
-	0, 50462726, 4731, 4732, 4733, 4734, 4735, 4736, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 46596 : 92064, IL2CPP_SIZEOF_VOID_P == 4 ? 46604 : 92080, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Input.Touch> - id=1371
+	0, 50462726, 4781, 4782, 4783, 4784, 4785, 4786, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 46980 : 92832, IL2CPP_SIZEOF_VOID_P == 4 ? 46988 : 92848, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Input.Touch> - id=1362
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Input.Touch> - id=1363
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Input.Touch>> - id=1364
-	0, 50462726, 4737, 4738, 4739, 4740, 4741, 4742, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46672 : 92208, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Input.Touch> - id=1372
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Input.Touch> - id=1373
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Input.Touch>> - id=1374
+	0, 50462726, 4787, 4788, 4789, 4790, 4791, 4792, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47056 : 92976, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1365
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1375
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1366
-	0, 50462726, 4743, 4744, 4745, 4746, 4747, 4748, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 46752 : 92360, IL2CPP_SIZEOF_VOID_P == 4 ? 46760 : 92376, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1376
+	0, 50462726, 4793, 4794, 4795, 4796, 4797, 4798, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 47136 : 93128, IL2CPP_SIZEOF_VOID_P == 4 ? 47144 : 93144, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1367
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1368
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat3>> - id=1369
-	0, 50462726, 4749, 4750, 4751, 4752, 4753, 4754, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46828 : 92504, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1377
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.BezierKeyFloat3> - id=1378
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat3>> - id=1379
+	0, 50462726, 4799, 4800, 4801, 4802, 4803, 4804, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47212 : 93272, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1370
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1380
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1371
-	0, 50462726, 4755, 4756, 4757, 4758, 4759, 4760, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 46908 : 92656, IL2CPP_SIZEOF_VOID_P == 4 ? 46916 : 92672, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1381
+	0, 50462726, 4805, 4806, 4807, 4808, 4809, 4810, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 47292 : 93424, IL2CPP_SIZEOF_VOID_P == 4 ? 47300 : 93440, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1372
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1373
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat>> - id=1374
-	0, 50462726, 4761, 4762, 4763, 4764, 4765, 4766, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 46984 : 92800, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1382
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.BezierKeyFloat> - id=1383
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.BezierKeyFloat>> - id=1384
+	0, 50462726, 4811, 4812, 4813, 4814, 4815, 4816, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47368 : 93568, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.KeyColor> - id=1375
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.KeyColor> - id=1385
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.KeyColor> - id=1376
-	0, 50462726, 4767, 4768, 4769, 4770, 4771, 4772, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 47064 : 92952, IL2CPP_SIZEOF_VOID_P == 4 ? 47072 : 92968, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.KeyColor> - id=1386
+	0, 50462726, 4817, 4818, 4819, 4820, 4821, 4822, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 47448 : 93720, IL2CPP_SIZEOF_VOID_P == 4 ? 47456 : 93736, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyColor> - id=1377
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.KeyColor> - id=1378
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyColor>> - id=1379
-	0, 50462726, 4773, 4774, 4775, 4776, 4777, 4778, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47140 : 93096, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyColor> - id=1387
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.KeyColor> - id=1388
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyColor>> - id=1389
+	0, 50462726, 4823, 4824, 4825, 4826, 4827, 4828, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47524 : 93864, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.KeyFloat3> - id=1380
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.KeyFloat3> - id=1390
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.KeyFloat3> - id=1381
-	0, 50462726, 4779, 4780, 4781, 4782, 4783, 4784, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 47220 : 93248, IL2CPP_SIZEOF_VOID_P == 4 ? 47228 : 93264, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.KeyFloat3> - id=1391
+	0, 50462726, 4829, 4830, 4831, 4832, 4833, 4834, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 47604 : 94016, IL2CPP_SIZEOF_VOID_P == 4 ? 47612 : 94032, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat3> - id=1382
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.KeyFloat3> - id=1383
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat3>> - id=1384
-	0, 50462726, 4785, 4786, 4787, 4788, 4789, 4790, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47296 : 93392, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat3> - id=1392
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.KeyFloat3> - id=1393
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat3>> - id=1394
+	0, 50462726, 4835, 4836, 4837, 4838, 4839, 4840, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47680 : 94160, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.KeyFloat> - id=1385
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Interpolation.KeyFloat> - id=1395
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.KeyFloat> - id=1386
-	0, 50462726, 4791, 4792, 4793, 4794, 4795, 4796, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 47376 : 93544, IL2CPP_SIZEOF_VOID_P == 4 ? 47384 : 93560, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Interpolation.KeyFloat> - id=1396
+	0, 50462726, 4841, 4842, 4843, 4844, 4845, 4846, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 47760 : 94312, IL2CPP_SIZEOF_VOID_P == 4 ? 47768 : 94328, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat> - id=1387
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.KeyFloat> - id=1388
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat>> - id=1389
-	0, 50462726, 4797, 4798, 4799, 4800, 4801, 4802, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47452 : 93688, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat> - id=1397
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Interpolation.KeyFloat> - id=1398
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Interpolation.KeyFloat>> - id=1399
+	0, 50462726, 4847, 4848, 4849, 4850, 4851, 4852, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47836 : 94456, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.Particle> - id=1390
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.Particle> - id=1400
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.Particle> - id=1391
-	0, 50462726, 4803, 4804, 4805, 4806, 4807, 4808, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 47532 : 93840, IL2CPP_SIZEOF_VOID_P == 4 ? 47540 : 93856, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.Particle> - id=1401
+	0, 50462726, 4853, 4854, 4855, 4856, 4857, 4858, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 47916 : 94608, IL2CPP_SIZEOF_VOID_P == 4 ? 47924 : 94624, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.Particle> - id=1392
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.Particle> - id=1393
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.Particle>> - id=1394
-	0, 50462726, 4809, 4810, 4811, 4812, 4813, 4814, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47608 : 93984, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.Particle> - id=1402
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.Particle> - id=1403
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.Particle>> - id=1404
+	0, 50462726, 4859, 4860, 4861, 4862, 4863, 4864, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47992 : 94752, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1395
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1405
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1396
-	0, 50462726, 4815, 4816, 4817, 4818, 4819, 4820, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 47688 : 94136, IL2CPP_SIZEOF_VOID_P == 4 ? 47696 : 94152, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1406
+	0, 50462726, 4865, 4866, 4867, 4868, 4869, 4870, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 48072 : 94904, IL2CPP_SIZEOF_VOID_P == 4 ? 48080 : 94920, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1397
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1398
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleAngularVelocity>> - id=1399
-	0, 50462726, 4821, 4822, 4823, 4824, 4825, 4826, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47764 : 94280, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1407
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleAngularVelocity> - id=1408
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleAngularVelocity>> - id=1409
+	0, 50462726, 4871, 4872, 4873, 4874, 4875, 4876, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48148 : 95048, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleEmitter> - id=1400
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleEmitter> - id=1410
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleEmitter> - id=1401
-	0, 50462726, 4827, 4828, 4829, 4830, 4831, 4832, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 47844 : 94432, IL2CPP_SIZEOF_VOID_P == 4 ? 47852 : 94448, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleEmitter> - id=1411
+	0, 50462726, 4877, 4878, 4879, 4880, 4881, 4882, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 48228 : 95200, IL2CPP_SIZEOF_VOID_P == 4 ? 48236 : 95216, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitter> - id=1402
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleEmitter> - id=1403
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitter>> - id=1404
-	0, 50462726, 4833, 4834, 4835, 4836, 4837, 4838, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 47920 : 94576, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitter> - id=1412
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleEmitter> - id=1413
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitter>> - id=1414
+	0, 50462726, 4883, 4884, 4885, 4886, 4887, 4888, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48304 : 95344, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1405
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1415
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1406
-	0, 50462726, 4839, 4840, 4841, 4842, 4843, 4844, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48000 : 94728, IL2CPP_SIZEOF_VOID_P == 4 ? 48008 : 94744, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1416
+	0, 50462726, 4889, 4890, 4891, 4892, 4893, 4894, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 48384 : 95496, IL2CPP_SIZEOF_VOID_P == 4 ? 48392 : 95512, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1407
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1408
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterInternal>> - id=1409
-	0, 50462726, 4845, 4846, 4847, 4848, 4849, 4850, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48076 : 94872, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1417
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleEmitterInternal> - id=1418
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterInternal>> - id=1419
+	0, 50462726, 4895, 4896, 4897, 4898, 4899, 4900, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48460 : 95640, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleEmitterReference> - id=1410
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleEmitterReference> - id=1420
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleEmitterReference> - id=1411
-	0, 50462726, 4851, 4852, 4853, 4854, 4855, 4856, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48156 : 95024, IL2CPP_SIZEOF_VOID_P == 4 ? 48164 : 95040, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleEmitterReference> - id=1421
+	0, 50462726, 4901, 4902, 4903, 4904, 4905, 4906, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 48540 : 95792, IL2CPP_SIZEOF_VOID_P == 4 ? 48548 : 95808, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterReference> - id=1412
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleEmitterReference> - id=1413
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterReference>> - id=1414
-	0, 50462726, 4857, 4858, 4859, 4860, 4861, 4862, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48232 : 95168, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterReference> - id=1422
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleEmitterReference> - id=1423
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleEmitterReference>> - id=1424
+	0, 50462726, 4907, 4908, 4909, 4910, 4911, 4912, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48616 : 95936, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1415
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1425
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1416
-	0, 50462726, 4863, 4864, 4865, 4866, 4867, 4868, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48312 : 95320, IL2CPP_SIZEOF_VOID_P == 4 ? 48320 : 95336, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1426
+	0, 50462726, 4913, 4914, 4915, 4916, 4917, 4918, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 48696 : 96088, IL2CPP_SIZEOF_VOID_P == 4 ? 48704 : 96104, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1417
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1418
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeColor>> - id=1419
-	0, 50462726, 4869, 4870, 4871, 4872, 4873, 4874, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48388 : 95464, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1427
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleLifetimeColor> - id=1428
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeColor>> - id=1429
+	0, 50462726, 4919, 4920, 4921, 4922, 4923, 4924, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48772 : 96232, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1420
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1430
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1421
-	0, 50462726, 4875, 4876, 4877, 4878, 4879, 4880, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48468 : 95616, IL2CPP_SIZEOF_VOID_P == 4 ? 48476 : 95632, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1431
+	0, 50462726, 4925, 4926, 4927, 4928, 4929, 4930, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 48852 : 96384, IL2CPP_SIZEOF_VOID_P == 4 ? 48860 : 96400, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1422
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1423
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeScale>> - id=1424
-	0, 50462726, 4881, 4882, 4883, 4884, 4885, 4886, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48544 : 95760, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1432
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleLifetimeScale> - id=1433
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleLifetimeScale>> - id=1434
+	0, 50462726, 4931, 4932, 4933, 4934, 4935, 4936, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48928 : 96528, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleVelocity> - id=1425
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Particles.ParticleVelocity> - id=1435
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleVelocity> - id=1426
-	0, 50462726, 4887, 4888, 4889, 4890, 4891, 4892, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48624 : 95912, IL2CPP_SIZEOF_VOID_P == 4 ? 48632 : 95928, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Particles.ParticleVelocity> - id=1436
+	0, 50462726, 4937, 4938, 4939, 4940, 4941, 4942, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49008 : 96680, IL2CPP_SIZEOF_VOID_P == 4 ? 49016 : 96696, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleVelocity> - id=1427
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleVelocity> - id=1428
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleVelocity>> - id=1429
-	0, 50462726, 4893, 4894, 4895, 4896, 4897, 4898, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48700 : 96056, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleVelocity> - id=1437
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Particles.ParticleVelocity> - id=1438
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Particles.ParticleVelocity>> - id=1439
+	0, 50462726, 4943, 4944, 4945, 4946, 4947, 4948, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49084 : 96824, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1430
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1440
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1431
-	0, 50462726, 4899, 4900, 4901, 4902, 4903, 4904, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48780 : 96208, IL2CPP_SIZEOF_VOID_P == 4 ? 48788 : 96224, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1441
+	0, 50462726, 4949, 4950, 4951, 4952, 4953, 4954, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49164 : 96976, IL2CPP_SIZEOF_VOID_P == 4 ? 49172 : 96992, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1432
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1433
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.PointQuery.PointQuerySystemTag>> - id=1434
-	0, 50462726, 4905, 4906, 4907, 4908, 4909, 4910, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48856 : 96352, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1442
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.PointQuery.PointQuerySystemTag> - id=1443
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.PointQuery.PointQuerySystemTag>> - id=1444
+	0, 50462726, 4955, 4956, 4957, 4958, 4959, 4960, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49240 : 97120, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.Image2DGLES2> - id=1435
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.Image2DGLES2> - id=1445
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.Image2DGLES2> - id=1436
-	0, 50462726, 4911, 4912, 4913, 4914, 4915, 4916, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 48936 : 96504, IL2CPP_SIZEOF_VOID_P == 4 ? 48944 : 96520, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.Image2DGLES2> - id=1446
+	0, 50462726, 4961, 4962, 4963, 4964, 4965, 4966, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49320 : 97272, IL2CPP_SIZEOF_VOID_P == 4 ? 49328 : 97288, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.Image2DGLES2> - id=1437
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.Image2DGLES2> - id=1438
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.Image2DGLES2>> - id=1439
-	0, 16908292, 4917, 4918, 4919, 4920, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 48992 : 96616, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.Image2DGLES2> - id=1447
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.Image2DGLES2> - id=1448
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.Image2DGLES2>> - id=1449
+	0, 16908292, 4967, 4968, 4969, 4970, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49376 : 97384, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	4294901763, 
 	#else
 	18446462594437808131U, 
-	#endif // Unity.Tiny.Rendering.SortedCameraEntity - id=1440
-	0, 0, // System.IComparable`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1441
-	0, 50462726, 4921, 4922, 4923, 4924, 4925, 4926, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49060 : 96744, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Tiny.Rendering.SortedCameraEntity - id=1450
+	0, 0, // System.IComparable`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1451
+	0, 50462726, 4971, 4972, 4973, 4974, 4975, 4976, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49444 : 97512, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.SortedCameraEntity> - id=1442
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	0, 
-	#else
-	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1443
-	0, 50462726, 4927, 4928, 4929, 4930, 4931, 4932, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 49140 : 96896, IL2CPP_SIZEOF_VOID_P == 4 ? 49148 : 96912, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1444
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1445
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.SortedCameraEntity>> - id=1446
-	0, 50462726, 4933, 4934, 4935, 4936, 4937, 4938, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49216 : 97040, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.TextBitmapHTML> - id=1447
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.SortedCameraEntity> - id=1452
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.TextBitmapHTML> - id=1448
-	0, 50462726, 4939, 4940, 4941, 4942, 4943, 4944, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 49296 : 97192, IL2CPP_SIZEOF_VOID_P == 4 ? 49304 : 97208, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1453
+	0, 50462726, 4977, 4978, 4979, 4980, 4981, 4982, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49524 : 97664, IL2CPP_SIZEOF_VOID_P == 4 ? 49532 : 97680, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TextBitmapHTML> - id=1449
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.TextBitmapHTML> - id=1450
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TextBitmapHTML>> - id=1451
-	0, 50462726, 4945, 4946, 4947, 4948, 4949, 4950, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49372 : 97336, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1454
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1455
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.SortedCameraEntity>> - id=1456
+	0, 50462726, 4983, 4984, 4985, 4986, 4987, 4988, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49600 : 97808, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1452
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	0, 
-	#else
-	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1453
-	0, 50462726, 4951, 4952, 4953, 4954, 4955, 4956, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 49452 : 97488, IL2CPP_SIZEOF_VOID_P == 4 ? 49460 : 97504, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1454
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1455
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphHTML>> - id=1456
-	0, 50462726, 4957, 4958, 4959, 4960, 4961, 4962, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49528 : 97632, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1457
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.TextBitmapHTML> - id=1457
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1458
-	0, 50462726, 4963, 4964, 4965, 4966, 4967, 4968, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 49608 : 97784, IL2CPP_SIZEOF_VOID_P == 4 ? 49616 : 97800, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.TextBitmapHTML> - id=1458
+	0, 50462726, 4989, 4990, 4991, 4992, 4993, 4994, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49680 : 97960, IL2CPP_SIZEOF_VOID_P == 4 ? 49688 : 97976, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1459
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1460
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphIndex>> - id=1461
-	0, 50462726, 4969, 4970, 4971, 4972, 4973, 4974, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49684 : 97928, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TextBitmapHTML> - id=1459
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.TextBitmapHTML> - id=1460
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TextBitmapHTML>> - id=1461
+	0, 50462726, 4995, 4996, 4997, 4998, 4999, 5000, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49756 : 98104, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1462
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	0, 
-	#else
-	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1463
-	0, 50462726, 4975, 4976, 4977, 4978, 4979, 4980, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 49764 : 98080, IL2CPP_SIZEOF_VOID_P == 4 ? 49772 : 98096, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1464
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1465
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.EntityReferenceRemap>> - id=1466
-	0, 50462726, 4981, 4982, 4983, 4984, 4985, 4986, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49840 : 98224, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Scenes.StartupScenes> - id=1467
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1462
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Scenes.StartupScenes> - id=1468
-	0, 50462726, 4987, 4988, 4989, 4990, 4991, 4992, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 49920 : 98376, IL2CPP_SIZEOF_VOID_P == 4 ? 49928 : 98392, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1463
+	0, 50462726, 5001, 5002, 5003, 5004, 5005, 5006, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49836 : 98256, IL2CPP_SIZEOF_VOID_P == 4 ? 49844 : 98272, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.StartupScenes> - id=1469
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Scenes.StartupScenes> - id=1470
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.StartupScenes>> - id=1471
-	0, 50462726, 4993, 4994, 4995, 4996, 4997, 4998, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49996 : 98520, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1464
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.TintedGlyphHTML> - id=1465
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphHTML>> - id=1466
+	0, 50462726, 5007, 5008, 5009, 5010, 5011, 5012, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49912 : 98400, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.CharacterInfoBuffer> - id=1472
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	0, 
-	#else
-	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.CharacterInfoBuffer> - id=1473
-	0, 50462726, 4999, 5000, 5001, 5002, 5003, 5004, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 50076 : 98672, IL2CPP_SIZEOF_VOID_P == 4 ? 50084 : 98688, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.CharacterInfoBuffer> - id=1474
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.CharacterInfoBuffer> - id=1475
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.CharacterInfoBuffer>> - id=1476
-	0, 50462726, 5005, 5006, 5007, 5008, 5009, 5010, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50152 : 98816, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1477
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1467
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1478
-	0, 50462726, 5011, 5012, 5013, 5014, 5015, 5016, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 50232 : 98968, IL2CPP_SIZEOF_VOID_P == 4 ? 50240 : 98984, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1468
+	0, 50462726, 5013, 5014, 5015, 5016, 5017, 5018, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 49992 : 98552, IL2CPP_SIZEOF_VOID_P == 4 ? 50000 : 98568, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1479
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1480
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.GlyphPrivateBuffer>> - id=1481
-	0, 50462726, 5017, 5018, 5019, 5020, 5021, 5022, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50308 : 99112, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1469
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Rendering.TintedGlyphIndex> - id=1470
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Rendering.TintedGlyphIndex>> - id=1471
+	0, 50462726, 5019, 5020, 5021, 5022, 5023, 5024, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50068 : 98696, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1482
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	0, 
-	#else
-	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1483
-	0, 50462726, 5023, 5024, 5025, 5026, 5027, 5028, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 50388 : 99264, IL2CPP_SIZEOF_VOID_P == 4 ? 50396 : 99280, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1484
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1485
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateBitmap>> - id=1486
-	0, 50462726, 5029, 5030, 5031, 5032, 5033, 5034, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50464 : 99408, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
-	#if IL2CPP_SIZEOF_VOID_P == 4
-	262147, 4294901765, 
-	#else
-	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1487
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1472
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1488
-	0, 50462726, 5035, 5036, 5037, 5038, 5039, 5040, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 50544 : 99560, IL2CPP_SIZEOF_VOID_P == 4 ? 50552 : 99576, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1473
+	0, 50462726, 5025, 5026, 5027, 5028, 5029, 5030, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 50148 : 98848, IL2CPP_SIZEOF_VOID_P == 4 ? 50156 : 98864, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1489
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1490
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap>> - id=1491
-	0, 50462726, 5041, 5042, 5043, 5044, 5045, 5046, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50620 : 99704, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1474
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Scenes.EntityReferenceRemap> - id=1475
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.EntityReferenceRemap>> - id=1476
+	0, 50462726, 5031, 5032, 5033, 5034, 5035, 5036, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50224 : 98992, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DPrivateNative> - id=1492
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Scenes.StartupScenes> - id=1477
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DPrivateNative> - id=1493
-	0, 50462726, 5047, 5048, 5049, 5050, 5051, 5052, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 50700 : 99856, IL2CPP_SIZEOF_VOID_P == 4 ? 50708 : 99872, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Scenes.StartupScenes> - id=1478
+	0, 50462726, 5037, 5038, 5039, 5040, 5041, 5042, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 50304 : 99144, IL2CPP_SIZEOF_VOID_P == 4 ? 50312 : 99160, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateNative> - id=1494
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DPrivateNative> - id=1495
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateNative>> - id=1496
-	0, 50462726, 5053, 5054, 5055, 5056, 5057, 5058, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50776 : 100000, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.StartupScenes> - id=1479
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Scenes.StartupScenes> - id=1480
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Scenes.StartupScenes>> - id=1481
+	0, 50462726, 5043, 5044, 5045, 5046, 5047, 5048, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50380 : 99288, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DRenderer> - id=1497
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.CharacterInfoBuffer> - id=1482
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DRenderer> - id=1498
-	0, 50462726, 5059, 5060, 5061, 5062, 5063, 5064, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 50856 : 100152, IL2CPP_SIZEOF_VOID_P == 4 ? 50864 : 100168, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.CharacterInfoBuffer> - id=1483
+	0, 50462726, 5049, 5050, 5051, 5052, 5053, 5054, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 50460 : 99440, IL2CPP_SIZEOF_VOID_P == 4 ? 50468 : 99456, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DRenderer> - id=1499
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DRenderer> - id=1500
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DRenderer>> - id=1501
-	0, 50462726, 5065, 5066, 5067, 5068, 5069, 5070, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50932 : 100296, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.CharacterInfoBuffer> - id=1484
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.CharacterInfoBuffer> - id=1485
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.CharacterInfoBuffer>> - id=1486
+	0, 50462726, 5055, 5056, 5057, 5058, 5059, 5060, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50536 : 99584, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1502
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1487
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1503
-	0, 50462726, 5071, 5072, 5073, 5074, 5075, 5076, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51012 : 100448, IL2CPP_SIZEOF_VOID_P == 4 ? 51020 : 100464, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1488
+	0, 50462726, 5061, 5062, 5063, 5064, 5065, 5066, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 50616 : 99736, IL2CPP_SIZEOF_VOID_P == 4 ? 50624 : 99752, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1504
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1505
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleBitmapFont>> - id=1506
-	0, 50462726, 5077, 5078, 5079, 5080, 5081, 5082, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51088 : 100592, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1489
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.GlyphPrivateBuffer> - id=1490
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.GlyphPrivateBuffer>> - id=1491
+	0, 50462726, 5067, 5068, 5069, 5070, 5071, 5072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50692 : 99880, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1507
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1492
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1508
-	0, 50462726, 5083, 5084, 5085, 5086, 5087, 5088, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51168 : 100744, IL2CPP_SIZEOF_VOID_P == 4 ? 51176 : 100760, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1493
+	0, 50462726, 5073, 5074, 5075, 5076, 5077, 5078, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 50772 : 100032, IL2CPP_SIZEOF_VOID_P == 4 ? 50780 : 100048, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1509
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1510
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleNativeFont>> - id=1511
-	0, 50462726, 5089, 5090, 5091, 5092, 5093, 5094, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51244 : 100888, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1494
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DPrivateBitmap> - id=1495
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateBitmap>> - id=1496
+	0, 50462726, 5079, 5080, 5081, 5082, 5083, 5084, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 50848 : 100176, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.TextPrivateFontName> - id=1512
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1497
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.TextPrivateFontName> - id=1513
-	0, 50462726, 5095, 5096, 5097, 5098, 5099, 5100, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51324 : 101040, IL2CPP_SIZEOF_VOID_P == 4 ? 51332 : 101056, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1498
+	0, 50462726, 5085, 5086, 5087, 5088, 5089, 5090, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 50928 : 100328, IL2CPP_SIZEOF_VOID_P == 4 ? 50936 : 100344, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateFontName> - id=1514
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.TextPrivateFontName> - id=1515
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateFontName>> - id=1516
-	0, 50462726, 5101, 5102, 5103, 5104, 5105, 5106, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51400 : 101184, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1499
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap> - id=1500
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateCacheBitmap>> - id=1501
+	0, 50462726, 5091, 5092, 5093, 5094, 5095, 5096, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51004 : 100472, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.TextPrivateString> - id=1517
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DPrivateNative> - id=1502
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.TextPrivateString> - id=1518
-	0, 50462726, 5107, 5108, 5109, 5110, 5111, 5112, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51480 : 101336, IL2CPP_SIZEOF_VOID_P == 4 ? 51488 : 101352, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DPrivateNative> - id=1503
+	0, 50462726, 5097, 5098, 5099, 5100, 5101, 5102, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 51084 : 100624, IL2CPP_SIZEOF_VOID_P == 4 ? 51092 : 100640, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateString> - id=1519
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.TextPrivateString> - id=1520
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateString>> - id=1521
-	0, 50462726, 5113, 5114, 5115, 5116, 5117, 5118, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51556 : 101480, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateNative> - id=1504
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DPrivateNative> - id=1505
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DPrivateNative>> - id=1506
+	0, 50462726, 5103, 5104, 5105, 5106, 5107, 5108, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51160 : 100768, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.TextString> - id=1522
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DRenderer> - id=1507
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.TextString> - id=1523
-	0, 50462726, 5119, 5120, 5121, 5122, 5123, 5124, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51636 : 101632, IL2CPP_SIZEOF_VOID_P == 4 ? 51644 : 101648, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DRenderer> - id=1508
+	0, 50462726, 5109, 5110, 5111, 5112, 5113, 5114, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 51240 : 100920, IL2CPP_SIZEOF_VOID_P == 4 ? 51248 : 100936, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextString> - id=1524
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.TextString> - id=1525
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextString>> - id=1526
-	0, 50462726, 5125, 5126, 5127, 5128, 5129, 5130, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51712 : 101776, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DRenderer> - id=1509
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DRenderer> - id=1510
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DRenderer>> - id=1511
+	0, 50462726, 5115, 5116, 5117, 5118, 5119, 5120, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51316 : 101064, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1527
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1512
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1528
-	0, 50462726, 5131, 5132, 5133, 5134, 5135, 5136, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51792 : 101928, IL2CPP_SIZEOF_VOID_P == 4 ? 51800 : 101944, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1513
+	0, 50462726, 5121, 5122, 5123, 5124, 5125, 5126, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 51396 : 101216, IL2CPP_SIZEOF_VOID_P == 4 ? 51404 : 101232, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1529
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1530
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML>> - id=1531
-	0, 50462726, 5137, 5138, 5139, 5140, 5141, 5142, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51868 : 102072, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1514
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DStyleBitmapFont> - id=1515
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleBitmapFont>> - id=1516
+	0, 50462726, 5127, 5128, 5129, 5130, 5131, 5132, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51472 : 101360, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenColor> - id=1532
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1517
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenColor> - id=1533
-	0, 50462726, 5143, 5144, 5145, 5146, 5147, 5148, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 51948 : 102224, IL2CPP_SIZEOF_VOID_P == 4 ? 51956 : 102240, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1518
+	0, 50462726, 5133, 5134, 5135, 5136, 5137, 5138, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 51552 : 101512, IL2CPP_SIZEOF_VOID_P == 4 ? 51560 : 101528, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenColor> - id=1534
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenColor> - id=1535
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenColor>> - id=1536
-	0, 50462726, 5149, 5150, 5151, 5152, 5153, 5154, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52024 : 102368, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1519
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.Text2DStyleNativeFont> - id=1520
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.Text2DStyleNativeFont>> - id=1521
+	0, 50462726, 5139, 5140, 5141, 5142, 5143, 5144, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51628 : 101656, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenComponent> - id=1537
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.TextPrivateFontName> - id=1522
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenComponent> - id=1538
-	0, 50462726, 5155, 5156, 5157, 5158, 5159, 5160, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 52104 : 102520, IL2CPP_SIZEOF_VOID_P == 4 ? 52112 : 102536, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.TextPrivateFontName> - id=1523
+	0, 50462726, 5145, 5146, 5147, 5148, 5149, 5150, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 51708 : 101808, IL2CPP_SIZEOF_VOID_P == 4 ? 51716 : 101824, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenComponent> - id=1539
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenComponent> - id=1540
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenComponent>> - id=1541
-	0, 50462726, 5161, 5162, 5163, 5164, 5165, 5166, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52180 : 102664, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateFontName> - id=1524
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.TextPrivateFontName> - id=1525
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateFontName>> - id=1526
+	0, 50462726, 5151, 5152, 5153, 5154, 5155, 5156, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51784 : 101952, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat2> - id=1542
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.TextPrivateString> - id=1527
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat2> - id=1543
-	0, 50462726, 5167, 5168, 5169, 5170, 5171, 5172, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 52260 : 102816, IL2CPP_SIZEOF_VOID_P == 4 ? 52268 : 102832, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.TextPrivateString> - id=1528
+	0, 50462726, 5157, 5158, 5159, 5160, 5161, 5162, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 51864 : 102104, IL2CPP_SIZEOF_VOID_P == 4 ? 51872 : 102120, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat2> - id=1544
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat2> - id=1545
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat2>> - id=1546
-	0, 50462726, 5173, 5174, 5175, 5176, 5177, 5178, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52336 : 102960, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateString> - id=1529
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.TextPrivateString> - id=1530
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextPrivateString>> - id=1531
+	0, 50462726, 5163, 5164, 5165, 5166, 5167, 5168, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 51940 : 102248, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat3> - id=1547
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Text.TextString> - id=1532
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat3> - id=1548
-	0, 50462726, 5179, 5180, 5181, 5182, 5183, 5184, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 52416 : 103112, IL2CPP_SIZEOF_VOID_P == 4 ? 52424 : 103128, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Text.TextString> - id=1533
+	0, 50462726, 5169, 5170, 5171, 5172, 5173, 5174, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52020 : 102400, IL2CPP_SIZEOF_VOID_P == 4 ? 52028 : 102416, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat3> - id=1549
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat3> - id=1550
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat3>> - id=1551
-	0, 50462726, 5185, 5186, 5187, 5188, 5189, 5190, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52492 : 103256, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextString> - id=1534
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Text.TextString> - id=1535
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Text.TextString>> - id=1536
+	0, 50462726, 5175, 5176, 5177, 5178, 5179, 5180, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52096 : 102544, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat4> - id=1552
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1537
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat4> - id=1553
-	0, 50462726, 5191, 5192, 5193, 5194, 5195, 5196, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 52572 : 103408, IL2CPP_SIZEOF_VOID_P == 4 ? 52580 : 103424, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1538
+	0, 50462726, 5181, 5182, 5183, 5184, 5185, 5186, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52176 : 102696, IL2CPP_SIZEOF_VOID_P == 4 ? 52184 : 102712, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat4> - id=1554
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat4> - id=1555
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat4>> - id=1556
-	0, 50462726, 5197, 5198, 5199, 5200, 5201, 5202, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52648 : 103552, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1539
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML> - id=1540
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.TextHTML.Text2DPrivateCacheHTML>> - id=1541
+	0, 50462726, 5187, 5188, 5189, 5190, 5191, 5192, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52252 : 102840, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat> - id=1557
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenColor> - id=1542
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat> - id=1558
-	0, 50462726, 5203, 5204, 5205, 5206, 5207, 5208, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 52728 : 103704, IL2CPP_SIZEOF_VOID_P == 4 ? 52736 : 103720, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenColor> - id=1543
+	0, 50462726, 5193, 5194, 5195, 5196, 5197, 5198, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52332 : 102992, IL2CPP_SIZEOF_VOID_P == 4 ? 52340 : 103008, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat> - id=1559
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat> - id=1560
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat>> - id=1561
-	0, 50462726, 5209, 5210, 5211, 5212, 5213, 5214, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52804 : 103848, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenColor> - id=1544
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenColor> - id=1545
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenColor>> - id=1546
+	0, 50462726, 5199, 5200, 5201, 5202, 5203, 5204, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52408 : 103136, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenInt> - id=1562
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenComponent> - id=1547
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenInt> - id=1563
-	0, 50462726, 5215, 5216, 5217, 5218, 5219, 5220, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 52884 : 104000, IL2CPP_SIZEOF_VOID_P == 4 ? 52892 : 104016, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenComponent> - id=1548
+	0, 50462726, 5205, 5206, 5207, 5208, 5209, 5210, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52488 : 103288, IL2CPP_SIZEOF_VOID_P == 4 ? 52496 : 103304, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenInt> - id=1564
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenInt> - id=1565
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenInt>> - id=1566
-	0, 50462726, 5221, 5222, 5223, 5224, 5225, 5226, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52960 : 104144, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenComponent> - id=1549
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenComponent> - id=1550
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenComponent>> - id=1551
+	0, 50462726, 5211, 5212, 5213, 5214, 5215, 5216, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52564 : 103432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenQuaternion> - id=1567
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat2> - id=1552
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenQuaternion> - id=1568
-	0, 50462726, 5227, 5228, 5229, 5230, 5231, 5232, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53040 : 104296, IL2CPP_SIZEOF_VOID_P == 4 ? 53048 : 104312, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat2> - id=1553
+	0, 50462726, 5217, 5218, 5219, 5220, 5221, 5222, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52644 : 103584, IL2CPP_SIZEOF_VOID_P == 4 ? 52652 : 103600, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenQuaternion> - id=1569
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenQuaternion> - id=1570
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenQuaternion>> - id=1571
-	0, 50462726, 5233, 5234, 5235, 5236, 5237, 5238, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53116 : 104440, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat2> - id=1554
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat2> - id=1555
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat2>> - id=1556
+	0, 50462726, 5223, 5224, 5225, 5226, 5227, 5228, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52720 : 103728, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.Button> - id=1572
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat3> - id=1557
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.Button> - id=1573
-	0, 50462726, 5239, 5240, 5241, 5242, 5243, 5244, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53196 : 104592, IL2CPP_SIZEOF_VOID_P == 4 ? 53204 : 104608, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat3> - id=1558
+	0, 50462726, 5229, 5230, 5231, 5232, 5233, 5234, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52800 : 103880, IL2CPP_SIZEOF_VOID_P == 4 ? 52808 : 103896, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Button> - id=1574
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.Button> - id=1575
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Button>> - id=1576
-	0, 50462726, 5245, 5246, 5247, 5248, 5249, 5250, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53272 : 104736, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat3> - id=1559
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat3> - id=1560
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat3>> - id=1561
+	0, 50462726, 5235, 5236, 5237, 5238, 5239, 5240, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 52876 : 104024, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.PointerInteraction> - id=1577
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat4> - id=1562
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.PointerInteraction> - id=1578
-	0, 50462726, 5251, 5252, 5253, 5254, 5255, 5256, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53352 : 104888, IL2CPP_SIZEOF_VOID_P == 4 ? 53360 : 104904, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat4> - id=1563
+	0, 50462726, 5241, 5242, 5243, 5244, 5245, 5246, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 52956 : 104176, IL2CPP_SIZEOF_VOID_P == 4 ? 52964 : 104192, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerInteraction> - id=1579
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.PointerInteraction> - id=1580
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerInteraction>> - id=1581
-	0, 50462726, 5257, 5258, 5259, 5260, 5261, 5262, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53428 : 105032, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat4> - id=1564
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat4> - id=1565
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat4>> - id=1566
+	0, 50462726, 5247, 5248, 5249, 5250, 5251, 5252, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53032 : 104320, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.PointerState> - id=1582
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenFloat> - id=1567
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.PointerState> - id=1583
-	0, 50462726, 5263, 5264, 5265, 5266, 5267, 5268, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53508 : 105184, IL2CPP_SIZEOF_VOID_P == 4 ? 53516 : 105200, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenFloat> - id=1568
+	0, 50462726, 5253, 5254, 5255, 5256, 5257, 5258, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 53112 : 104472, IL2CPP_SIZEOF_VOID_P == 4 ? 53120 : 104488, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerState> - id=1584
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.PointerState> - id=1585
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerState>> - id=1586
-	0, 50462726, 5269, 5270, 5271, 5272, 5273, 5274, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53584 : 105328, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat> - id=1569
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenFloat> - id=1570
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenFloat>> - id=1571
+	0, 50462726, 5259, 5260, 5261, 5262, 5263, 5264, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53188 : 104616, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.Toggle> - id=1587
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenInt> - id=1572
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.Toggle> - id=1588
-	0, 50462726, 5275, 5276, 5277, 5278, 5279, 5280, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53664 : 105480, IL2CPP_SIZEOF_VOID_P == 4 ? 53672 : 105496, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenInt> - id=1573
+	0, 50462726, 5265, 5266, 5267, 5268, 5269, 5270, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 53268 : 104768, IL2CPP_SIZEOF_VOID_P == 4 ? 53276 : 104784, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Toggle> - id=1589
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.Toggle> - id=1590
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Toggle>> - id=1591
-	0, 50462726, 5281, 5282, 5283, 5284, 5285, 5286, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53740 : 105624, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenInt> - id=1574
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenInt> - id=1575
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenInt>> - id=1576
+	0, 50462726, 5271, 5272, 5273, 5274, 5275, 5276, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53344 : 104912, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UILayout.RectTransform> - id=1592
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Tweens.TweenQuaternion> - id=1577
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UILayout.RectTransform> - id=1593
-	0, 50462726, 5287, 5288, 5289, 5290, 5291, 5292, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53820 : 105776, IL2CPP_SIZEOF_VOID_P == 4 ? 53828 : 105792, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Tweens.TweenQuaternion> - id=1578
+	0, 50462726, 5277, 5278, 5279, 5280, 5281, 5282, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 53424 : 105064, IL2CPP_SIZEOF_VOID_P == 4 ? 53432 : 105080, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.RectTransform> - id=1594
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UILayout.RectTransform> - id=1595
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.RectTransform>> - id=1596
-	0, 50462726, 5293, 5294, 5295, 5296, 5297, 5298, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53896 : 105920, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenQuaternion> - id=1579
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Tweens.TweenQuaternion> - id=1580
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Tweens.TweenQuaternion>> - id=1581
+	0, 50462726, 5283, 5284, 5285, 5286, 5287, 5288, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53500 : 105208, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UILayout.UICanvas> - id=1597
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.Button> - id=1582
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UILayout.UICanvas> - id=1598
-	0, 50462726, 5299, 5300, 5301, 5302, 5303, 5304, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 53976 : 106072, IL2CPP_SIZEOF_VOID_P == 4 ? 53984 : 106088, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.Button> - id=1583
+	0, 50462726, 5289, 5290, 5291, 5292, 5293, 5294, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 53580 : 105360, IL2CPP_SIZEOF_VOID_P == 4 ? 53588 : 105376, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.UICanvas> - id=1599
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UILayout.UICanvas> - id=1600
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.UICanvas>> - id=1601
-	0, 50462726, 5305, 5306, 5307, 5308, 5309, 5310, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54052 : 106216, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Button> - id=1584
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.Button> - id=1585
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Button>> - id=1586
+	0, 50462726, 5295, 5296, 5297, 5298, 5299, 5300, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53656 : 105504, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoClip> - id=1602
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.PointerInteraction> - id=1587
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoClip> - id=1603
-	0, 50462726, 5311, 5312, 5313, 5314, 5315, 5316, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 54132 : 106368, IL2CPP_SIZEOF_VOID_P == 4 ? 54140 : 106384, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.PointerInteraction> - id=1588
+	0, 50462726, 5301, 5302, 5303, 5304, 5305, 5306, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 53736 : 105656, IL2CPP_SIZEOF_VOID_P == 4 ? 53744 : 105672, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClip> - id=1604
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoClip> - id=1605
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClip>> - id=1606
-	0, 50462726, 5317, 5318, 5319, 5320, 5321, 5322, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54208 : 106512, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerInteraction> - id=1589
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.PointerInteraction> - id=1590
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerInteraction>> - id=1591
+	0, 50462726, 5307, 5308, 5309, 5310, 5311, 5312, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53812 : 105800, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1607
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.PointerState> - id=1592
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1608
-	0, 50462726, 5323, 5324, 5325, 5326, 5327, 5328, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 54288 : 106664, IL2CPP_SIZEOF_VOID_P == 4 ? 54296 : 106680, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.PointerState> - id=1593
+	0, 50462726, 5313, 5314, 5315, 5316, 5317, 5318, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 53892 : 105952, IL2CPP_SIZEOF_VOID_P == 4 ? 53900 : 105968, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1609
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1610
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFile>> - id=1611
-	0, 50462726, 5329, 5330, 5331, 5332, 5333, 5334, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54364 : 106808, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerState> - id=1594
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.PointerState> - id=1595
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.PointerState>> - id=1596
+	0, 50462726, 5319, 5320, 5321, 5322, 5323, 5324, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 53968 : 106096, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1612
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UIControls.Toggle> - id=1597
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1613
-	0, 50462726, 5335, 5336, 5337, 5338, 5339, 5340, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 54444 : 106960, IL2CPP_SIZEOF_VOID_P == 4 ? 54452 : 106976, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UIControls.Toggle> - id=1598
+	0, 50462726, 5325, 5326, 5327, 5328, 5329, 5330, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54048 : 106248, IL2CPP_SIZEOF_VOID_P == 4 ? 54056 : 106264, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1614
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1615
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFileName>> - id=1616
-	0, 50462726, 5341, 5342, 5343, 5344, 5345, 5346, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54520 : 107104, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Toggle> - id=1599
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UIControls.Toggle> - id=1600
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UIControls.Toggle>> - id=1601
+	0, 50462726, 5331, 5332, 5333, 5334, 5335, 5336, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54124 : 106392, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoPlayer> - id=1617
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UILayout.RectTransform> - id=1602
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoPlayer> - id=1618
-	0, 50462726, 5347, 5348, 5349, 5350, 5351, 5352, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 54600 : 107256, IL2CPP_SIZEOF_VOID_P == 4 ? 54608 : 107272, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UILayout.RectTransform> - id=1603
+	0, 50462726, 5337, 5338, 5339, 5340, 5341, 5342, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54204 : 106544, IL2CPP_SIZEOF_VOID_P == 4 ? 54212 : 106560, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoPlayer> - id=1619
-	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoPlayer> - id=1620
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoPlayer>> - id=1621
-	0, 50462726, 5353, 5354, 5355, 5356, 5357, 5358, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54676 : 107400, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.RectTransform> - id=1604
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UILayout.RectTransform> - id=1605
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.RectTransform>> - id=1606
+	0, 50462726, 5343, 5344, 5345, 5346, 5347, 5348, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54280 : 106688, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<dodgeman.ObjectsManager> - id=1622
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.UILayout.UICanvas> - id=1607
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<dodgeman.ObjectsManager> - id=1623
-	0, 50462726, 5359, 5360, 5361, 5362, 5363, 5364, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 54756 : 107552, IL2CPP_SIZEOF_VOID_P == 4 ? 54764 : 107568, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.UILayout.UICanvas> - id=1608
+	0, 50462726, 5349, 5350, 5351, 5352, 5353, 5354, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54360 : 106840, IL2CPP_SIZEOF_VOID_P == 4 ? 54368 : 106856, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<dodgeman.ObjectsManager> - id=1624
-	0, 0, // System.Collections.Generic.IEnumerable`1<dodgeman.ObjectsManager> - id=1625
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<dodgeman.ObjectsManager>> - id=1626
-	0, 50462726, 5365, 5366, 5367, 5368, 5369, 5370, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54832 : 107696, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.UICanvas> - id=1609
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.UILayout.UICanvas> - id=1610
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.UILayout.UICanvas>> - id=1611
+	0, 50462726, 5355, 5356, 5357, 5358, 5359, 5360, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54436 : 106984, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<dodgeman.Wall> - id=1627
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoClip> - id=1612
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<dodgeman.Wall> - id=1628
-	0, 50462726, 5371, 5372, 5373, 5374, 5375, 5376, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 54912 : 107848, IL2CPP_SIZEOF_VOID_P == 4 ? 54920 : 107864, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoClip> - id=1613
+	0, 50462726, 5361, 5362, 5363, 5364, 5365, 5366, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54516 : 107136, IL2CPP_SIZEOF_VOID_P == 4 ? 54524 : 107152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<dodgeman.Wall> - id=1629
-	0, 0, // System.Collections.Generic.IEnumerable`1<dodgeman.Wall> - id=1630
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<dodgeman.Wall>> - id=1631
-	0, 50462726, 5377, 5378, 5379, 5380, 5381, 5382, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54988 : 107992, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClip> - id=1614
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoClip> - id=1615
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClip>> - id=1616
+	0, 50462726, 5367, 5368, 5369, 5370, 5371, 5372, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54592 : 107280, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1/Enumerator<dodgeman.WallsManager> - id=1632
-	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1617
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	0, 
 	#else
 	18446462594437873664U, 
-	#endif // System.Collections.Generic.IEnumerator`1<dodgeman.WallsManager> - id=1633
-	0, 50462726, 5383, 5384, 5385, 5386, 5387, 5388, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, IL2CPP_SIZEOF_VOID_P == 4 ? 55068 : 108144, IL2CPP_SIZEOF_VOID_P == 4 ? 55076 : 108160, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1618
+	0, 50462726, 5373, 5374, 5375, 5376, 5377, 5378, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54672 : 107432, IL2CPP_SIZEOF_VOID_P == 4 ? 54680 : 107448, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeArray`1<dodgeman.WallsManager> - id=1634
-	0, 0, // System.Collections.Generic.IEnumerable`1<dodgeman.WallsManager> - id=1635
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<dodgeman.WallsManager>> - id=1636
-	0, 50462726, 5389, 5390, 5391, 5392, 5393, 5394, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49060 : 96744, IL2CPP_SIZEOF_VOID_P == 4 ? 31932 : 63848, IL2CPP_SIZEOF_VOID_P == 4 ? 1284 : 2568, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1619
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoClipLoadFromFile> - id=1620
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFile>> - id=1621
+	0, 50462726, 5379, 5380, 5381, 5382, 5383, 5384, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54748 : 107576, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 4294901765, 
 	#else
 	18446462620207939587U, 
-	#endif // Unity.Collections.NativeSlice`1/Enumerator<Unity.Tiny.Rendering.SortedCameraEntity> - id=1637
-	0, 33685509, 5395, 5396, 5397, 5398, 5399, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49140 : 96896, IL2CPP_SIZEOF_VOID_P == 4 ? 55192 : 108384, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1622
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	0, 
+	#else
+	18446462594437873664U, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1623
+	0, 50462726, 5385, 5386, 5387, 5388, 5389, 5390, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54828 : 107728, IL2CPP_SIZEOF_VOID_P == 4 ? 54836 : 107744, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1624
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoClipLoadFromFileName> - id=1625
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoClipLoadFromFileName>> - id=1626
+	0, 50462726, 5391, 5392, 5393, 5394, 5395, 5396, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 54904 : 107872, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<Unity.Tiny.Video.VideoPlayer> - id=1627
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	0, 
+	#else
+	18446462594437873664U, 
+	#endif // System.Collections.Generic.IEnumerator`1<Unity.Tiny.Video.VideoPlayer> - id=1628
+	0, 50462726, 5397, 5398, 5399, 5400, 5401, 5402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 54984 : 108024, IL2CPP_SIZEOF_VOID_P == 4 ? 54992 : 108040, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoPlayer> - id=1629
+	0, 0, // System.Collections.Generic.IEnumerable`1<Unity.Tiny.Video.VideoPlayer> - id=1630
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<Unity.Tiny.Video.VideoPlayer>> - id=1631
+	0, 50462726, 5403, 5404, 5405, 5406, 5407, 5408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 55060 : 108168, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<dodgeman.ObjectsManager> - id=1632
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	0, 
+	#else
+	18446462594437873664U, 
+	#endif // System.Collections.Generic.IEnumerator`1<dodgeman.ObjectsManager> - id=1633
+	0, 50462726, 5409, 5410, 5411, 5412, 5413, 5414, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 55140 : 108320, IL2CPP_SIZEOF_VOID_P == 4 ? 55148 : 108336, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1<dodgeman.ObjectsManager> - id=1634
+	0, 0, // System.Collections.Generic.IEnumerable`1<dodgeman.ObjectsManager> - id=1635
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<dodgeman.ObjectsManager>> - id=1636
+	0, 50462726, 5415, 5416, 5417, 5418, 5419, 5420, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 55216 : 108464, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<dodgeman.Wall> - id=1637
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	0, 
+	#else
+	18446462594437873664U, 
+	#endif // System.Collections.Generic.IEnumerator`1<dodgeman.Wall> - id=1638
+	0, 50462726, 5421, 5422, 5423, 5424, 5425, 5426, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 55296 : 108616, IL2CPP_SIZEOF_VOID_P == 4 ? 55304 : 108632, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1<dodgeman.Wall> - id=1639
+	0, 0, // System.Collections.Generic.IEnumerable`1<dodgeman.Wall> - id=1640
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<dodgeman.Wall>> - id=1641
+	0, 50462726, 5427, 5428, 5429, 5430, 5431, 5432, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 55372 : 108760, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1/Enumerator<dodgeman.WallsManager> - id=1642
+	0, 33554432, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	0, 
+	#else
+	18446462594437873664U, 
+	#endif // System.Collections.Generic.IEnumerator`1<dodgeman.WallsManager> - id=1643
+	0, 50462726, 5433, 5434, 5435, 5436, 5437, 5438, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, IL2CPP_SIZEOF_VOID_P == 4 ? 55452 : 108912, IL2CPP_SIZEOF_VOID_P == 4 ? 55460 : 108928, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeArray`1<dodgeman.WallsManager> - id=1644
+	0, 0, // System.Collections.Generic.IEnumerable`1<dodgeman.WallsManager> - id=1645
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeArray`1<dodgeman.WallsManager>> - id=1646
+	0, 50462726, 5439, 5440, 5441, 5442, 5443, 5444, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49444 : 97512, IL2CPP_SIZEOF_VOID_P == 4 ? 32316 : 64616, IL2CPP_SIZEOF_VOID_P == 4 ? 1236 : 2472, 
+	#if IL2CPP_SIZEOF_VOID_P == 4
+	262147, 4294901765, 
+	#else
+	18446462620207939587U, 
+	#endif // Unity.Collections.NativeSlice`1/Enumerator<Unity.Tiny.Rendering.SortedCameraEntity> - id=1647
+	0, 33685509, 5445, 5446, 5447, 5448, 5449, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 49524 : 97664, IL2CPP_SIZEOF_VOID_P == 4 ? 55576 : 109152, 
 	#if IL2CPP_SIZEOF_VOID_P == 4
 	262147, 
 	#else
 	18446462594438135811U, 
-	#endif // Unity.Collections.NativeSlice`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1638
-	0, 0, // System.IEquatable`1<Unity.Collections.NativeSlice`1<Unity.Tiny.Rendering.SortedCameraEntity>> - id=1639
-	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentSystemGroup/TypeHeapElement[] - id=1640
-	0, 65539, 5400, 5401, 5402, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.GenericAssetLoader`4/<>c__DisplayClass4_0<Unity.Tiny.Audio.AudioClip,Unity.Tiny.HTML.AudioHTMLClip,Unity.Tiny.Audio.AudioClipLoadFromFile,Unity.Tiny.HTML.AudioHTMLLoading> - id=1641
-	0, 65539, 5403, 5404, 5405, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.GenericAssetLoader`4/<>c__DisplayClass4_0<Unity.Tiny.Core2D.Image2D,Unity.Tiny.HTML.Image2DHTML,Unity.Tiny.Core2D.Image2DLoadFromFile,Unity.Tiny.HTML.Image2DHTMLLoading> - id=1642
-	0, 65539, 5406, 5407, 5408, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.GenericAssetLoader`4/<>c__DisplayClass4_0<Unity.Tiny.Video.VideoClip,Unity.Tiny.HTML.VideoClipLoadingState,Unity.Tiny.Video.VideoClipLoadFromFile,Unity.Tiny.HTML.VideoClipLoading> - id=1643
+	#endif // Unity.Collections.NativeSlice`1<Unity.Tiny.Rendering.SortedCameraEntity> - id=1648
+	0, 0, // System.IEquatable`1<Unity.Collections.NativeSlice`1<Unity.Tiny.Rendering.SortedCameraEntity>> - id=1649
+	0, 131072, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 276 : 552, // Unity.Entities.ComponentSystemGroup/TypeHeapElement[] - id=1650
+	0, 65539, 5450, 5451, 5452, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.GenericAssetLoader`4/<>c__DisplayClass4_0<Unity.Tiny.Audio.AudioClip,Unity.Tiny.HTML.AudioHTMLClip,Unity.Tiny.Audio.AudioClipLoadFromFile,Unity.Tiny.HTML.AudioHTMLLoading> - id=1651
+	0, 65539, 5453, 5454, 5455, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.GenericAssetLoader`4/<>c__DisplayClass4_0<Unity.Tiny.Core2D.Image2D,Unity.Tiny.HTML.Image2DHTML,Unity.Tiny.Core2D.Image2DLoadFromFile,Unity.Tiny.HTML.Image2DHTMLLoading> - id=1652
+	0, 65539, 5456, 5457, 5458, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Tiny.Core2D.GenericAssetLoader`4/<>c__DisplayClass4_0<Unity.Tiny.Video.VideoClip,Unity.Tiny.HTML.VideoClipLoadingState,Unity.Tiny.Video.VideoClipLoadFromFile,Unity.Tiny.HTML.VideoClipLoading> - id=1653
 };
 
 IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
@@ -4943,15 +4958,6 @@ IL2CPP_EXTERN_C void float4x4_Equals_m8916D2F2ECFFF22B03BC35EAA91717668ABC2E95_A
 IL2CPP_EXTERN_C void float4x4_GetHashCode_m37842D27240A8E43D942F28D78E3AD09ECDDCB66_AdjustorThunk ();
 IL2CPP_EXTERN_C void float4x4_ToString_mA71FA988896F3978FBE959FC135DFC14A75AE2B7_AdjustorThunk ();
 IL2CPP_EXTERN_C void float4x4_Equals_mA7593CE7D4C33DB976EAA55EDBF8FB10F0DA15B3_AdjustorThunk ();
-IL2CPP_EXTERN_C void int3_Equals_mF0228CF9ED221D3384208FF184A62C6D91208E71_AdjustorThunk ();
-IL2CPP_EXTERN_C void int3_GetHashCode_mB717586026769F4797EE61D3E82795ABBD586AB6_AdjustorThunk ();
-IL2CPP_EXTERN_C void int3_ToString_mE7F24023FCAE22043CE08192405FFE80128ED215_AdjustorThunk ();
-IL2CPP_EXTERN_C void int3_Equals_mE1475E8E3A1F8A36AC8F7217DF1DC8403B073FDA_AdjustorThunk ();
-IL2CPP_EXTERN_C void ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C ();
-IL2CPP_EXTERN_C void Int32_GetHashCode_m1D9FEC8879ADE18E13A011D5A8CCB5D87E7BDA77_AdjustorThunk ();
-IL2CPP_EXTERN_C void Int32_ToString_m0847A50454BC800B9F3D6F8644D775D6A5632ADF_AdjustorThunk ();
-IL2CPP_EXTERN_C void Int32_Equals_mAEEF0F8FE79D3EF5E69A1EB3DDC0571F79AB3BBD_AdjustorThunk ();
-IL2CPP_EXTERN_C void Int32_CompareTo_m163D453012D43176210C4E876EBED081913EB26A_AdjustorThunk ();
 IL2CPP_EXTERN_C void il2cpp_virtual_remap_enum1_equals ();
 IL2CPP_EXTERN_C void Enum_GetHashCode_m700E2A5F6FEA2566169CE217E90E9C0E991ABA81 ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
@@ -4979,6 +4985,11 @@ IL2CPP_EXTERN_C void uint4_Equals_m6B7C0ACB217EF002B911FB6059B747FBE8FEBD11_Adju
 IL2CPP_EXTERN_C void il2cpp_virtual_remap_enum4_equals ();
 IL2CPP_EXTERN_C void Enum_GetHashCode_m700E2A5F6FEA2566169CE217E90E9C0E991ABA81 ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C ();
+IL2CPP_EXTERN_C void Int32_GetHashCode_m1D9FEC8879ADE18E13A011D5A8CCB5D87E7BDA77_AdjustorThunk ();
+IL2CPP_EXTERN_C void Int32_ToString_m0847A50454BC800B9F3D6F8644D775D6A5632ADF_AdjustorThunk ();
+IL2CPP_EXTERN_C void Int32_Equals_mAEEF0F8FE79D3EF5E69A1EB3DDC0571F79AB3BBD_AdjustorThunk ();
+IL2CPP_EXTERN_C void Int32_CompareTo_m163D453012D43176210C4E876EBED081913EB26A_AdjustorThunk ();
 IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
 IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
@@ -5356,6 +5367,12 @@ IL2CPP_EXTERN_C void ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C 
 IL2CPP_EXTERN_C void ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4 ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
 IL2CPP_EXTERN_C void BezierKeyQuaternion_GetTime_m0F22AA2B959DB858BE964946FD648FAD39C90B2B_AdjustorThunk ();
+IL2CPP_EXTERN_C void ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C ();
+IL2CPP_EXTERN_C void ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4 ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C ();
+IL2CPP_EXTERN_C void ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4 ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
 IL2CPP_EXTERN_C void ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C ();
 IL2CPP_EXTERN_C void ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4 ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
@@ -7432,6 +7449,22 @@ IL2CPP_EXTERN_C void HashFn_Invoke_m1C9B1AC2958E14D915A0584DB67664F70686D4DB ();
 IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
 IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void EqualsFn_Invoke_mDC9E677238D6430490BB9BA607ACA351248C50B8 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void HashFn_Invoke_mF1559A30392D6A7E6D7FACDBB58F26E81B6B3CC9 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void EqualsFn_Invoke_m665C884FFD9DC313A146950E633973C7946888E2 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void HashFn_Invoke_mC75679091F2A96BCF854D9BE4F9274E14D2A4BBB ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
 IL2CPP_EXTERN_C void EqualsFn_Invoke_m9CFDD7425558613249CC88575C6545335E5427E6 ();
 IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
 IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
@@ -8193,6 +8226,26 @@ IL2CPP_EXTERN_C void ComponentSystemBase_OnDestroy_mD6E99A04567D935520B45070A5E8
 IL2CPP_EXTERN_C void ComponentSystem_OnBeforeCreateInternal_mEEDB3DB99B7E1DDE31BAAA25FC07F91AACEAB3A9 ();
 IL2CPP_EXTERN_C void ComponentSystem_InternalUpdate_mAC26D32849BD0926103E626A33A8B77E450C056C ();
 IL2CPP_EXTERN_C void ComponentSystem_OnBeforeDestroyInternal_m0FC46699E754F690C986B28FC05553FC0AE97ECB ();
+IL2CPP_EXTERN_C void ScoreSystem_OnUpdate_mFBFC3080DBE8D7351F37A5AAE3BE51FB50BD27E0 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void StartButtonSystem_OnCreate_m94EEC39745C0422FFA2F418198EFBAD9A388F97C ();
+IL2CPP_EXTERN_C void ComponentSystemBase_OnStartRunning_mEFEB79B59AF00EE313E0C6DF5FC879242FE523FA ();
+IL2CPP_EXTERN_C void ComponentSystemBase_OnDestroy_mD6E99A04567D935520B45070A5E85DFD44EC22B4 ();
+IL2CPP_EXTERN_C void ComponentSystem_OnBeforeCreateInternal_mEEDB3DB99B7E1DDE31BAAA25FC07F91AACEAB3A9 ();
+IL2CPP_EXTERN_C void ComponentSystem_InternalUpdate_mAC26D32849BD0926103E626A33A8B77E450C056C ();
+IL2CPP_EXTERN_C void ComponentSystem_OnBeforeDestroyInternal_m0FC46699E754F690C986B28FC05553FC0AE97ECB ();
+IL2CPP_EXTERN_C void StartButtonSystem_OnUpdate_mB74889670FA9E6ACCD04A07C7B8B75A9CB23E9D7 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void ComponentSystemBase_OnCreate_m99034C4B5FA7E126F7A6AEA75B76A3E54EF081DB ();
+IL2CPP_EXTERN_C void ComponentSystemBase_OnStartRunning_mEFEB79B59AF00EE313E0C6DF5FC879242FE523FA ();
+IL2CPP_EXTERN_C void ComponentSystemBase_OnDestroy_mD6E99A04567D935520B45070A5E85DFD44EC22B4 ();
+IL2CPP_EXTERN_C void ComponentSystem_OnBeforeCreateInternal_mEEDB3DB99B7E1DDE31BAAA25FC07F91AACEAB3A9 ();
+IL2CPP_EXTERN_C void ComponentSystem_InternalUpdate_mAC26D32849BD0926103E626A33A8B77E450C056C ();
+IL2CPP_EXTERN_C void ComponentSystem_OnBeforeDestroyInternal_m0FC46699E754F690C986B28FC05553FC0AE97ECB ();
 IL2CPP_EXTERN_C void WallMovingSystem_OnUpdate_m21E4F37FA0FBFDD9E91B792B4B86ECC6ADD12743 ();
 IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
 IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
@@ -8352,6 +8405,18 @@ IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
 IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
 IL2CPP_EXTERN_C void F_DDDD_4_Invoke_m5D64E35D24E6BCAF8163DD0AD88A991B1D9D4D7A ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
+IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
+IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
+IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
 IL2CPP_EXTERN_C void Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9 ();
 IL2CPP_EXTERN_C void Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC ();
 IL2CPP_EXTERN_C void Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39 ();
@@ -10355,15 +10420,6 @@ Il2CppMethodPointer g_AllVirtualMethods[] =
 	float4x4_GetHashCode_m37842D27240A8E43D942F28D78E3AD09ECDDCB66_AdjustorThunk, // System.Int32 Unity.Mathematics.float4x4::GetHashCode()
 	float4x4_ToString_mA71FA988896F3978FBE959FC135DFC14A75AE2B7_AdjustorThunk, // System.String Unity.Mathematics.float4x4::ToString()
 	float4x4_Equals_mA7593CE7D4C33DB976EAA55EDBF8FB10F0DA15B3_AdjustorThunk, // System.Boolean Unity.Mathematics.float4x4::Equals(Unity.Mathematics.float4x4)
-	int3_Equals_mF0228CF9ED221D3384208FF184A62C6D91208E71_AdjustorThunk, // System.Boolean Unity.Mathematics.int3::Equals(System.Object)
-	int3_GetHashCode_mB717586026769F4797EE61D3E82795ABBD586AB6_AdjustorThunk, // System.Int32 Unity.Mathematics.int3::GetHashCode()
-	int3_ToString_mE7F24023FCAE22043CE08192405FFE80128ED215_AdjustorThunk, // System.String Unity.Mathematics.int3::ToString()
-	int3_Equals_mE1475E8E3A1F8A36AC8F7217DF1DC8403B073FDA_AdjustorThunk, // System.Boolean Unity.Mathematics.int3::Equals(Unity.Mathematics.int3)
-	ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C, // System.Boolean System.ValueType::Equals(System.Object)
-	Int32_GetHashCode_m1D9FEC8879ADE18E13A011D5A8CCB5D87E7BDA77_AdjustorThunk, // System.Int32 System.Int32::GetHashCode()
-	Int32_ToString_m0847A50454BC800B9F3D6F8644D775D6A5632ADF_AdjustorThunk, // System.String System.Int32::ToString()
-	Int32_Equals_mAEEF0F8FE79D3EF5E69A1EB3DDC0571F79AB3BBD_AdjustorThunk, // System.Boolean System.Int32::Equals(System.Int32)
-	Int32_CompareTo_m163D453012D43176210C4E876EBED081913EB26A_AdjustorThunk, // System.Int32 System.Int32::CompareTo(System.Int32)
 	il2cpp_virtual_remap_enum1_equals, // System.Boolean System.Enum::Equals(System.Object)
 	Enum_GetHashCode_m700E2A5F6FEA2566169CE217E90E9C0E991ABA81, // System.Int32 System.Enum::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
@@ -10391,6 +10447,11 @@ Il2CppMethodPointer g_AllVirtualMethods[] =
 	il2cpp_virtual_remap_enum4_equals, // System.Boolean System.Enum::Equals(System.Object)
 	Enum_GetHashCode_m700E2A5F6FEA2566169CE217E90E9C0E991ABA81, // System.Int32 System.Enum::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C, // System.Boolean System.ValueType::Equals(System.Object)
+	Int32_GetHashCode_m1D9FEC8879ADE18E13A011D5A8CCB5D87E7BDA77_AdjustorThunk, // System.Int32 System.Int32::GetHashCode()
+	Int32_ToString_m0847A50454BC800B9F3D6F8644D775D6A5632ADF_AdjustorThunk, // System.String System.Int32::ToString()
+	Int32_Equals_mAEEF0F8FE79D3EF5E69A1EB3DDC0571F79AB3BBD_AdjustorThunk, // System.Boolean System.Int32::Equals(System.Int32)
+	Int32_CompareTo_m163D453012D43176210C4E876EBED081913EB26A_AdjustorThunk, // System.Int32 System.Int32::CompareTo(System.Int32)
 	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
 	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
@@ -10768,6 +10829,12 @@ Il2CppMethodPointer g_AllVirtualMethods[] =
 	ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4, // System.Int32 System.ValueType::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
 	BezierKeyQuaternion_GetTime_m0F22AA2B959DB858BE964946FD648FAD39C90B2B_AdjustorThunk, // System.Single Unity.Tiny.Interpolation.BezierKeyQuaternion::GetTime()
+	ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C, // System.Boolean System.ValueType::Equals(System.Object)
+	ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4, // System.Int32 System.ValueType::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C, // System.Boolean System.ValueType::Equals(System.Object)
+	ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4, // System.Int32 System.ValueType::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
 	ValueType_Equals_m7E3BB926A8DC6A9A6FE29C4B5965B19DB79C073C, // System.Boolean System.ValueType::Equals(System.Object)
 	ValueType_GetHashCode_mACF6C023D7B744E853CA2C94D9B799E21216F8B4, // System.Int32 System.ValueType::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
@@ -12844,6 +12911,22 @@ Il2CppMethodPointer g_AllVirtualMethods[] =
 	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
 	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	EqualsFn_Invoke_mDC9E677238D6430490BB9BA607ACA351248C50B8, // System.Boolean Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.ScoreManager>::Invoke(T&,T&)
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	HashFn_Invoke_mF1559A30392D6A7E6D7FACDBB58F26E81B6B3CC9, // System.Int32 Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.ScoreManager>::Invoke(T&)
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	EqualsFn_Invoke_m665C884FFD9DC313A146950E633973C7946888E2, // System.Boolean Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.StartButton>::Invoke(T&,T&)
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	HashFn_Invoke_mC75679091F2A96BCF854D9BE4F9274E14D2A4BBB, // System.Int32 Unity.Entities.TypeManager/EqualityHelper`1/HashFn<dodgeman.StartButton>::Invoke(T&)
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
 	EqualsFn_Invoke_m9CFDD7425558613249CC88575C6545335E5427E6, // System.Boolean Unity.Entities.TypeManager/EqualityHelper`1/EqualsFn<dodgeman.Wall>::Invoke(T&,T&)
 	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
 	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
@@ -13605,6 +13688,26 @@ Il2CppMethodPointer g_AllVirtualMethods[] =
 	ComponentSystem_OnBeforeCreateInternal_mEEDB3DB99B7E1DDE31BAAA25FC07F91AACEAB3A9, // System.Void Unity.Entities.ComponentSystem::OnBeforeCreateInternal(Unity.Entities.World)
 	ComponentSystem_InternalUpdate_mAC26D32849BD0926103E626A33A8B77E450C056C, // System.Void Unity.Entities.ComponentSystem::InternalUpdate()
 	ComponentSystem_OnBeforeDestroyInternal_m0FC46699E754F690C986B28FC05553FC0AE97ECB, // System.Void Unity.Entities.ComponentSystem::OnBeforeDestroyInternal()
+	ScoreSystem_OnUpdate_mFBFC3080DBE8D7351F37A5AAE3BE51FB50BD27E0, // System.Void dodgeman.ScoreSystem::OnUpdate()
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	StartButtonSystem_OnCreate_m94EEC39745C0422FFA2F418198EFBAD9A388F97C, // System.Void dodgeman.StartButtonSystem::OnCreate()
+	ComponentSystemBase_OnStartRunning_mEFEB79B59AF00EE313E0C6DF5FC879242FE523FA, // System.Void Unity.Entities.ComponentSystemBase::OnStartRunning()
+	ComponentSystemBase_OnDestroy_mD6E99A04567D935520B45070A5E85DFD44EC22B4, // System.Void Unity.Entities.ComponentSystemBase::OnDestroy()
+	ComponentSystem_OnBeforeCreateInternal_mEEDB3DB99B7E1DDE31BAAA25FC07F91AACEAB3A9, // System.Void Unity.Entities.ComponentSystem::OnBeforeCreateInternal(Unity.Entities.World)
+	ComponentSystem_InternalUpdate_mAC26D32849BD0926103E626A33A8B77E450C056C, // System.Void Unity.Entities.ComponentSystem::InternalUpdate()
+	ComponentSystem_OnBeforeDestroyInternal_m0FC46699E754F690C986B28FC05553FC0AE97ECB, // System.Void Unity.Entities.ComponentSystem::OnBeforeDestroyInternal()
+	StartButtonSystem_OnUpdate_mB74889670FA9E6ACCD04A07C7B8B75A9CB23E9D7, // System.Void dodgeman.StartButtonSystem::OnUpdate()
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	ComponentSystemBase_OnCreate_m99034C4B5FA7E126F7A6AEA75B76A3E54EF081DB, // System.Void Unity.Entities.ComponentSystemBase::OnCreate()
+	ComponentSystemBase_OnStartRunning_mEFEB79B59AF00EE313E0C6DF5FC879242FE523FA, // System.Void Unity.Entities.ComponentSystemBase::OnStartRunning()
+	ComponentSystemBase_OnDestroy_mD6E99A04567D935520B45070A5E85DFD44EC22B4, // System.Void Unity.Entities.ComponentSystemBase::OnDestroy()
+	ComponentSystem_OnBeforeCreateInternal_mEEDB3DB99B7E1DDE31BAAA25FC07F91AACEAB3A9, // System.Void Unity.Entities.ComponentSystem::OnBeforeCreateInternal(Unity.Entities.World)
+	ComponentSystem_InternalUpdate_mAC26D32849BD0926103E626A33A8B77E450C056C, // System.Void Unity.Entities.ComponentSystem::InternalUpdate()
+	ComponentSystem_OnBeforeDestroyInternal_m0FC46699E754F690C986B28FC05553FC0AE97ECB, // System.Void Unity.Entities.ComponentSystem::OnBeforeDestroyInternal()
 	WallMovingSystem_OnUpdate_m21E4F37FA0FBFDD9E91B792B4B86ECC6ADD12743, // System.Void dodgeman.WallMovingSystem::OnUpdate()
 	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
 	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
@@ -13764,6 +13867,18 @@ Il2CppMethodPointer g_AllVirtualMethods[] =
 	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
 	F_DDDD_4_Invoke_m5D64E35D24E6BCAF8163DD0AD88A991B1D9D4D7A, // System.Void Unity.Entities.EntityQueryBuilder/F_DDDD`4<Unity.Tiny.Core2D.Translation,Unity.Tiny.Core2D.Scale,Unity.Tiny.Core2D.Rotation,Unity.Tiny.Core2D.LocalToParent>::Invoke(T0&,T1&,T2&,T3&)
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
+	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
+	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
+	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
 	Object_Equals_m5474383677DDC7962A16D23822FCC19C934F4EF9, // System.Boolean System.Object::Equals(System.Object)
 	Object_GetHashCode_mE75D1181FA49099A73263AFA2265906320FBFFDC, // System.Int32 System.Object::GetHashCode()
 	Object_ToString_m14EC9F88B142CD234DA976F38AC90922AF1CEC39, // System.String System.Object::ToString()
@@ -15712,7 +15827,7 @@ const Il2CppMethodPointer* Il2CppGetTinyVirtualMethodUniverse()
 
 uint32_t Il2CppGetTinyTypeUniverseTypeCount()
 {
-	return 1644;
+	return 1654;
 }
 
 uint8_t* Il2CppGetTinyTypeUniverse()

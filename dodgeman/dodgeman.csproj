@@ -65,6 +65,8 @@
     <Compile Include="Assets\dodgeman\Components\Object.cs" />
     <Compile Include="Assets\dodgeman\Components\ObjectsManager.cs" />
     <Compile Include="Assets\dodgeman\Components\Player.cs" />
+    <Compile Include="Assets\dodgeman\Components\ScoreManager.cs" />
+    <Compile Include="Assets\dodgeman\Components\StartButton.cs" />
     <Compile Include="Assets\dodgeman\Components\Wall.cs" />
     <Compile Include="Assets\dodgeman\Components\WallsManager.cs" />
     <Compile Include="Assets\dodgeman\Scripts\AssemblyInfo.cs" />
@@ -72,6 +74,8 @@
     <Compile Include="Assets\dodgeman\Scripts\ObjectsMovingSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\PlayerDestroySystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\PlayerMovingSystem.cs" />
+    <Compile Include="Assets\dodgeman\Scripts\ScoreSystem.cs" />
+    <Compile Include="Assets\dodgeman\Scripts\StartButtonSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\WallMovingSystem.cs" />
     <Reference Include="Unity.Collections">
       <HintPath>C:/Users/Katsuya/Documents/UnityProject/h5g-dodge-man/dodgeman/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>

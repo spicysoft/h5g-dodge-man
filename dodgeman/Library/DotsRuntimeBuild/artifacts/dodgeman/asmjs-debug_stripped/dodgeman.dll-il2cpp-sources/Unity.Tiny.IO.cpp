@@ -387,10 +387,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* AsyncOp_ToString_m1FDA39E16B2E5723F
 		ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* L_1 = L_0;
 		int32_t L_2 = __this->get_m_Handle_0();
 		int32_t L_3 = L_2;
-		RuntimeObject * L_4 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 700 : 1400), &L_3);
+		RuntimeObject * L_4 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 972 : 1944), &L_3);
 		ArrayElementTypeCheck (L_1, L_4);
 		(L_1)->SetAt(static_cast<il2cpp_array_size_t>(0), (RuntimeObject *)L_4);
-		String_t* L_5 = String_Format_mA0ECE15446C48D0F3B656E51AF679410A30FE5FF(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2792 : 2984), L_1);
+		String_t* L_5 = String_Format_mA0ECE15446C48D0F3B656E51AF679410A30FE5FF(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2744 : 2928), L_1);
 		V_0 = L_5;
 		String_t* L_6 = V_0;
 		return L_6;

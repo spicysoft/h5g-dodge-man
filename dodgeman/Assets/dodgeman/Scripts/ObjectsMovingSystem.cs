@@ -17,6 +17,10 @@ namespace dodgeman
 
         protected override void OnUpdate()
         {
+            var tinyEnv = World.TinyEnvironment();
+            var config = World.TinyEnvironment().GetConfigData<GameConfig>();
+            if (!config.GameStart)
+                return;
             Entities.ForEach((DynamicBuffer<ObjectsManager> objects) =>{
                 for (int i = 0; i < objects.Length; i++)
                 {
@@ -33,10 +37,11 @@ namespace dodgeman
 
                     if(translation.Value.y <= -6)
                     {
-                        translation.Value = _random.NextInt3(new int3(x: -5, y: 6, z: 0), new int3(x: 5, y: 6, z: 0));
+                        translation.Value = _random.NextFloat3(new float3(x: -config.RandomLimt + 0.5f, y: 6, z: 0), new float3(x: config.RandomLimt - 0.5f, y: 6, z: 0));
                         EntityManager.SetComponentData(objects[i].Reference, translation);
+                        config.Score++;
                     }
-
+                    tinyEnv.SetConfigData(config);
                     EntityManager.SetComponentData(objects[i].Reference, translation);
                     EntityManager.SetComponentData(objects[i].Reference, _object);
 

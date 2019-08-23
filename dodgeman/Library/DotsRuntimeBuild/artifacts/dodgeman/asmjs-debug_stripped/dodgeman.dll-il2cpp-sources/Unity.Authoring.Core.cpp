@@ -408,14 +408,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AssetReference_Equals_m9D170741FF32A1A1C
 		RuntimeObject * L_0 = ___obj0;
 		RuntimeObject * L_1 = L_0;
 		V_1 = L_1;
-		if (!((RuntimeObject *)IsInstSealed((RuntimeObject*)L_1, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 3324 : 6640))))
+		if (!((RuntimeObject *)IsInstSealed((RuntimeObject*)L_1, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 3276 : 6544))))
 		{
 			goto IL_0014;
 		}
 	}
 	{
 		RuntimeObject * L_2 = V_1;
-		V_0 = ((*(AssetReference_t7382169BB96CCB0870C922C33EEC3C786A3096D5 *)((AssetReference_t7382169BB96CCB0870C922C33EEC3C786A3096D5 *)UnBox<AssetReference_t7382169BB96CCB0870C922C33EEC3C786A3096D5 >(L_2, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 3324 : 6640)))));
+		V_0 = ((*(AssetReference_t7382169BB96CCB0870C922C33EEC3C786A3096D5 *)((AssetReference_t7382169BB96CCB0870C922C33EEC3C786A3096D5 *)UnBox<AssetReference_t7382169BB96CCB0870C922C33EEC3C786A3096D5 >(L_2, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 3276 : 6544)))));
 		goto IL_0017;
 	}
 

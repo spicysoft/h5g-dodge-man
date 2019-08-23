@@ -7,6 +7,9 @@ namespace dodgeman
     {
         public bool GameStart;
         public SceneReference PlayerScene;
-
+        public SceneReference StartButtonScene;
+        public SceneReference ControllerScene;
+        public float RandomLimt;
+        public int Score;
     }
 }

@@ -1497,7 +1497,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug__cctor_m830C9B7BC0F651612F9C1D2AC8
 {
 	{
 		// static StringRingHistory history = new StringRingHistory(32); // keep last n-strings
-		StringRingHistory_t7FD6E45231A0928632E346E9085955A8A08A1941 * L_0 = (StringRingHistory_t7FD6E45231A0928632E346E9085955A8A08A1941 *)il2cpp_codegen_object_new(sizeof(StringRingHistory_t7FD6E45231A0928632E346E9085955A8A08A1941), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30648 : 61280));
+		StringRingHistory_t7FD6E45231A0928632E346E9085955A8A08A1941 * L_0 = (StringRingHistory_t7FD6E45231A0928632E346E9085955A8A08A1941 *)il2cpp_codegen_object_new(sizeof(StringRingHistory_t7FD6E45231A0928632E346E9085955A8A08A1941), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30936 : 61856));
 		StringRingHistory__ctor_mBF30CED0D794B61D3A4F4745F5BAD1FE15B7E1DE(L_0, ((int32_t)32));
 		((Debug_t4206740E29D564CED5287D29F52C59CBDE4120E5_StaticFields*)Debug_t4206740E29D564CED5287D29F52C59CBDE4120E5_StaticFields_Storage)->set_history_0(L_0);
 		return;
@@ -1601,7 +1601,7 @@ IL_003e:
 		double L_16 = ___value0;
 		V_5 = (((int32_t)((int32_t)L_16)));
 		String_t* L_17 = Int32_ToString_m0847A50454BC800B9F3D6F8644D775D6A5632ADF((int32_t*)(&V_5));
-		String_t* L_18 = String_Concat_mBC41E85485989D00048DD1E5350DA37CE833E477(L_15, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29480 : 31560), L_17);
+		String_t* L_18 = String_Concat_mBC41E85485989D00048DD1E5350DA37CE833E477(L_15, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29652 : 31744), L_17);
 		V_1 = L_18;
 		String_t* L_19 = V_1;
 		V_3 = L_19;
@@ -1746,7 +1746,7 @@ IL_004f:
 IL_0078:
 	{
 		String_t* L_21 = V_0;
-		String_t* L_22 = String_Concat_m01230C888F0EAA7494880888D5CBA49D8DBDCFF5(L_21, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29492 : 31576));
+		String_t* L_22 = String_Concat_m01230C888F0EAA7494880888D5CBA49D8DBDCFF5(L_21, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29664 : 31760));
 		V_0 = L_22;
 	}
 
@@ -1912,7 +1912,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* StringFormatter_ResolveParam_m500C2
 	String_t* G_B12_0 = NULL;
 	{
 		RuntimeObject * L_0 = ___param0;
-		V_0 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_0, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 700 : 1400)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
+		V_0 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_0, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 972 : 1944)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
 		bool L_1 = V_0;
 		if (!L_1)
 		{
@@ -1921,7 +1921,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* StringFormatter_ResolveParam_m500C2
 	}
 	{
 		RuntimeObject * L_2 = ___param0;
-		V_1 = ((*(int32_t*)((int32_t*)UnBox<int32_t>(L_2, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 700 : 1400)))));
+		V_1 = ((*(int32_t*)((int32_t*)UnBox<int32_t>(L_2, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 972 : 1944)))));
 		String_t* L_3 = Int32_ToString_m0847A50454BC800B9F3D6F8644D775D6A5632ADF((int32_t*)(&V_1));
 		V_2 = L_3;
 		goto IL_0288;
@@ -1947,7 +1947,7 @@ IL_0022:
 IL_0041:
 	{
 		RuntimeObject * L_8 = ___param0;
-		V_4 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_8, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30672 : 61328)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
+		V_4 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_8, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30960 : 61904)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
 		bool L_9 = V_4;
 		if (!L_9)
 		{
@@ -1956,7 +1956,7 @@ IL_0041:
 	}
 	{
 		RuntimeObject * L_10 = ___param0;
-		String_t* L_11 = NumberConverter_DoubleToString_m359D906923F159D4F33CAD33DB710004C011A61E(((*(double*)((double*)UnBox<double>(L_10, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30672 : 61328))))), 3);
+		String_t* L_11 = NumberConverter_DoubleToString_m359D906923F159D4F33CAD33DB710004C011A61E(((*(double*)((double*)UnBox<double>(L_10, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30960 : 61904))))), 3);
 		V_2 = L_11;
 		goto IL_0288;
 	}
@@ -1980,7 +1980,7 @@ IL_0062:
 IL_007d:
 	{
 		RuntimeObject * L_15 = ___param0;
-		V_6 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_15, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30700 : 61384)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
+		V_6 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_15, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30988 : 61960)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
 		bool L_16 = V_6;
 		if (!L_16)
 		{
@@ -1989,19 +1989,19 @@ IL_007d:
 	}
 	{
 		RuntimeObject * L_17 = ___param0;
-		if (((*(bool*)((bool*)UnBox<bool>(L_17, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30700 : 61384))))))
+		if (((*(bool*)((bool*)UnBox<bool>(L_17, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30988 : 61960))))))
 		{
 			goto IL_009b;
 		}
 	}
 	{
-		G_B12_0 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29576 : 31664);
+		G_B12_0 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29748 : 31848);
 		goto IL_00a0;
 	}
 
 IL_009b:
 	{
-		G_B12_0 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29596 : 31688);
+		G_B12_0 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29768 : 31872);
 	}
 
 IL_00a0:
@@ -2013,7 +2013,7 @@ IL_00a0:
 IL_00a6:
 	{
 		RuntimeObject * L_18 = ___param0;
-		V_7 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_18, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1524 : 3048)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
+		V_7 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_18, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1476 : 2952)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
 		bool L_19 = V_7;
 		if (!L_19)
 		{
@@ -2025,7 +2025,7 @@ IL_00a6:
 		EntityManager_tD03BBAE8A03BE6E803E142278B44DADB1F999C14 * L_21 = L_20->get_m_EntityManager_4();
 		V_8 = L_21;
 		RuntimeObject * L_22 = ___param0;
-		V_10 = ((*(Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8 *)((Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8 *)UnBox<Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8 >(L_22, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1524 : 3048)))));
+		V_10 = ((*(Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8 *)((Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8 *)UnBox<Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8 >(L_22, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1476 : 2952)))));
 		EntityManager_tD03BBAE8A03BE6E803E142278B44DADB1F999C14 * L_23 = V_8;
 		Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8  L_24 = V_10;
 		bool L_25 = EntityManager_Exists_mE356B5060281CEB7693773EA3DA7514EB8263E28(L_23, L_24);
@@ -2057,7 +2057,7 @@ IL_00a6:
 
 IL_00f9:
 	{
-		V_9 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29616 : 31712);
+		V_9 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29788 : 31896);
 	}
 
 IL_0100:
@@ -2067,7 +2067,7 @@ IL_0100:
 
 IL_0103:
 	{
-		V_9 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29656 : 31760);
+		V_9 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29828 : 31944);
 	}
 
 IL_010c:
@@ -2081,17 +2081,17 @@ IL_010c:
 		Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8  L_38 = V_10;
 		int32_t L_39 = L_38.get_Index_0();
 		int32_t L_40 = L_39;
-		RuntimeObject * L_41 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 700 : 1400), &L_40);
+		RuntimeObject * L_41 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 972 : 1944), &L_40);
 		ArrayElementTypeCheck (L_37, L_41);
 		(L_37)->SetAt(static_cast<il2cpp_array_size_t>(1), (RuntimeObject *)L_41);
 		ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* L_42 = L_37;
 		Entity_t514FBEC5923A575B6549FFCE0A7E0928BBB9F3D8  L_43 = V_10;
 		int32_t L_44 = L_43.get_Version_1();
 		int32_t L_45 = L_44;
-		RuntimeObject * L_46 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 700 : 1400), &L_45);
+		RuntimeObject * L_46 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 972 : 1944), &L_45);
 		ArrayElementTypeCheck (L_42, L_46);
 		(L_42)->SetAt(static_cast<il2cpp_array_size_t>(2), (RuntimeObject *)L_46);
-		String_t* L_47 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29704 : 31816), L_42);
+		String_t* L_47 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29876 : 32000), L_42);
 		V_2 = L_47;
 		goto IL_0288;
 	}
@@ -2124,7 +2124,7 @@ IL_0145:
 		RuntimeObject * L_61 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 480 : 960), &L_60);
 		ArrayElementTypeCheck (L_57, L_61);
 		(L_57)->SetAt(static_cast<il2cpp_array_size_t>(1), (RuntimeObject *)L_61);
-		String_t* L_62 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29740 : 31856), L_57);
+		String_t* L_62 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29912 : 32040), L_57);
 		V_2 = L_62;
 		goto IL_0288;
 	}
@@ -2164,7 +2164,7 @@ IL_0191:
 		RuntimeObject * L_81 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 480 : 960), &L_80);
 		ArrayElementTypeCheck (L_77, L_81);
 		(L_77)->SetAt(static_cast<il2cpp_array_size_t>(2), (RuntimeObject *)L_81);
-		String_t* L_82 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29772 : 31896), L_77);
+		String_t* L_82 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29944 : 32080), L_77);
 		V_2 = L_82;
 		goto IL_0288;
 	}
@@ -2211,7 +2211,7 @@ IL_01ec:
 		RuntimeObject * L_106 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 480 : 960), &L_105);
 		ArrayElementTypeCheck (L_102, L_106);
 		(L_102)->SetAt(static_cast<il2cpp_array_size_t>(3), (RuntimeObject *)L_106);
-		String_t* L_107 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29812 : 31944), L_102);
+		String_t* L_107 = StringFormatter_Format_m4315ECFEE5E6133185609314994044642FBB0AE4(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29984 : 32128), L_102);
 		V_2 = L_107;
 		goto IL_0288;
 	}
@@ -2219,7 +2219,7 @@ IL_01ec:
 IL_0253:
 	{
 		RuntimeObject * L_108 = ___param0;
-		V_19 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_108, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2176 : 4352)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
+		V_19 = (bool)((!(((RuntimeObject*)(RuntimeObject *)((RuntimeObject *)IsInstSealed((RuntimeObject*)L_108, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2128 : 4256)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
 		bool L_109 = V_19;
 		if (!L_109)
 		{
@@ -2227,14 +2227,14 @@ IL_0253:
 		}
 	}
 	{
-		V_2 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29864 : 32000);
+		V_2 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30036 : 32184);
 		goto IL_0288;
 	}
 
 IL_026b:
 	{
 		RuntimeObject * L_110 = ___param0;
-		V_20 = (bool)((!(((RuntimeObject*)(RuntimeObject*)((RuntimeObject*)IsInst((RuntimeObject*)L_110, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1768 : 3536)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
+		V_20 = (bool)((!(((RuntimeObject*)(RuntimeObject*)((RuntimeObject*)IsInst((RuntimeObject*)L_110, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1720 : 3440)))) <= ((RuntimeObject*)(RuntimeObject *)NULL)))? 1 : 0);
 		bool L_111 = V_20;
 		if (!L_111)
 		{
@@ -2242,13 +2242,13 @@ IL_026b:
 		}
 	}
 	{
-		V_2 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29896 : 32040);
+		V_2 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30068 : 32224);
 		goto IL_0288;
 	}
 
 IL_0282:
 	{
-		V_2 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 29940 : 32088);
+		V_2 = LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 30112 : 32272);
 	}
 
 IL_0288:
@@ -2273,7 +2273,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StringRingHistory__ctor_mBF30CED0D794B61
 		Object__ctor_m421012129CD8543B5CBB531F80F968E399AD90EA(__this);
 		// data = new string[count];
 		int32_t L_0 = ___count0;
-		StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E* L_1 = (StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E*)(StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E*)SZArrayNew<StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E*>(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 10336 : 20656), sizeof(String_t*), (uint32_t)L_0);
+		StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E* L_1 = (StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E*)(StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E*)SZArrayNew<StringU5BU5D_t933FB07893230EA91C40FF900D5400665E87B14E*>(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 10360 : 20704), sizeof(String_t*), (uint32_t)L_0);
 		__this->set_data_1(L_1);
 		// nextIndex = 0;
 		__this->set_nextIndex_0(0);

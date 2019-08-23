@@ -1741,7 +1741,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t AtomicSafetyHandle_load_mE8B0C089FB3E
 	}
 	{
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_4 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_4, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33404 : 35672));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_4, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33600 : 35888));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_4, &AtomicSafetyHandle_load_mE8B0C089FB3E9BADFFDA4B91EAD80A4E48471A7B_RuntimeMethod_var);
 	}
 
@@ -1760,7 +1760,7 @@ IL_0021:
 	}
 	{
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_9 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_9, &AtomicSafetyHandle_load_mE8B0C089FB3E9BADFFDA4B91EAD80A4E48471A7B_RuntimeMethod_var);
 	}
 
@@ -1854,7 +1854,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AtomicSafetyHandleInternal_tA615E10B55BEA25FC
 	}
 	{
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_3 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_3, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_3, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_3, &AtomicSafetyHandle_GetInternalWithCheck_mBF0AC27A6357287A7D95A5BFD8D871E53CE12067_RuntimeMethod_var);
 	}
 
@@ -2347,7 +2347,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AtomicSafetyHandle_CheckReadAndThrowNoEa
 	{
 		// throw new System.InvalidOperationException("The NativeArray has been deallocated, it is not allowed to access it");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_2 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_2, &AtomicSafetyHandle_CheckReadAndThrowNoEarlyOut_m6F05C8F5DB0232EAA96259133397C33310BDCAE2_RuntimeMethod_var);
 	}
 
@@ -2370,7 +2370,7 @@ IL_001d:
 	{
 		// throw new System.InvalidOperationException("The NativeArray can no longer be accessed, since its owner has been invalidated. You can simply Dispose() the container and create a new one.");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_8 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_8, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33656 : 35936));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_8, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33852 : 36152));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_8, &AtomicSafetyHandle_CheckReadAndThrowNoEarlyOut_m6F05C8F5DB0232EAA96259133397C33310BDCAE2_RuntimeMethod_var);
 	}
 
@@ -2414,7 +2414,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AtomicSafetyHandle_CheckWriteAndThrowNoE
 	{
 		// throw new System.InvalidOperationException("The NativeArray has been deallocated, it is not allowed to access it");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_2 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_2, &AtomicSafetyHandle_CheckWriteAndThrowNoEarlyOut_m564BADC24AD0A14F7E4E0907541D1A0AAD847738_RuntimeMethod_var);
 	}
 
@@ -2455,7 +2455,7 @@ IL_003f:
 	{
 		// throw new System.InvalidOperationException("The native container has been declared as [ReadOnly], but you are writing to it.");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_9 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33948 : 36232));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34144 : 36448));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_9, &AtomicSafetyHandle_CheckWriteAndThrowNoEarlyOut_m564BADC24AD0A14F7E4E0907541D1A0AAD847738_RuntimeMethod_var);
 	}
 
@@ -2482,7 +2482,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AtomicSafetyHandle_CheckDeallocateAndThr
 	{
 		// throw new System.InvalidOperationException("The NativeArray has been deallocated, it is not allowed to access it");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_2 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_2, &AtomicSafetyHandle_CheckDeallocateAndThrow_m0CF78CE8F9C24C9F3AC82630548F9510B4A3216A_RuntimeMethod_var);
 	}
 
@@ -2611,7 +2611,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AtomicSafetyHandle__cctor_mEC5219E1BA19F
 {
 	{
 		// static AtomicSafetyHandlePool pool = new AtomicSafetyHandlePool();
-		AtomicSafetyHandlePool_tCD52B5F90B36FA2261F86B06B0C826B851871ECB * L_0 = (AtomicSafetyHandlePool_tCD52B5F90B36FA2261F86B06B0C826B851871ECB *)il2cpp_codegen_object_new(sizeof(AtomicSafetyHandlePool_tCD52B5F90B36FA2261F86B06B0C826B851871ECB), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31604 : 63192));
+		AtomicSafetyHandlePool_tCD52B5F90B36FA2261F86B06B0C826B851871ECB * L_0 = (AtomicSafetyHandlePool_tCD52B5F90B36FA2261F86B06B0C826B851871ECB *)il2cpp_codegen_object_new(sizeof(AtomicSafetyHandlePool_tCD52B5F90B36FA2261F86B06B0C826B851871ECB), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31988 : 63960));
 		AtomicSafetyHandlePool__ctor_m51333833C94BE993451F62FF8981E1DD75AB52EF(L_0);
 		((AtomicSafetyHandle_tD39DC3984DE03DFCE30427589DF27C90F3E0818A_StaticFields*)AtomicSafetyHandle_tD39DC3984DE03DFCE30427589DF27C90F3E0818A_StaticFields_Storage)->set_pool_2(L_0);
 		// internal static readonly int AtomicSafetyVersionIncrease = 1 << 4;
@@ -3117,7 +3117,7 @@ IL_0028:
 	}
 	{
 		DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79 ** L_7 = ___sentinel1;
-		DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79 * L_8 = (DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79 *)il2cpp_codegen_object_new(sizeof(DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31628 : 63240));
+		DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79 * L_8 = (DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79 *)il2cpp_codegen_object_new(sizeof(DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32012 : 64008));
 		DisposeSentinel__ctor_mEBB080D4AEC41C5D83159E5092384B0188028F2A(L_8);
 		DisposeSentinel_tA880A3DD0AACAF386B4C143C853504C57BEE2F79 * L_9 = L_8;
 		L_9->set_m_IsCreated_0(1);
@@ -3157,7 +3157,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DisposeSentinel_Finalize_m9EC65CDE6478C6
 	}
 	{
 		// Debug.Log("A Native Collection has not been disposed, resulting in a memory leak. Trace:");
-		Debug_Log_m081F2B8C7348EE09CDD5A7C35FBF242490733192(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34120 : 36408));
+		Debug_Log_m081F2B8C7348EE09CDD5A7C35FBF242490733192(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34316 : 36624));
 		// Debug.LogError(m_Stack);
 		String_t* L_2 = __this->get_m_Stack_1();
 		Debug_LogError_m3AC4D0F9BEF44ED6733202E39C10CF29E1FD9773(L_2);
@@ -3299,7 +3299,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IJobParallelForExtensions_DoDeallocateOn
 	il2cpp::utils::MemoryUtils::MemorySet((&V_2), 0, sizeof(V_2));
 	{
 		// {
-		RuntimeTypeHandle_t4AEFB4045F601C7B50F59B5483EEE787CC4D967A  L_0 = { reinterpret_cast<intptr_t> (LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31656 : 63296)) };
+		RuntimeTypeHandle_t4AEFB4045F601C7B50F59B5483EEE787CC4D967A  L_0 = { reinterpret_cast<intptr_t> (LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32040 : 64064)) };
 		Type_t * L_1 = Type_GetTypeFromHandle_m2E0BF604BD00AD02BFCB4A8FB6B3DBDA96CABFB6(L_0);
 		RuntimeObject * L_2 = ___jobData0;
 		Type_t * L_3 = il2cpp_codegen_get_type(L_2);
@@ -3310,7 +3310,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IJobParallelForExtensions_DoDeallocateOn
 	}
 	{
 		RuntimeObject * L_4 = ___jobData0;
-		V_0 = ((*(RemapArchetypesJob_t38043DB2D8952A54390713A2586A78ADC81F6F29 *)((RemapArchetypesJob_t38043DB2D8952A54390713A2586A78ADC81F6F29 *)UnBox<RemapArchetypesJob_t38043DB2D8952A54390713A2586A78ADC81F6F29 >(L_4, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31656 : 63296)))));
+		V_0 = ((*(RemapArchetypesJob_t38043DB2D8952A54390713A2586A78ADC81F6F29 *)((RemapArchetypesJob_t38043DB2D8952A54390713A2586A78ADC81F6F29 *)UnBox<RemapArchetypesJob_t38043DB2D8952A54390713A2586A78ADC81F6F29 >(L_4, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32040 : 64064)))));
 		NativeArray_1_tF8A4E2BF98A34F6CBDE468013A87F77DB1E4A2F8 * L_5 = (&V_0)->get_address_of_remapArchetypes_0();
 		NativeArray_1_Dispose_m998FD0D1A5C396601B12DF4BCB25D7F05FF43B95((NativeArray_1_tF8A4E2BF98A34F6CBDE468013A87F77DB1E4A2F8 *)L_5);
 		return;
@@ -3318,7 +3318,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IJobParallelForExtensions_DoDeallocateOn
 
 IL_002e:
 	{
-		RuntimeTypeHandle_t4AEFB4045F601C7B50F59B5483EEE787CC4D967A  L_6 = { reinterpret_cast<intptr_t> (LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31704 : 63392)) };
+		RuntimeTypeHandle_t4AEFB4045F601C7B50F59B5483EEE787CC4D967A  L_6 = { reinterpret_cast<intptr_t> (LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32088 : 64160)) };
 		Type_t * L_7 = Type_GetTypeFromHandle_m2E0BF604BD00AD02BFCB4A8FB6B3DBDA96CABFB6(L_6);
 		RuntimeObject * L_8 = ___jobData0;
 		Type_t * L_9 = il2cpp_codegen_get_type(L_8);
@@ -3329,7 +3329,7 @@ IL_002e:
 	}
 	{
 		RuntimeObject * L_10 = ___jobData0;
-		V_1 = ((*(GatherChunks_t37986978DBA870354A8653BCA365A68CA4666CDE *)((GatherChunks_t37986978DBA870354A8653BCA365A68CA4666CDE *)UnBox<GatherChunks_t37986978DBA870354A8653BCA365A68CA4666CDE >(L_10, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31704 : 63392)))));
+		V_1 = ((*(GatherChunks_t37986978DBA870354A8653BCA365A68CA4666CDE *)((GatherChunks_t37986978DBA870354A8653BCA365A68CA4666CDE *)UnBox<GatherChunks_t37986978DBA870354A8653BCA365A68CA4666CDE >(L_10, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32088 : 64160)))));
 		NativeArray_1_t71B1F6115F091AD79D4416FD907185296A261B00 * L_11 = (&V_1)->get_address_of_Offsets_2();
 		NativeArray_1_Dispose_m5B50B0ECEED63074F2FB4700EB0F1566758B34FA((NativeArray_1_t71B1F6115F091AD79D4416FD907185296A261B00 *)L_11);
 		return;
@@ -3337,7 +3337,7 @@ IL_002e:
 
 IL_005d:
 	{
-		RuntimeTypeHandle_t4AEFB4045F601C7B50F59B5483EEE787CC4D967A  L_12 = { reinterpret_cast<intptr_t> (LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31744 : 63472)) };
+		RuntimeTypeHandle_t4AEFB4045F601C7B50F59B5483EEE787CC4D967A  L_12 = { reinterpret_cast<intptr_t> (LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32128 : 64240)) };
 		Type_t * L_13 = Type_GetTypeFromHandle_m2E0BF604BD00AD02BFCB4A8FB6B3DBDA96CABFB6(L_12);
 		RuntimeObject * L_14 = ___jobData0;
 		Type_t * L_15 = il2cpp_codegen_get_type(L_14);
@@ -3348,7 +3348,7 @@ IL_005d:
 	}
 	{
 		RuntimeObject * L_16 = ___jobData0;
-		V_2 = ((*(JoinChunksJob_t951C3816BE44C9931376AFD31F86EBDA2816CE11 *)((JoinChunksJob_t951C3816BE44C9931376AFD31F86EBDA2816CE11 *)UnBox<JoinChunksJob_t951C3816BE44C9931376AFD31F86EBDA2816CE11 >(L_16, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 31744 : 63472)))));
+		V_2 = ((*(JoinChunksJob_t951C3816BE44C9931376AFD31F86EBDA2816CE11 *)((JoinChunksJob_t951C3816BE44C9931376AFD31F86EBDA2816CE11 *)UnBox<JoinChunksJob_t951C3816BE44C9931376AFD31F86EBDA2816CE11 >(L_16, LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 32128 : 64240)))));
 		NativeArray_1_t71B1F6115F091AD79D4416FD907185296A261B00 * L_17 = (&V_2)->get_address_of_DestinationOffsets_0();
 		NativeArray_1_Dispose_m5B50B0ECEED63074F2FB4700EB0F1566758B34FA((NativeArray_1_t71B1F6115F091AD79D4416FD907185296A261B00 *)L_17);
 		NativeArray_1_t6A1A79737D3BF4D0903755E89D5460F414379F95 * L_18 = (&V_2)->get_address_of_SparseChunks_1();
@@ -3518,7 +3518,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_LogError_m3AC4D0F9BEF44ED6733202E3
 	}
 	{
 		// lastError = "LogError: null (null message, maybe a format which is unsupported?)";
-		((Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields*)Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields_Storage)->set_lastError_2(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34284 : 36576));
+		((Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields*)Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields_Storage)->set_lastError_2(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34480 : 36792));
 		goto IL_0039;
 	}
 
@@ -3543,7 +3543,7 @@ IL_0015:
 IL_002f:
 	{
 		// lastError = "LogError: NON-String OBJECT LOGGED";
-		((Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields*)Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields_Storage)->set_lastError_2(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34428 : 36728));
+		((Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields*)Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields_Storage)->set_lastError_2(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34624 : 36944));
 	}
 
 IL_0039:
@@ -3587,12 +3587,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_Log_m081F2B8C7348EE09CDD5A7C35FBF2
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_LogException_m099FF8B51DB4322F9CB0E93F0C55453FCD5D2606 (Exception_t * ___exception0)
 {
 	{
-		((Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields*)Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields_Storage)->set_lastLog_0(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34508 : 36816));
+		((Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields*)Debug_tC44E14FA7DD437C4A3E4377A036597DFF4C62FA7_StaticFields_Storage)->set_lastLog_0(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34704 : 37032));
 		Exception_t * L_0 = ___exception0;
 		String_t* L_1 = L_0->get_U3CMessageU3Ek__BackingField_0();
 		Exception_t * L_2 = ___exception0;
 		String_t* L_3 = L_2->get_U3CStackTraceU3Ek__BackingField_1();
-		String_t* L_4 = String_Concat_mBC41E85485989D00048DD1E5350DA37CE833E477(L_1, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34536 : 36848), L_3);
+		String_t* L_4 = String_Concat_mBC41E85485989D00048DD1E5350DA37CE833E477(L_1, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34732 : 37064), L_3);
 		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(L_4);
 		return;
 	}
@@ -3733,7 +3733,7 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR int32_t AtomicSafetyHandle_load_mE8B0
 	}
 	{
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_4 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_4, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33404 : 35672));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_4, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33600 : 35888));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_4, &AtomicSafetyHandle_load_mE8B0C089FB3E9BADFFDA4B91EAD80A4E48471A7B_RuntimeMethod_var);
 	}
 
@@ -3752,7 +3752,7 @@ IL_0021:
 	}
 	{
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_9 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_9, &AtomicSafetyHandle_load_mE8B0C089FB3E9BADFFDA4B91EAD80A4E48471A7B_RuntimeMethod_var);
 	}
 
@@ -3868,7 +3868,7 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR AtomicSafetyHandleInternal_tA615E10B5
 	}
 	{
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_3 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_3, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_3, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_3, &AtomicSafetyHandle_GetInternalWithCheck_mBF0AC27A6357287A7D95A5BFD8D871E53CE12067_RuntimeMethod_var);
 	}
 
@@ -4121,7 +4121,7 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR void AtomicSafetyHandle_CheckWriteAnd
 	{
 		// throw new System.InvalidOperationException("The NativeArray has been deallocated, it is not allowed to access it");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_2 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_2, &AtomicSafetyHandle_CheckWriteAndThrowNoEarlyOut_m564BADC24AD0A14F7E4E0907541D1A0AAD847738_RuntimeMethod_var);
 	}
 
@@ -4162,7 +4162,7 @@ IL_003f:
 	{
 		// throw new System.InvalidOperationException("The native container has been declared as [ReadOnly], but you are writing to it.");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_9 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33948 : 36232));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_9, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34144 : 36448));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_9, &AtomicSafetyHandle_CheckWriteAndThrowNoEarlyOut_m564BADC24AD0A14F7E4E0907541D1A0AAD847738_RuntimeMethod_var);
 	}
 
@@ -4190,7 +4190,7 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR void AtomicSafetyHandle_CheckReadAndT
 	{
 		// throw new System.InvalidOperationException("The NativeArray has been deallocated, it is not allowed to access it");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_2 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_2, &AtomicSafetyHandle_CheckReadAndThrowNoEarlyOut_m6F05C8F5DB0232EAA96259133397C33310BDCAE2_RuntimeMethod_var);
 	}
 
@@ -4213,7 +4213,7 @@ IL_001d:
 	{
 		// throw new System.InvalidOperationException("The NativeArray can no longer be accessed, since its owner has been invalidated. You can simply Dispose() the container and create a new one.");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_8 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_8, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33656 : 35936));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_8, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33852 : 36152));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_8, &AtomicSafetyHandle_CheckReadAndThrowNoEarlyOut_m6F05C8F5DB0232EAA96259133397C33310BDCAE2_RuntimeMethod_var);
 	}
 
@@ -4253,7 +4253,7 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR void AtomicSafetyHandle_CheckDealloca
 	{
 		// throw new System.InvalidOperationException("The NativeArray has been deallocated, it is not allowed to access it");
 		InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 * L_2 = (InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57 *)il2cpp_codegen_object_new(sizeof(InvalidOperationException_t789507B31C347564611329594AE22C7EE4F5BC57), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 332 : 664));
-		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33508 : 35784));
+		InvalidOperationException__ctor_m98EF8CF88D746B0012D1CF8D30E2054219BFCB7F(L_2, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 33704 : 36000));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_2, &AtomicSafetyHandle_CheckDeallocateAndThrow_m0CF78CE8F9C24C9F3AC82630548F9510B4A3216A_RuntimeMethod_var);
 	}
 

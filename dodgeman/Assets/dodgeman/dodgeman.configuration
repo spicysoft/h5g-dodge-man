@@ -12,6 +12,12 @@
             "$type": "dodgeman.GameConfig, dodgeman",
             "PlayerScene": {
                 "SceneGuid": "418cf911496647569b4764f579079269"
+            },
+            "StartButtonScene": {
+                "SceneGuid": "4e2a37f9c96d4b0aa1edb4f0d90aa2de"
+            },
+            "ControllerScene": {
+                "SceneGuid": "e3671b51d75742498ab99ffbc42f64fa"
             }
         }, {
             "$type": "Unity.Tiny.Core2D.DisplayInfo, Unity.Tiny.Core2D",
@@ -30,6 +36,14 @@
                 "SceneReference": {
                     "SceneGuid": "418cf911496647569b4764f579079269"
                 }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "e3671b51d75742498ab99ffbc42f64fa"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "4e2a37f9c96d4b0aa1edb4f0d90aa2de"
+                }
             }]
         }, {
             "$type": "Unity.Tiny.Scenes.StartupScenes, Unity.Tiny.Scenes",
@@ -40,6 +54,10 @@
             }, {
                 "SceneReference": {
                     "SceneGuid": "418cf911496647569b4764f579079269"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "4e2a37f9c96d4b0aa1edb4f0d90aa2de"
                 }
             }]
         }, {
@@ -52,6 +70,14 @@
                 "StableTypeHash": 5420375325905335834
             }, {
                 "StableTypeHash": 10905411966887382884
+            }, {
+                "StableTypeHash": 5480056540912613717
+            }, {
+                "StableTypeHash": 15927553056679893747
+            }, {
+                "StableTypeHash": 8460496746671066046
+            }, {
+                "StableTypeHash": 9784221727810356328
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

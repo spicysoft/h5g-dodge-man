@@ -23,7 +23,7 @@
         }, {
             "$type": "Player, dodgeman",
             "Direction": {},
-            "Speed": 5
+            "Speed": 3
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {

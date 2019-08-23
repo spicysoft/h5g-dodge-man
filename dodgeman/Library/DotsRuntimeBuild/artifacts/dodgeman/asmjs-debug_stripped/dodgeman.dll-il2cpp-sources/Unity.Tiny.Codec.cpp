@@ -376,10 +376,10 @@ IL_001d:
 		ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* L_9 = L_8;
 		int32_t L_10 = ___codec0;
 		int32_t L_11 = L_10;
-		RuntimeObject * L_12 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 1052 : 2104), &L_11);
+		RuntimeObject * L_12 = Box(LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 940 : 1880), &L_11);
 		ArrayElementTypeCheck (L_9, L_12);
 		(L_9)->SetAt(static_cast<il2cpp_array_size_t>(0), (RuntimeObject *)L_12);
-		String_t* L_13 = String_Format_mA0ECE15446C48D0F3B656E51AF679410A30FE5FF(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2724 : 2912), L_9);
+		String_t* L_13 = String_Format_mA0ECE15446C48D0F3B656E51AF679410A30FE5FF(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 2676 : 2856), L_9);
 		ArgumentException_tAFF8E8471BCD8973F9F203E79A9E3B6ED147348D * L_14 = (ArgumentException_tAFF8E8471BCD8973F9F203E79A9E3B6ED147348D *)il2cpp_codegen_object_new(sizeof(ArgumentException_tAFF8E8471BCD8973F9F203E79A9E3B6ED147348D), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 36 : 72));
 		ArgumentException__ctor_m3172AD7EE0E8079BAA664D83720048F8B18A2310(L_14, L_13);
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_14, &CodecService_Decompress_mC0AF9C574DF9D0329E674E6C349B90CC209A23AD_RuntimeMethod_var);
