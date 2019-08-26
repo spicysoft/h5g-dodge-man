@@ -13,6 +13,9 @@
             "PlayerScene": {
                 "SceneGuid": "418cf911496647569b4764f579079269"
             },
+            "RetryScene": {
+                "SceneGuid": "475cb3d0843a489cba5bb17ea4deb028"
+            },
             "StartButtonScene": {
                 "SceneGuid": "4e2a37f9c96d4b0aa1edb4f0d90aa2de"
             },
@@ -43,6 +46,10 @@
             }, {
                 "SceneReference": {
                     "SceneGuid": "4e2a37f9c96d4b0aa1edb4f0d90aa2de"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "475cb3d0843a489cba5bb17ea4deb028"
                 }
             }]
         }, {
@@ -78,6 +85,8 @@
                 "StableTypeHash": 8460496746671066046
             }, {
                 "StableTypeHash": 9784221727810356328
+            }, {
+                "StableTypeHash": 18000180438541948211
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

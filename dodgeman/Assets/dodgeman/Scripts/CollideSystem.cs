@@ -1,5 +1,7 @@
 using Unity.Entities;
+using Unity.Tiny.Core;
 using Unity.Tiny.Core2D;
+using Unity.Tiny.Scenes;
 using Unity.Mathematics;
 
 namespace dodgeman
@@ -8,6 +10,8 @@ namespace dodgeman
     {
         protected override void OnUpdate()
         {
+            var tinyEnv = World.TinyEnvironment();
+            var config = World.TinyEnvironment().GetConfigData<GameConfig>();
 
             Entities.ForEach((Entity Entity, ref Object _object, ref Translation objectTransform) =>
             {
@@ -27,6 +31,9 @@ namespace dodgeman
                     if (math.distance(wallTrans, playerTrans) < 0.5|| math.distance(objTrans, playerTrans) < 0.5)
                     {
                         player.Collide = true;
+                        config.GameStart = false;
+
+                        tinyEnv.SetConfigData(config);
                     }
 
                 });
