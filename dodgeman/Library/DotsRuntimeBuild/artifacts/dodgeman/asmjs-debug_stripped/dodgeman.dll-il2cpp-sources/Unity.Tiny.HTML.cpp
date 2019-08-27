@@ -2298,14 +2298,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HTMLWindowSystem_InfiniteMainLoop_mB236C
 		((HTMLWindowSystem_t2423147279CBAD1F906883B06C3776140F9B6977_StaticFields*)HTMLWindowSystem_t2423147279CBAD1F906883B06C3776140F9B6977_StaticFields_Storage)->set_staticM_15(L_0);
 		// HTMLNativeCalls.set_animation_frame_callback(Marshal.GetFunctionPointerForDelegate((MainLoopDelegate)ManagedRAFCallback));
 		intptr_t L_1 = (intptr_t)HTMLWindowSystem_ManagedRAFCallback_m062A5883152184FA83E0F07F33A2D172B3586333;
-		MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD * L_2 = (MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD *)il2cpp_codegen_object_new(sizeof(MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34180 : 68344));
+		MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD * L_2 = (MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD *)il2cpp_codegen_object_new(sizeof(MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34324 : 68632));
 		MainLoopDelegate__ctor_m9202E2CEEBB9C2701EBEA6DE9D2F97D2B70DCFB8(L_2, NULL, (intptr_t)L_1);
 		L_2->set_m_ReversePInvokeWrapperPtr_2(reinterpret_cast<void*>(ReversePInvokeWrapper_HTMLWindowSystem_ManagedRAFCallback_m062A5883152184FA83E0F07F33A2D172B3586333));
 		L_2->set_m_IsDelegateOpen_3(true);
 		intptr_t L_3 = il2cpp_codegen_marshal_get_function_pointer_for_delegate(L_2);
 		HTMLNativeCalls_set_animation_frame_callback_mBA9E6143C587CA3B68DB30EE15DF5FF744759FE7((intptr_t)L_3);
 		// Console.WriteLine("HTML Main loop exiting.");
-		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54068 : 57152));
+		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54160 : 57256));
 		// }
 		return;
 	}
@@ -2348,7 +2348,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HTMLWindowSystem_OnStartRunning_mDAF2EA5
 
 IL_0017:
 	{
-		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54124 : 57216));
+		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54216 : 57320));
 	}
 
 IL_0022:
@@ -2370,7 +2370,7 @@ IL_0022:
 
 CATCH_0031:
 	{ // begin catch(System.Object)
-		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54168 : 57264));
+		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54260 : 57368));
 		__this->set_initialized_16((bool)0);
 		goto IL_0048;
 	} // end catch (depth: 1)
@@ -2386,7 +2386,7 @@ IL_0048:
 		}
 	}
 	{
-		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54280 : 57384));
+		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54372 : 57488));
 		goto IL_0138;
 	}
 
@@ -2499,7 +2499,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HTMLWindowSystem_OnDestroy_m993630CECB56
 {
 	{
 		// Console.WriteLine("HTML Window shutdown.");
-		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54308 : 57416));
+		Console_WriteLine_mAB18036738DDD7CDC00A12D77656B98594D640C1(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54400 : 57520));
 		// HTMLNativeCalls.shutdown(0);
 		HTMLNativeCalls_shutdown_mB323F4BB133A505CBBDA080B93EF6309C182CB15(0);
 		// base.OnDestroy();
@@ -2813,7 +2813,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SendMessageHandler__cctor_mF9E7F7F967780
 	{
 		// static SendMessageHandler() => RegisterSendMessage(OnSendMessage);
 		intptr_t L_0 = (intptr_t)SendMessageHandler_OnSendMessage_m8A610D8867DEF88A4C63590BAEEDFAE8937723B4;
-		RegisterSendMessageDelegate_tC4256B6B132E85204460A9428D922C9FCA005ABD * L_1 = (RegisterSendMessageDelegate_tC4256B6B132E85204460A9428D922C9FCA005ABD *)il2cpp_codegen_object_new(sizeof(RegisterSendMessageDelegate_tC4256B6B132E85204460A9428D922C9FCA005ABD), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34216 : 68416));
+		RegisterSendMessageDelegate_tC4256B6B132E85204460A9428D922C9FCA005ABD * L_1 = (RegisterSendMessageDelegate_tC4256B6B132E85204460A9428D922C9FCA005ABD *)il2cpp_codegen_object_new(sizeof(RegisterSendMessageDelegate_tC4256B6B132E85204460A9428D922C9FCA005ABD), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34360 : 68704));
 		RegisterSendMessageDelegate__ctor_m1DE9FC461A29820D94A8234BF09C6C47C91B7D78(L_1, NULL, (intptr_t)L_0);
 		L_1->set_m_ReversePInvokeWrapperPtr_2(reinterpret_cast<void*>(ReversePInvokeWrapper_SendMessageHandler_OnSendMessage_m8A610D8867DEF88A4C63590BAEEDFAE8937723B4));
 		L_1->set_m_IsDelegateOpen_3(true);

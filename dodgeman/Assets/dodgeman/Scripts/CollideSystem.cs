@@ -24,17 +24,17 @@ namespace dodgeman
                 float3 playerTrans = new float3();
 
                 Entities.ForEach((Entity playerEntity, ref Player player, ref Translation moveTestTransform) =>
-               
+
                 {
                     playerTrans = moveTestTransform.Value;
 
-                    if (math.distance(wallTrans, playerTrans) < 0.5|| math.distance(objTrans, playerTrans) < 0.5)
-                    {
-                        player.Collide = true;
-                        config.GameStart = false;
+                    //if (math.distance(wallTrans, playerTrans) < 0.5 || math.distance(objTrans, playerTrans) < 0.5)
+                    //{
+                    //    player.Collide = true;
+                    //    config.GameStart = false;
 
-                        tinyEnv.SetConfigData(config);
-                    }
+                    //    tinyEnv.SetConfigData(config);
+                    //}
 
                 });
 

@@ -21,6 +21,9 @@
             },
             "ControllerScene": {
                 "SceneGuid": "e3671b51d75742498ab99ffbc42f64fa"
+            },
+            "Effect": {
+                "SceneGuid": "865df55712f447238bb8b9b1101f0f74"
             }
         }, {
             "$type": "Unity.Tiny.Core2D.DisplayInfo, Unity.Tiny.Core2D",
@@ -50,6 +53,10 @@
             }, {
                 "SceneReference": {
                     "SceneGuid": "475cb3d0843a489cba5bb17ea4deb028"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "865df55712f447238bb8b9b1101f0f74"
                 }
             }]
         }, {
@@ -87,6 +94,10 @@
                 "StableTypeHash": 9784221727810356328
             }, {
                 "StableTypeHash": 18000180438541948211
+            }, {
+                "StableTypeHash": 17552019299991319297
+            }, {
+                "StableTypeHash": 6737822433953491988
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

@@ -10,9 +10,11 @@ namespace dodgeman
         public SceneReference RetryScene;
         public SceneReference StartButtonScene;
         public SceneReference ControllerScene;
+        public SceneReference Effect;
 
         public float RandomLimt;
         public int Score;
         public int BestScore;
+        
     }
 }

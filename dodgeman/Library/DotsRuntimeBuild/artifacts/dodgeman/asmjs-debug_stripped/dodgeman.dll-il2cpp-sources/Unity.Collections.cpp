@@ -963,7 +963,7 @@ IL_0032:
 	{
 		// throw new Exception("NativeList has yet to be allocated or has been dealocated!");
 		Exception_t * L_8 = (Exception_t *)il2cpp_codegen_object_new(sizeof(Exception_t), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192));
-		Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_8, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34996 : 37360));
+		Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_8, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 35088 : 37464));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_8, &NativeListUnsafeUtility_DeallocateList_m3043F68F08578953310D3022C144216562C8A55F_RuntimeMethod_var);
 	}
 

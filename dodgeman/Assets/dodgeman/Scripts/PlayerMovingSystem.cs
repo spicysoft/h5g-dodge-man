@@ -9,6 +9,10 @@ namespace dodgeman
     {
         protected override void OnUpdate()
         {
+            var env = World.TinyEnvironment();
+            var config = World.TinyEnvironment().GetConfigData<GameConfig>();
+            if (!config.GameStart)
+                return;
             Entities.ForEach((Entity _entity, ref Player player, ref Translation translation) =>
             {
                 var button = false;

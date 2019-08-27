@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\dodgeman\Components\BestScoreManager.cs" />
     <Compile Include="Assets\dodgeman\Components\Button.cs" />
+    <Compile Include="Assets\dodgeman\Components\Effect.cs" />
     <Compile Include="Assets\dodgeman\Components\GameConfig.cs" />
     <Compile Include="Assets\dodgeman\Components\Object.cs" />
     <Compile Include="Assets\dodgeman\Components\ObjectsManager.cs" />
@@ -74,6 +75,7 @@
     <Compile Include="Assets\dodgeman\Scripts\AssemblyInfo.cs" />
     <Compile Include="Assets\dodgeman\Scripts\BestScoerSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\CollideSystem.cs" />
+    <Compile Include="Assets\dodgeman\Scripts\EffectSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\ObjectsMovingSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\PlayerDestroySystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\PlayerMovingSystem.cs" />
