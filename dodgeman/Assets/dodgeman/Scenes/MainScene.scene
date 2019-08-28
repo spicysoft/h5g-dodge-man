@@ -774,7 +774,7 @@
             "Direction": {
                 "x": 1
             },
-            "Speed": 1,
+            "Speed": 0.1,
             "Limit": -2
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
@@ -941,7 +941,7 @@
             "Direction": {
                 "x": -1
             },
-            "Speed": 1,
+            "Speed": 0.1,
             "Limit": 2
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",

@@ -82,6 +82,7 @@
     <Compile Include="Assets\dodgeman\Scripts\RetryButtonSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\ScoreSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\StartButtonSystem.cs" />
+    <Compile Include="Assets\dodgeman\Scripts\WallInitSystem.cs" />
     <Compile Include="Assets\dodgeman\Scripts\WallMovingSystem.cs" />
     <Reference Include="Unity.Collections">
       <HintPath>C:/Users/Katsuya/Documents/UnityProject/h5g-dodge-man/dodgeman/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>

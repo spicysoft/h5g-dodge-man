@@ -17,7 +17,7 @@ namespace dodgeman
             });
             if (playerDestroy)
             {
-                //SceneService.LoadSceneAsync(World.TinyEnvironment().GetConfigData<GameConfig>().Effect);
+                SceneService.LoadSceneAsync(World.TinyEnvironment().GetConfigData<GameConfig>().Effect);
                 SceneService.UnloadAllSceneInstances(World.TinyEnvironment().GetConfigData<GameConfig>().PlayerScene);
                 SceneService.LoadSceneAsync(World.TinyEnvironment().GetConfigData<GameConfig>().RetryScene);
                 //SceneService.UnloadAllSceneInstances(World.TinyEnvironment().GetConfigData<GameConfig>().ControllerScene);

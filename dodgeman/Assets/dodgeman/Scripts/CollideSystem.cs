@@ -1,7 +1,6 @@
 using Unity.Entities;
 using Unity.Tiny.Core;
 using Unity.Tiny.Core2D;
-using Unity.Tiny.Scenes;
 using Unity.Mathematics;
 
 namespace dodgeman
@@ -23,18 +22,19 @@ namespace dodgeman
                 float3 wallTrans = wallTransform.Value;
                 float3 playerTrans = new float3();
 
-                Entities.ForEach((Entity playerEntity, ref Player player, ref Translation moveTestTransform) =>
+                Entities.ForEach((Entity playerEntity, ref Player player, ref Translation moveTestTransform ,ref Sprite2DRenderer sprite2D) =>
 
                 {
                     playerTrans = moveTestTransform.Value;
 
-                    //if (math.distance(wallTrans, playerTrans) < 0.5 || math.distance(objTrans, playerTrans) < 0.5)
-                    //{
-                    //    player.Collide = true;
-                    //    config.GameStart = false;
-
-                    //    tinyEnv.SetConfigData(config);
-                    //}
+                    if (math.distance(wallTrans, playerTrans) < 0.5 || math.distance(objTrans, playerTrans) < 0.5)
+                    {
+                       // sprite2D = player.Effect;
+                        player.Collide = true;
+                        config.GameStart = false;
+                        tinyEnv.SetConfigData(config);
+                       //EntityManager.SetComponentData(playerEntity,sprite2D);
+                    }
 
                 });
 

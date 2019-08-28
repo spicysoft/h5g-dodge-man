@@ -2323,7 +2323,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Program_Main_mBD5DDCE6FFAE5457EAAA6239EF
 	bool V_1 = false;
 	{
 		// m_World = DefaultTinyWorldInitialization.InitializeWorld("main");
-		World_tEEA075348FAEC96EE224554FCDED78254768804E * L_0 = DefaultTinyWorldInitialization_InitializeWorld_m9A28FEBC54AC016C799AE4122F1121121681B527(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54720 : 57904));
+		World_tEEA075348FAEC96EE224554FCDED78254768804E * L_0 = DefaultTinyWorldInitialization_InitializeWorld_m9A28FEBC54AC016C799AE4122F1121121681B527(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54776 : 57968));
 		((Program_t3CC9DBD0C454A0AD538CF83B54032E38A1B3A2FD_StaticFields*)Program_t3CC9DBD0C454A0AD538CF83B54032E38A1B3A2FD_StaticFields_Storage)->set_m_World_0(L_0);
 		// m_Environment = m_World.GetOrCreateSystem<TinyEnvironment>();
 		World_tEEA075348FAEC96EE224554FCDED78254768804E * L_1 = ((Program_t3CC9DBD0C454A0AD538CF83B54032E38A1B3A2FD_StaticFields*)Program_t3CC9DBD0C454A0AD538CF83B54032E38A1B3A2FD_StaticFields_Storage)->get_m_World_0();
@@ -2353,7 +2353,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Program_Main_mBD5DDCE6FFAE5457EAAA6239EF
 		// windowSystem.InfiniteMainLoop(MainLoop);
 		WindowSystem_tF884DB7AB9F209F7CE0A75B5DD0F1CB5EEE024EB * L_8 = V_0;
 		intptr_t L_9 = (intptr_t)Program_MainLoop_m282954213F14E9D3B47DF71802757BBFC4DDBB46;
-		MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD * L_10 = (MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD *)il2cpp_codegen_object_new(sizeof(MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34324 : 68632));
+		MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD * L_10 = (MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD *)il2cpp_codegen_object_new(sizeof(MainLoopDelegate_t65672A7855ABA267C6990E10DAF25368580A57BD), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 34456 : 68896));
 		MainLoopDelegate__ctor_m9202E2CEEBB9C2701EBEA6DE9D2F97D2B70DCFB8(L_10, NULL, (intptr_t)L_9);
 		L_10->set_m_ReversePInvokeWrapperPtr_2(reinterpret_cast<void*>(NULL));
 		L_10->set_m_IsDelegateOpen_3(true);
@@ -2364,7 +2364,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Program_Main_mBD5DDCE6FFAE5457EAAA6239EF
 IL_0061:
 	{
 		// Debug.Log("No window system found.");
-		Debug_Log_m16336BC0BB15472113DDA3EE3B79895A38950356(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54740 : 57928));
+		Debug_Log_m16336BC0BB15472113DDA3EE3B79895A38950356(LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54796 : 57992));
 	}
 
 IL_006e:
@@ -2519,7 +2519,7 @@ IL_00f5:
 IL_0106:
 		{
 			Exception_t * L_39 = (Exception_t *)il2cpp_codegen_object_new(sizeof(Exception_t), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192));
-			Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_39, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54796 : 57992));
+			Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_39, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54852 : 58056));
 			IL2CPP_RAISE_MANAGED_EXCEPTION(L_39, &Program_MainLoop_m282954213F14E9D3B47DF71802757BBFC4DDBB46_RuntimeMethod_var);
 		}
 
@@ -2546,7 +2546,7 @@ IL_011c:
 IL_012d:
 			{
 				Exception_t * L_44 = (Exception_t *)il2cpp_codegen_object_new(sizeof(Exception_t), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192));
-				Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_44, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54888 : 58088));
+				Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_44, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 54944 : 58152));
 				IL2CPP_RAISE_MANAGED_EXCEPTION(L_44, &Program_MainLoop_m282954213F14E9D3B47DF71802757BBFC4DDBB46_RuntimeMethod_var);
 			}
 
@@ -2636,7 +2636,7 @@ IL_017c:
 	}
 	{
 		Exception_t * L_51 = (Exception_t *)il2cpp_codegen_object_new(sizeof(Exception_t), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192));
-		Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_51, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 55036 : 58240));
+		Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_51, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 55092 : 58304));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_51, &Program_MainLoop_m282954213F14E9D3B47DF71802757BBFC4DDBB46_RuntimeMethod_var);
 	}
 
@@ -2648,7 +2648,7 @@ IL_0193:
 IL_0196:
 	{
 		Exception_t * L_52 = (Exception_t *)il2cpp_codegen_object_new(sizeof(Exception_t), LookupTypeInfoFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 96 : 192));
-		Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_52, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 55136 : 58344));
+		Exception__ctor_m94D491BE173A7638B8129AF00E590345D0321030(L_52, LookupStringFromCursor(IL2CPP_SIZEOF_VOID_P == 4 ? 55192 : 58408));
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_52, &Program_MainLoop_m282954213F14E9D3B47DF71802757BBFC4DDBB46_RuntimeMethod_var);
 	}
 

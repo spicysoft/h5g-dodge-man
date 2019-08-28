@@ -37,7 +37,7 @@ namespace dodgeman
 
                     if(translation.Value.y <= -6)
                     {
-                        translation.Value = _random.NextFloat3(new float3(x: -config.RandomLimt + 0.5f, y: 6, z: 0), new float3(x: config.RandomLimt - 0.5f, y: 6, z: 0));
+                        translation.Value = _random.NextFloat3(new float3(x: config.RandomMin + 0.5f, y: 6, z: 0), new float3(x: config.RandomMax - 0.5f, y: 6, z: 0));
                         EntityManager.SetComponentData(objects[i].Reference, translation);
                         config.Score++;
                     }

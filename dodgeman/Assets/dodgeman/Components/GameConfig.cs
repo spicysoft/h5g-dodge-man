@@ -1,5 +1,6 @@
 using Unity.Entities;
 using Unity.Tiny.Scenes;
+using Unity.Tiny.Core2D;
 
 namespace dodgeman
 {
@@ -11,10 +12,12 @@ namespace dodgeman
         public SceneReference StartButtonScene;
         public SceneReference ControllerScene;
         public SceneReference Effect;
+        public Translation DeadPosition;
 
-        public float RandomLimt;
+        public float RandomMin;
+        public float RandomMax;
         public int Score;
         public int BestScore;
-        
+
     }
 }

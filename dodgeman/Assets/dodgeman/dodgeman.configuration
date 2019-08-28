@@ -24,6 +24,9 @@
             },
             "Effect": {
                 "SceneGuid": "865df55712f447238bb8b9b1101f0f74"
+            },
+            "DeadPosition": {
+                "Value": {}
             }
         }, {
             "$type": "Unity.Tiny.Core2D.DisplayInfo, Unity.Tiny.Core2D",
@@ -98,6 +101,10 @@
                 "StableTypeHash": 17552019299991319297
             }, {
                 "StableTypeHash": 6737822433953491988
+            }, {
+                "StableTypeHash": 7440864387823836340
+            }, {
+                "StableTypeHash": 6417285457644705337
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

@@ -42,7 +42,8 @@ namespace dodgeman
                 var position = translation.Value;
                 position += player.Direction * World.TinyEnvironment().frameDeltaTime * player.Speed;
                 translation.Value = position;
-
+                config.DeadPosition.Value = translation.Value;
+                env.SetConfigData(config);
             });
         }
 

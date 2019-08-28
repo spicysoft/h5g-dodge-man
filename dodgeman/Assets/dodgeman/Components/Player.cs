@@ -1,5 +1,6 @@
 using Unity.Entities;
 using Unity.Mathematics;
+using Unity.Tiny.Core2D;
 
 public struct Player : IComponentData
 {
