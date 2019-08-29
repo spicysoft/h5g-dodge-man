@@ -6,7 +6,9 @@ namespace dodgeman
 {
     public struct GameConfig : IComponentData
     {
+        public bool Opening;
         public bool GameStart;
+        public bool EffectDelete;
         public SceneReference PlayerScene;
         public SceneReference RetryScene;
         public SceneReference StartButtonScene;

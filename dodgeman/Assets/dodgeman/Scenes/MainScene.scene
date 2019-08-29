@@ -196,7 +196,7 @@
             "Direction": {
                 "y": -1
             },
-            "Speed": 3
+            "Speed": 1
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
@@ -695,7 +695,7 @@
             "Direction": {
                 "y": -1
             },
-            "Speed": 3
+            "Speed": 1
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
@@ -704,7 +704,9 @@
         }, {
             "$type": "Unity.Tiny.Core2D.Rotation, Unity.Tiny.Core2D",
             "Value": {
-                "value": {}
+                "value": {
+                    "w": 1
+                }
             }
         }, {
             "$type": "Unity.Tiny.Core2D.NonUniformScale, Unity.Tiny.Core2D",
@@ -861,7 +863,7 @@
             "Direction": {
                 "y": -1
             },
-            "Speed": 3
+            "Speed": 1
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {

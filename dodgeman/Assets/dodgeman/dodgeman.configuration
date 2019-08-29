@@ -72,10 +72,6 @@
                 "SceneReference": {
                     "SceneGuid": "418cf911496647569b4764f579079269"
                 }
-            }, {
-                "SceneReference": {
-                    "SceneGuid": "4e2a37f9c96d4b0aa1edb4f0d90aa2de"
-                }
             }]
         }, {
             "$type": "Unity.Authoring.Core.ComponentOrder, Unity.Authoring.Core",
@@ -105,6 +101,10 @@
                 "StableTypeHash": 7440864387823836340
             }, {
                 "StableTypeHash": 6417285457644705337
+            }, {
+                "StableTypeHash": 12116259120032350241
+            }, {
+                "StableTypeHash": 3683143538601975016
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

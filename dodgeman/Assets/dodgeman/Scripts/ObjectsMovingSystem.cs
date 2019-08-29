@@ -8,6 +8,7 @@ namespace dodgeman
     public class ObjectsMovingSystem : ComponentSystem
     {
         private Random _random;
+        float _speed = 2f;
 
         protected override void OnCreate()
         {
@@ -20,7 +21,11 @@ namespace dodgeman
             var tinyEnv = World.TinyEnvironment();
             var config = World.TinyEnvironment().GetConfigData<GameConfig>();
             if (!config.GameStart)
+            {
+                _speed = 2f;
                 return;
+            }
+
             Entities.ForEach((DynamicBuffer<ObjectsManager> objects) =>{
                 for (int i = 0; i < objects.Length; i++)
                 {
@@ -29,19 +34,28 @@ namespace dodgeman
 
 
 
-                    var position = translation.Value;
+
+                   var position = translation.Value;
                     position += _object.Direction * World.TinyEnvironment().frameDeltaTime * _object.Speed;
+
                     translation.Value = position;
 
 
 
-                    if(translation.Value.y <= -6)
+                    if (translation.Value.y <= -6)
                     {
                         translation.Value = _random.NextFloat3(new float3(x: config.RandomMin + 0.5f, y: 6, z: 0), new float3(x: config.RandomMax - 0.5f, y: 6, z: 0));
                         EntityManager.SetComponentData(objects[i].Reference, translation);
                         config.Score++;
+                        if(_speed < 5f)
+                        {
+                            _speed += 0.1f;
+                        }
+
                     }
+                    _object.Speed = _speed;
                     tinyEnv.SetConfigData(config);
+
                     EntityManager.SetComponentData(objects[i].Reference, translation);
                     EntityManager.SetComponentData(objects[i].Reference, _object);
 

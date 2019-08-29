@@ -29,11 +29,9 @@ namespace dodgeman
 
                     if (math.distance(wallTrans, playerTrans) < 0.5 || math.distance(objTrans, playerTrans) < 0.5)
                     {
-                       // sprite2D = player.Effect;
                         player.Collide = true;
                         config.GameStart = false;
                         tinyEnv.SetConfigData(config);
-                       //EntityManager.SetComponentData(playerEntity,sprite2D);
                     }
 
                 });
