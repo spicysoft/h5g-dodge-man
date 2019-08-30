@@ -4,7 +4,9 @@
     "SerializedVersion": 1,
     "AssetReferences": [
         { "Guid": "525d524433131174d908bc55c44c837c", "FileId": 21300000, "Type": 3},
-        { "Guid": "8f586378b4e144a9851e7b34d9b748ee", "FileId": 11400000, "Type": 2}],
+        { "Guid": "84a8984ca249f0942a66ccaf32edc783", "FileId": 21300000, "Type": 3},
+        { "Guid": "1be7fb55f44372a44bd55587af2c2f75", "FileId": 21300000, "Type": 3},
+        { "Guid": "8149da4a0d5431149b53af5448b2e2aa", "FileId": 11400000, "Type": 2}],
     "Entities": [{
         "Components": [{
             "$type": "Unity.Tiny.UILayout.UICanvas, Unity.Tiny.UILayout",
@@ -176,6 +178,27 @@
         }]
     }, {
         "Components": [{
+            "$type": "Object, dodgeman",
+            "Direction": {
+                "y": -1
+            },
+            "Speed": 1,
+            "sprite0": {
+                "sprite": "b4b48a7ce256af38c60606bb4b4e77f9",
+                "color": {},
+                "blending": 0
+            },
+            "sprite1": {
+                "sprite": "ee5b55adddfdb5206613df5719bce790",
+                "color": {},
+                "blending": 0
+            },
+            "sprite2": {
+                "sprite": "cca4ddf7d764af80f72eb29c2318ad95",
+                "color": {},
+                "blending": 0
+            }
+        }, {
             "$type": "Unity.Tiny.Core2D.Parent, Unity.Tiny.Core2D"
         }, {
             "$type": "Unity.Tiny.Core2D.Sprite2DRenderer, Unity.Tiny.Sprite2D",
@@ -191,12 +214,6 @@
             "$type": "Unity.Entities.EntityGuid, Unity.Entities",
             "a": 624638803275369510,
             "b": 9952497100020157108
-        }, {
-            "$type": "Object, dodgeman",
-            "Direction": {
-                "y": -1
-            },
-            "Speed": 1
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
@@ -251,6 +268,8 @@
                 "StableTypeHash": 12932679046359085526
             }, {
                 "StableTypeHash": 11184622398713300725
+            }, {
+                "StableTypeHash": 8606401485141889996
             }]
         }]
     }, {
@@ -343,7 +362,7 @@
     }, {
         "Components": [{
             "$type": "Unity.Tiny.Text.Text2DStyleBitmapFont, Unity.Tiny.Text",
-            "font": "4b70dfce56d44d6d7edb3d1e1569956f"
+            "font": "08bb5512b4e3050964987c3817f4f238"
         }, {
             "$type": "Unity.Tiny.Text.Text2DRenderer, Unity.Tiny.Text",
             "style": "2141b1aaf01348b6b5cfafb07f3cb03b",
@@ -468,7 +487,7 @@
     }, {
         "Components": [{
             "$type": "Unity.Tiny.Text.Text2DStyleBitmapFont, Unity.Tiny.Text",
-            "font": "4b70dfce56d44d6d7edb3d1e1569956f"
+            "font": "08bb5512b4e3050964987c3817f4f238"
         }, {
             "$type": "Unity.Tiny.Text.Text2DRenderer, Unity.Tiny.Text",
             "style": "2141b1aaf01348b6b5cfafb07f3cb03b",
@@ -675,6 +694,27 @@
         }]
     }, {
         "Components": [{
+            "$type": "Object, dodgeman",
+            "Direction": {
+                "y": -1
+            },
+            "Speed": 1,
+            "sprite0": {
+                "sprite": "b4b48a7ce256af38c60606bb4b4e77f9",
+                "color": {},
+                "blending": 0
+            },
+            "sprite1": {
+                "sprite": "ee5b55adddfdb5206613df5719bce790",
+                "color": {},
+                "blending": 0
+            },
+            "sprite2": {
+                "sprite": "cca4ddf7d764af80f72eb29c2318ad95",
+                "color": {},
+                "blending": 0
+            }
+        }, {
             "$type": "Unity.Tiny.Core2D.Parent, Unity.Tiny.Core2D"
         }, {
             "$type": "Unity.Tiny.Core2D.Sprite2DRenderer, Unity.Tiny.Sprite2D",
@@ -690,12 +730,6 @@
             "$type": "Unity.Entities.EntityGuid, Unity.Entities",
             "a": 10118965913404785949,
             "b": 11208924673865770123
-        }, {
-            "$type": "Object, dodgeman",
-            "Direction": {
-                "y": -1
-            },
-            "Speed": 1
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
@@ -752,6 +786,8 @@
                 "StableTypeHash": 12932679046359085526
             }, {
                 "StableTypeHash": 11184622398713300725
+            }, {
+                "StableTypeHash": 8606401485141889996
             }]
         }]
     }, {
@@ -781,7 +817,7 @@
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
-                "x": -5,
+                "x": -4,
                 "y": -3
             }
         }, {
@@ -843,6 +879,27 @@
         }]
     }, {
         "Components": [{
+            "$type": "Object, dodgeman",
+            "Direction": {
+                "y": -1
+            },
+            "Speed": 1,
+            "sprite0": {
+                "sprite": "b4b48a7ce256af38c60606bb4b4e77f9",
+                "color": {},
+                "blending": 0
+            },
+            "sprite1": {
+                "sprite": "ee5b55adddfdb5206613df5719bce790",
+                "color": {},
+                "blending": 0
+            },
+            "sprite2": {
+                "sprite": "cca4ddf7d764af80f72eb29c2318ad95",
+                "color": {},
+                "blending": 0
+            }
+        }, {
             "$type": "Unity.Tiny.Core2D.Parent, Unity.Tiny.Core2D"
         }, {
             "$type": "Unity.Tiny.Core2D.Sprite2DRenderer, Unity.Tiny.Sprite2D",
@@ -858,12 +915,6 @@
             "$type": "Unity.Entities.EntityGuid, Unity.Entities",
             "a": 16837695667274992565,
             "b": 9458913041229154961
-        }, {
-            "$type": "Object, dodgeman",
-            "Direction": {
-                "y": -1
-            },
-            "Speed": 1
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
@@ -919,6 +970,8 @@
                 "StableTypeHash": 12932679046359085526
             }, {
                 "StableTypeHash": 11184622398713300725
+            }, {
+                "StableTypeHash": 8606401485141889996
             }]
         }]
     }, {
@@ -948,7 +1001,7 @@
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
-                "x": 5,
+                "x": 4,
                 "y": -3
             }
         }, {
