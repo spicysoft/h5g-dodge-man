@@ -33,7 +33,6 @@ namespace dodgeman
                     var translation = EntityManager.GetComponentData<Translation>(objects[i].Reference);
                     var sprite = EntityManager.GetComponentData<Sprite2DRenderer>(objects[i].Reference);
 
-
                     var position = translation.Value;
                     position += _object.Direction * World.TinyEnvironment().frameDeltaTime * _object.Speed;
 

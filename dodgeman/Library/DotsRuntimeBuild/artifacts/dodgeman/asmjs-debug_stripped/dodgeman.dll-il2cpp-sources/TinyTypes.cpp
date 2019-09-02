@@ -2106,7 +2106,7 @@ uintptr_t g_Il2CppTinyTypeUniverse[] =
 	0, 65539, 3624, 3625, 3626, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.RetryButtonSystem/<>c__DisplayClass2_0 - id=887
 	0, 65539, 3627, 3628, 3629, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.ScoreSystem/<>c__DisplayClass0_0 - id=888
 	0, 65539, 3630, 3631, 3632, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.StartButtonSystem/<>c__DisplayClass2_0 - id=889
-	0, 65539, 3633, 3634, 3635, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.WallMovingSystem/<>c__DisplayClass5_0 - id=890
+	0, 65539, 3633, 3634, 3635, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // dodgeman.WallMovingSystem/<>c__DisplayClass7_0 - id=890
 	0, 65539, 3636, 3637, 3638, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandlePool - id=891
 	0, 65540, 3639, 3640, 3641, 3642, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, // Unity.Collections.LowLevel.Unsafe.DisposeSentinel - id=892
 	0, 16908292, 3643, 3644, 3645, 3646, IL2CPP_SIZEOF_VOID_P == 4 ? 120 : 240, IL2CPP_SIZEOF_VOID_P == 4 ? 192 : 384, IL2CPP_SIZEOF_VOID_P == 4 ? 32824 : 65632, 

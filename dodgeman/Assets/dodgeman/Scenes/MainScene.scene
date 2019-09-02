@@ -817,7 +817,7 @@
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
-                "x": -4,
+                "x": -3.5,
                 "y": -3
             }
         }, {
@@ -1001,7 +1001,7 @@
         }, {
             "$type": "Unity.Tiny.Core2D.Translation, Unity.Tiny.Core2D",
             "Value": {
-                "x": 4,
+                "x": 3.5,
                 "y": -3
             }
         }, {

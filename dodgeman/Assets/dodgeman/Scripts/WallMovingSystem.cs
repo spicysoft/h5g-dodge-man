@@ -6,12 +6,15 @@ namespace dodgeman {
 
     public class WallMovingSystem : ComponentSystem
     {
+        int point = 0;
         bool difficultMode = false;
         bool moveRight = false;
         bool moveLeft = false;
 
         bool leftWallSet = false;
         bool rightWallSet = false;
+
+        float speed = 0.05f;
         protected override void OnUpdate()
         {
             var tinyEnv = World.TinyEnvironment();
@@ -22,6 +25,7 @@ namespace dodgeman {
                 difficultMode = false;
                 moveRight = false;
                 moveLeft = false;
+                speed = 0.05f;
                 return;
             }
 
@@ -37,7 +41,7 @@ namespace dodgeman {
                     {
                         if(position.x < wall.Limit)
                         {
-                            position += wall.Direction * World.TinyEnvironment().frameDeltaTime * wall.Speed;
+                            position += wall.Direction * World.TinyEnvironment().frameDeltaTime * speed;
                             translation.Value = position;
                         }
                         else if(position.x >= wall.Limit)
@@ -53,12 +57,12 @@ namespace dodgeman {
                     {
                         if (position.x > wall.Limit)
                         {
-                            position += wall.Direction * World.TinyEnvironment().frameDeltaTime * wall.Speed;
+                            position += wall.Direction * World.TinyEnvironment().frameDeltaTime * speed;
                             translation.Value = position;
                         }
                         else if (position.x <= wall.Limit)
                         {
-                                wall.Limit = 4;
+                                wall.Limit = 3.5f;
                                 wall.Direction.x = 1;
                                 rightWallSet = true;
 
@@ -73,12 +77,12 @@ namespace dodgeman {
                         {
                             if (position.x < wall.Limit)
                             {
-                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * wall.Speed;
+                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * speed;
                                 translation.Value = position;
                             }
                             else if (position.x >= wall.Limit)
                             {
-                                wall.Limit = -4;
+                                wall.Limit = -3.5f;
                                 wall.Direction.x = -1;
                                 leftWallSet = true;
                             }
@@ -89,7 +93,7 @@ namespace dodgeman {
                         {
                             if (position.x < wall.Limit)
                             {
-                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * wall.Speed;
+                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * speed;
                                 translation.Value = position;
                             }
                             else if (position.x >= wall.Limit)
@@ -108,7 +112,7 @@ namespace dodgeman {
                         {
                             if (position.x > wall.Limit)
                             {
-                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * wall.Speed;
+                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * speed;
                                 translation.Value = position;
                             }
                             else if (position.x <= wall.Limit)
@@ -124,12 +128,12 @@ namespace dodgeman {
                         {
                             if (position.x > wall.Limit)
                             {
-                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * wall.Speed;
+                                position += wall.Direction * World.TinyEnvironment().frameDeltaTime * speed;
                                 translation.Value = position;
                             }
                             else if (position.x <= wall.Limit)
                             {
-                                wall.Limit = 4;
+                                wall.Limit = 3.5f;
                                 wall.Direction.x = 1;
                                 rightWallSet = true;
                             }
@@ -163,8 +167,10 @@ namespace dodgeman {
                         difficultMode = false;
                         moveRight = false;
                         moveLeft = false;
-
-
+                    }
+                    if (point < config.Score && speed < 1.5f)                    {
+                        point = config.Score;
+                        speed += 0.01f;
                     }
                     EntityManager.SetComponentData(walls[i].Reference, translation);
                     EntityManager.SetComponentData(walls[i].Reference, wall);

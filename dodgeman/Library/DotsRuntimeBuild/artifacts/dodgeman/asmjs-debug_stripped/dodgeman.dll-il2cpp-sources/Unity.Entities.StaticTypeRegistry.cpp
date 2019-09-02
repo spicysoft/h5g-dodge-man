@@ -26044,51 +26044,69 @@ public:
 struct  WallMovingSystem_t2D55A24303271921BD57F77AD4E3352A85BA6483  : public ComponentSystem_t11926B8B0CA6228AF04CA706B051BDEC3B81E68B
 {
 public:
+	// System.Int32 dodgeman.WallMovingSystem::point
+	int32_t ___point_15;
 	// System.Boolean dodgeman.WallMovingSystem::difficultMode
-	bool ___difficultMode_15;
+	bool ___difficultMode_16;
 	// System.Boolean dodgeman.WallMovingSystem::moveRight
-	bool ___moveRight_16;
+	bool ___moveRight_17;
 	// System.Boolean dodgeman.WallMovingSystem::moveLeft
-	bool ___moveLeft_17;
+	bool ___moveLeft_18;
 	// System.Boolean dodgeman.WallMovingSystem::leftWallSet
-	bool ___leftWallSet_18;
+	bool ___leftWallSet_19;
 	// System.Boolean dodgeman.WallMovingSystem::rightWallSet
-	bool ___rightWallSet_19;
+	bool ___rightWallSet_20;
+	// System.Single dodgeman.WallMovingSystem::speed
+	float ___speed_21;
 
 public:
-	inline bool get_difficultMode_15() const { return ___difficultMode_15; }
-	inline bool* get_address_of_difficultMode_15() { return &___difficultMode_15; }
-	inline void set_difficultMode_15(bool value)
+	inline int32_t get_point_15() const { return ___point_15; }
+	inline int32_t* get_address_of_point_15() { return &___point_15; }
+	inline void set_point_15(int32_t value)
 	{
-		___difficultMode_15 = value;
+		___point_15 = value;
 	}
 
-	inline bool get_moveRight_16() const { return ___moveRight_16; }
-	inline bool* get_address_of_moveRight_16() { return &___moveRight_16; }
-	inline void set_moveRight_16(bool value)
+	inline bool get_difficultMode_16() const { return ___difficultMode_16; }
+	inline bool* get_address_of_difficultMode_16() { return &___difficultMode_16; }
+	inline void set_difficultMode_16(bool value)
 	{
-		___moveRight_16 = value;
+		___difficultMode_16 = value;
 	}
 
-	inline bool get_moveLeft_17() const { return ___moveLeft_17; }
-	inline bool* get_address_of_moveLeft_17() { return &___moveLeft_17; }
-	inline void set_moveLeft_17(bool value)
+	inline bool get_moveRight_17() const { return ___moveRight_17; }
+	inline bool* get_address_of_moveRight_17() { return &___moveRight_17; }
+	inline void set_moveRight_17(bool value)
 	{
-		___moveLeft_17 = value;
+		___moveRight_17 = value;
 	}
 
-	inline bool get_leftWallSet_18() const { return ___leftWallSet_18; }
-	inline bool* get_address_of_leftWallSet_18() { return &___leftWallSet_18; }
-	inline void set_leftWallSet_18(bool value)
+	inline bool get_moveLeft_18() const { return ___moveLeft_18; }
+	inline bool* get_address_of_moveLeft_18() { return &___moveLeft_18; }
+	inline void set_moveLeft_18(bool value)
 	{
-		___leftWallSet_18 = value;
+		___moveLeft_18 = value;
 	}
 
-	inline bool get_rightWallSet_19() const { return ___rightWallSet_19; }
-	inline bool* get_address_of_rightWallSet_19() { return &___rightWallSet_19; }
-	inline void set_rightWallSet_19(bool value)
+	inline bool get_leftWallSet_19() const { return ___leftWallSet_19; }
+	inline bool* get_address_of_leftWallSet_19() { return &___leftWallSet_19; }
+	inline void set_leftWallSet_19(bool value)
 	{
-		___rightWallSet_19 = value;
+		___leftWallSet_19 = value;
+	}
+
+	inline bool get_rightWallSet_20() const { return ___rightWallSet_20; }
+	inline bool* get_address_of_rightWallSet_20() { return &___rightWallSet_20; }
+	inline void set_rightWallSet_20(bool value)
+	{
+		___rightWallSet_20 = value;
+	}
+
+	inline float get_speed_21() const { return ___speed_21; }
+	inline float* get_address_of_speed_21() { return &___speed_21; }
+	inline void set_speed_21(float value)
+	{
+		___speed_21 = value;
 	}
 };
 
